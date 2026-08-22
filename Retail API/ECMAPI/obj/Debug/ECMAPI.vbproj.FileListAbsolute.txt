@@ -1,0 +1,1975 @@
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.pdb
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.exe
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\csi.exe
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Buffers.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\WebGrease.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+E:\Working\Customers\VEONEER\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbprojAssemblyReference.cache
+F:\Source\ECM\ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+F:\Source\ECM\ECMAPI\ECMAPI\bin\ECMAPI.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\ECMAPI.pdb
+F:\Source\ECM\ECMAPI\ECMAPI\bin\ECMAPI.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\csc.exe
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\csi.exe
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+F:\Source\ECM\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\EntityFramework.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Buffers.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\WebGrease.dll
+F:\Source\ECM\ECMAPI\ECMAPI\bin\EntityFramework.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+F:\Source\ECM\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+F:\Source\ECM\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbprojAssemblyReference.cache
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.pdb
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\ECMAPI.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.exe
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\csi.exe
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Buffers.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\WebGrease.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+E:\Working\Customers\Invita\Implementation\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbprojAssemblyReference.cache
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\ECMAPI.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\ECMAPI.pdb
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\ECMAPI.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\csc.exe
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\csi.exe
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\EntityFramework.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Buffers.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\WebGrease.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\EntityFramework.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+C:\Users\EZOFIS-2021A\Downloads\ECMAPI\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbprojAssemblyReference.cache
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\ECMAPI.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\ECMAPI.pdb
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\ECMAPI.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\csc.exe
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\csi.exe
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\EntityFramework.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Buffers.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\WebGrease.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\EntityFramework.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+G:\Applications\INVITA BBK\ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbprojAssemblyReference.cache
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.pdb
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csi.exe
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\itextsharp.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\itextsharp.pdfa.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Buffers.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.ComponentModel.Primitives.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.ComponentModel.TypeConverter.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\WebGrease.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\itextsharp.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Working\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Working\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.pdb
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\ECMAPI.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csi.exe
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Buffers.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\WebGrease.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Saravanan\Invita\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll.config
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.pdb
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe.config
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.rsp
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.exe
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.rsp
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.rsp
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Buffers.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Cors.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\WebActivatorEx.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\WebGrease.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Saravanan\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll.config
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.pdb
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe.config
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.rsp
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.exe
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.rsp
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.rsp
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Buffers.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Cors.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\WebActivatorEx.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\WebGrease.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Saravanan\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Buffers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Cors.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\WebActivatorEx.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\WebGrease.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll.config
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.pdb
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.exe
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.Core.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Buffers.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Cors.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\WebActivatorEx.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\WebGrease.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.dll
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.xml
+C:\Users\LENOVO\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.pdb
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll.config
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.pdb
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\ECMAPI.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.exe.config
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csc.rsp
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.exe
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\csi.rsp
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\vbc.rsp
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.Core.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Buffers.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Cors.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\WebActivatorEx.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\WebGrease.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Options.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Text.Encodings.Web.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Newtonsoft.Json.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Helpers.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Mvc.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Optimization.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.Razor.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.dll
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.xml
+C:\Users\Lenovo\Downloads\Invita ECMAPI(running) 3\Invita ECMAPI(running) 3\Invita ECMAPI(running)\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\ECMAPI.pdb
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\ECMAPI.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.exe
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\EntityFramework.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Buffers.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\WebGrease.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\EntityFramework.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CopyComplete
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Arputharaj\Current API\BBK API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Buffers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\WebGrease.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+D:\Saravanan\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll.config
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.pdb
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\ECMAPI.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.exe.config
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csc.rsp
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.exe
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\csi.rsp
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.AppContext.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.exe.config
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\vbc.rsp
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.DotNet.InternalAbstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyModel.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.Core.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Buffers.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Cors.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\WebActivatorEx.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\WebGrease.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\EntityFramework.SqlServer.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Authorization.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.ObjectPool.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Options.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.PlatformAbstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Extensions.Primitives.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Net.Http.Headers.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Swashbuckle.AspNetCore.Swagger.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Net.Http.Formatting.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Text.Encodings.Web.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.Cors.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Newtonsoft.Json.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Helpers.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Http.WebHost.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Mvc.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Optimization.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.Razor.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Deployment.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Web.WebPages.Razor.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Antlr3.Runtime.pdb
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.AssemblyReference.cache
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.Resources.resources
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.GenerateResource.cache
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.CoreCompileInputs.cache
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.vbproj.Up2Date
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\obj\Debug\ECMAPI.pdb
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Identity.Client.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.IdentityModel.Abstractions.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Memory.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Numerics.Vectors.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.Identity.Client.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\Microsoft.IdentityModel.Abstractions.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Buffers.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Memory.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Numerics.Vectors.xml
+C:\DFolder\Sara\Invita\Invita API\Invita ECMAPI\ECMAPI\bin\System.Runtime.CompilerServices.Unsafe.xml

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InvitaECMDBModelStoreContainer" CdmEntityContainer="InvitaECMDBEntities">
+    <EntitySetMapping Name="eZECMLogins">
+      <EntityTypeMapping TypeName="InvitaECMDBModel.eZECMLogin">
+        <MappingFragment StoreEntitySet="eZECMLogin">
+          <ScalarProperty Name="ECMLoginId" ColumnName="ECMLoginId" />
+          <ScalarProperty Name="IsADUser" ColumnName="IsADUser" />
+          <ScalarProperty Name="LoginName" ColumnName="LoginName" />
+          <ScalarProperty Name="Pasword" ColumnName="Pasword" />
+          <ScalarProperty Name="ECMProfileId" ColumnName="ECMProfileId" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Isdeleted" ColumnName="Isdeleted" />
+          <ScalarProperty Name="ECMUserTypeId" ColumnName="ECMUserTypeId" />
+          <ScalarProperty Name="LanguageId" ColumnName="LanguageId" />
+          <ScalarProperty Name="chart1" ColumnName="chart1" />
+          <ScalarProperty Name="chart2" ColumnName="chart2" />
+          <ScalarProperty Name="chart3" ColumnName="chart3" />
+          <ScalarProperty Name="IsFaxUser" ColumnName="IsFaxUser" />
+          <ScalarProperty Name="Signatureid" ColumnName="Signatureid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eZUserSessions">
+      <EntityTypeMapping TypeName="InvitaECMDBModel.eZUserSession">
+        <MappingFragment StoreEntitySet="eZUserSession">
+          <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+          <ScalarProperty Name="ECMLoginId" ColumnName="ECMLoginId" />
+          <ScalarProperty Name="Logged" ColumnName="Logged" />
+          <ScalarProperty Name="TemplateId" ColumnName="TemplateId" />
+          <ScalarProperty Name="itemid" ColumnName="itemid" />
+          <ScalarProperty Name="UplaodDocument" ColumnName="UplaodDocument" />
+          <ScalarProperty Name="ViewDocument" ColumnName="ViewDocument" />
+          <ScalarProperty Name="CommentsId" ColumnName="CommentsId" />
+          <ScalarProperty Name="CheckOut" ColumnName="CheckOut" />
+          <ScalarProperty Name="LinkId" ColumnName="LinkId" />
+          <ScalarProperty Name="AlertDocument" ColumnName="AlertDocument" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Isdeleted" ColumnName="Isdeleted" />
+          <ScalarProperty Name="IndexingChange" ColumnName="IndexingChange" />
+          <ScalarProperty Name="Deleted" ColumnName="Deleted" />
+          <ScalarProperty Name="bookmarks" ColumnName="bookmarks" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="checkin" ColumnName="checkin" />
+          <ScalarProperty Name="loggedfrom" ColumnName="loggedfrom" />
+          <ScalarProperty Name="loggedat" ColumnName="loggedat" />
+          <ScalarProperty Name="PrintDoc" ColumnName="PrintDoc" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eZCA_3_9_items">
+      <EntityTypeMapping TypeName="InvitaECMDBModel.eZCA_3_9_items">
+        <MappingFragment StoreEntitySet="eZCA_3_9_items">
+          <ScalarProperty Name="itemid" ColumnName="itemid" />
+          <ScalarProperty Name="ERSId" ColumnName="ERSId" />
+          <ScalarProperty Name="TemplateId" ColumnName="TemplateId" />
+          <ScalarProperty Name="RIM_Number" ColumnName="RIM Number" />
+          <ScalarProperty Name="TIN_Number" ColumnName="TIN Number" />
+          <ScalarProperty Name="RIM_Type" ColumnName="RIM Type" />
+          <ScalarProperty Name="Document_Type" ColumnName="Document Type" />
+          <ScalarProperty Name="RIM_Branch" ColumnName="RIM Branch" />
+          <ScalarProperty Name="RIM_Name" ColumnName="RIM Name" />
+          <ScalarProperty Name="File_Location" ColumnName="File Location" />
+          <ScalarProperty Name="LAST_KYC_DATE" ColumnName="LAST KYC DATE" />
+          <ScalarProperty Name="Quality_Check" ColumnName="Quality Check" />
+          <ScalarProperty Name="Account_Number" ColumnName="Account Number" />
+          <ScalarProperty Name="ifilepath" ColumnName="ifilepath" />
+          <ScalarProperty Name="ifilename" ColumnName="ifilename" />
+          <ScalarProperty Name="ifiletype" ColumnName="ifiletype" />
+          <ScalarProperty Name="eZFrom" ColumnName="eZFrom" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="dtitle" ColumnName="dtitle" />
+          <ScalarProperty Name="dauthor" ColumnName="dauthor" />
+          <ScalarProperty Name="dsubject" ColumnName="dsubject" />
+          <ScalarProperty Name="dkeywords" ColumnName="dkeywords" />
+          <ScalarProperty Name="checkout" ColumnName="checkout" />
+          <ScalarProperty Name="checkoutpath" ColumnName="checkoutpath" />
+          <ScalarProperty Name="checkoutby" ColumnName="checkoutby" />
+          <ScalarProperty Name="dstatus" ColumnName="dstatus" />
+          <ScalarProperty Name="dsize" ColumnName="dsize" />
+          <ScalarProperty Name="nopages" ColumnName="nopages" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Passwordby" ColumnName="Passwordby" />
+          <ScalarProperty Name="PasswordRemoveby" ColumnName="PasswordRemoveby" />
+          <ScalarProperty Name="Encrypt" ColumnName="Encrypt" />
+          <ScalarProperty Name="Encryptby" ColumnName="Encryptby" />
+          <ScalarProperty Name="Decryptby" ColumnName="Decryptby" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Isdeleted" ColumnName="Isdeleted" />
+          <ScalarProperty Name="Mandate_Type" ColumnName="Mandate Type" />
+          <ScalarProperty Name="File_Status" ColumnName="File Status" />
+          <ScalarProperty Name="Account_Type" ColumnName="Account Type" />
+          <ScalarProperty Name="Account_Status" ColumnName="Account Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eZWorkflowUsers">
+      <EntityTypeMapping TypeName="InvitaECMDBModel.eZWorkflowUser">
+        <MappingFragment StoreEntitySet="eZWorkflowUsers">
+          <ScalarProperty Name="WorkflowUsersId" ColumnName="WorkflowUsersId" />
+          <ScalarProperty Name="WorkflowId" ColumnName="WorkflowId" />
+          <ScalarProperty Name="ECMLoginId" ColumnName="ECMLoginId" />
+          <ScalarProperty Name="ECMGroupId" ColumnName="ECMGroupId" />
+          <ScalarProperty Name="AssignedFrom" ColumnName="AssignedFrom" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+          <ScalarProperty Name="FormId" ColumnName="FormId" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="CreatedBy" ColumnName="CreatedBy" />
+          <ScalarProperty Name="UpdatedBy" ColumnName="UpdatedBy" />
+          <ScalarProperty Name="Isdeleted" ColumnName="Isdeleted" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eZBatchFiles">
+      <EntityTypeMapping TypeName="InvitaECMDBModel.eZBatchFile">
+        <MappingFragment StoreEntitySet="eZBatchFiles">
+          <ScalarProperty Name="ExportedAt" ColumnName="ExportedAt" />
+          <ScalarProperty Name="ExportedOn" ColumnName="ExportedOn" />
+          <ScalarProperty Name="RIMNumber" ColumnName="RIMNumber" />
+          <ScalarProperty Name="Filename" ColumnName="Filename" />
+          <ScalarProperty Name="BatchId" ColumnName="BatchId" />
+          <ScalarProperty Name="BatchFileId" ColumnName="BatchFileId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

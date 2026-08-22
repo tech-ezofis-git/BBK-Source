@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InvitaECMDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="eZBatchFiles">
+    <Key>
+      <PropertyRef Name="BatchFileId" />
+    </Key>
+    <Property Name="BatchFileId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="BatchId" Type="nvarchar" MaxLength="100" />
+    <Property Name="Filename" Type="nvarchar" MaxLength="200" />
+    <Property Name="RIMNumber" Type="nvarchar" MaxLength="200" />
+    <Property Name="ExportedOn" Type="nvarchar" MaxLength="200" />
+    <Property Name="ExportedAt" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'InvitaECM.dbo.eZCA_3_9_items' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="eZCA_3_9_items">
+    <Key>
+      <PropertyRef Name="itemid" />
+      <PropertyRef Name="ERSId" />
+      <PropertyRef Name="TemplateId" />
+      <PropertyRef Name="checkoutby" />
+      <PropertyRef Name="CreatedBy" />
+      <PropertyRef Name="UpdatedBy" />
+      <PropertyRef Name="Isdeleted" />
+    </Key>
+    <Property Name="itemid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ERSId" Type="int" Nullable="false" />
+    <Property Name="TemplateId" Type="int" Nullable="false" />
+    <Property Name="RIM Number" Type="nvarchar" MaxLength="1000" />
+    <Property Name="TIN Number" Type="nvarchar" MaxLength="1000" />
+    <Property Name="RIM Type" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Document Type" Type="nvarchar" MaxLength="1000" />
+    <Property Name="RIM Branch" Type="nvarchar" MaxLength="1000" />
+    <Property Name="RIM Name" Type="nvarchar" MaxLength="1000" />
+    <Property Name="File Location" Type="nvarchar" MaxLength="1000" />
+    <Property Name="LAST KYC DATE" Type="smalldatetime" />
+    <Property Name="Quality Check" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Account Number" Type="nvarchar" MaxLength="1000" />
+    <Property Name="ifilepath" Type="nvarchar(max)" />
+    <Property Name="ifilename" Type="nvarchar(max)" />
+    <Property Name="ifiletype" Type="nvarchar" MaxLength="100" />
+    <Property Name="eZFrom" Type="nvarchar" MaxLength="100" />
+    <Property Name="version" Type="nvarchar" MaxLength="100" />
+    <Property Name="dtitle" Type="nvarchar" MaxLength="100" />
+    <Property Name="dauthor" Type="nvarchar" MaxLength="100" />
+    <Property Name="dsubject" Type="nvarchar" MaxLength="100" />
+    <Property Name="dkeywords" Type="nvarchar" MaxLength="100" />
+    <Property Name="checkout" Type="nvarchar" MaxLength="50" />
+    <Property Name="checkoutpath" Type="nvarchar" MaxLength="100" />
+    <Property Name="checkoutby" Type="int" Nullable="false" />
+    <Property Name="dstatus" Type="nvarchar" MaxLength="50" />
+    <Property Name="dsize" Type="nvarchar" MaxLength="50" />
+    <Property Name="nopages" Type="int" />
+    <Property Name="Password" Type="nvarchar(max)" />
+    <Property Name="Passwordby" Type="int" />
+    <Property Name="PasswordRemoveby" Type="int" />
+    <Property Name="Encrypt" Type="nvarchar(max)" />
+    <Property Name="Encryptby" Type="int" />
+    <Property Name="Decryptby" Type="int" />
+    <Property Name="CreatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="UpdatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="Isdeleted" Type="bit" Nullable="false" />
+    <Property Name="Mandate Type" Type="nvarchar" MaxLength="1000" />
+    <Property Name="File Status" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Account Type" Type="nvarchar" MaxLength="1000" />
+    <Property Name="Account Status" Type="nvarchar" MaxLength="1000" />
+  </EntityType>
+  <EntityType Name="eZECMLogin">
+    <Key>
+      <PropertyRef Name="ECMLoginId" />
+    </Key>
+    <Property Name="ECMLoginId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsADUser" Type="bit" Nullable="false" />
+    <Property Name="LoginName" Type="nvarchar" MaxLength="140" />
+    <Property Name="Pasword" Type="nvarchar" MaxLength="100" />
+    <Property Name="ECMProfileId" Type="int" Nullable="false" />
+    <Property Name="CreatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="UpdatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="Isdeleted" Type="bit" Nullable="false" />
+    <Property Name="ECMUserTypeId" Type="int" Nullable="false" />
+    <Property Name="LanguageId" Type="int" Nullable="false" />
+    <Property Name="chart1" Type="int" />
+    <Property Name="chart2" Type="int" />
+    <Property Name="chart3" Type="int" />
+    <Property Name="IsFaxUser" Type="bit" />
+    <Property Name="Signatureid" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="eZUserSession">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ECMLoginId" Type="int" Nullable="false" />
+    <Property Name="Logged" Type="int" />
+    <Property Name="TemplateId" Type="int" Nullable="false" />
+    <Property Name="itemid" Type="int" Nullable="false" />
+    <Property Name="UplaodDocument" Type="bit" Nullable="false" />
+    <Property Name="ViewDocument" Type="bit" Nullable="false" />
+    <Property Name="CommentsId" Type="int" Nullable="false" />
+    <Property Name="CheckOut" Type="bit" Nullable="false" />
+    <Property Name="LinkId" Type="int" Nullable="false" />
+    <Property Name="AlertDocument" Type="bit" Nullable="false" />
+    <Property Name="CreatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="UpdatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="CreatedBy" Type="int" Nullable="false" />
+    <Property Name="UpdatedBy" Type="int" Nullable="false" />
+    <Property Name="Isdeleted" Type="bit" Nullable="false" />
+    <Property Name="IndexingChange" Type="bit" Nullable="false" />
+    <Property Name="Deleted" Type="int" />
+    <Property Name="bookmarks" Type="int" Nullable="false" />
+    <Property Name="email" Type="int" Nullable="false" />
+    <Property Name="checkin" Type="int" Nullable="false" />
+    <Property Name="loggedfrom" Type="nvarchar" MaxLength="200" Nullable="false" />
+    <Property Name="loggedat" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="PrintDoc" Type="bit" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'InvitaECM.dbo.eZWorkflowUsers' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="eZWorkflowUsers">
+    <Key>
+      <PropertyRef Name="WorkflowUsersId" />
+      <PropertyRef Name="WorkflowId" />
+      <PropertyRef Name="ECMLoginId" />
+      <PropertyRef Name="Isdeleted" />
+    </Key>
+    <Property Name="WorkflowUsersId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="WorkflowId" Type="int" Nullable="false" />
+    <Property Name="ECMLoginId" Type="int" Nullable="false" />
+    <Property Name="ECMGroupId" Type="int" />
+    <Property Name="AssignedFrom" Type="nvarchar" MaxLength="200" />
+    <Property Name="UserType" Type="nvarchar" MaxLength="100" />
+    <Property Name="FormId" Type="int" />
+    <Property Name="CreatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="UpdatedOn" Type="nvarchar" MaxLength="100" />
+    <Property Name="CreatedBy" Type="int" />
+    <Property Name="UpdatedBy" Type="int" />
+    <Property Name="Isdeleted" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="InvitaECMDBModelStoreContainer">
+    <EntitySet Name="eZBatchFiles" EntityType="Self.eZBatchFiles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="eZECMLogin" EntityType="Self.eZECMLogin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="eZUserSession" EntityType="Self.eZUserSession" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="eZCA_3_9_items" EntityType="Self.eZCA_3_9_items" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [eZCA_3_9_items].[itemid] AS [itemid], 
+    [eZCA_3_9_items].[ERSId] AS [ERSId], 
+    [eZCA_3_9_items].[TemplateId] AS [TemplateId], 
+    [eZCA_3_9_items].[RIM Number] AS [RIM Number], 
+    [eZCA_3_9_items].[TIN Number] AS [TIN Number], 
+    [eZCA_3_9_items].[RIM Type] AS [RIM Type], 
+    [eZCA_3_9_items].[Document Type] AS [Document Type], 
+    [eZCA_3_9_items].[RIM Branch] AS [RIM Branch], 
+    [eZCA_3_9_items].[RIM Name] AS [RIM Name], 
+    [eZCA_3_9_items].[File Location] AS [File Location], 
+    [eZCA_3_9_items].[LAST KYC DATE] AS [LAST KYC DATE], 
+    [eZCA_3_9_items].[Quality Check] AS [Quality Check], 
+    [eZCA_3_9_items].[Account Number] AS [Account Number], 
+    [eZCA_3_9_items].[ifilepath] AS [ifilepath], 
+    [eZCA_3_9_items].[ifilename] AS [ifilename], 
+    [eZCA_3_9_items].[ifiletype] AS [ifiletype], 
+    [eZCA_3_9_items].[eZFrom] AS [eZFrom], 
+    [eZCA_3_9_items].[version] AS [version], 
+    [eZCA_3_9_items].[dtitle] AS [dtitle], 
+    [eZCA_3_9_items].[dauthor] AS [dauthor], 
+    [eZCA_3_9_items].[dsubject] AS [dsubject], 
+    [eZCA_3_9_items].[dkeywords] AS [dkeywords], 
+    [eZCA_3_9_items].[checkout] AS [checkout], 
+    [eZCA_3_9_items].[checkoutpath] AS [checkoutpath], 
+    [eZCA_3_9_items].[checkoutby] AS [checkoutby], 
+    [eZCA_3_9_items].[dstatus] AS [dstatus], 
+    [eZCA_3_9_items].[dsize] AS [dsize], 
+    [eZCA_3_9_items].[nopages] AS [nopages], 
+    [eZCA_3_9_items].[Password] AS [Password], 
+    [eZCA_3_9_items].[Passwordby] AS [Passwordby], 
+    [eZCA_3_9_items].[PasswordRemoveby] AS [PasswordRemoveby], 
+    [eZCA_3_9_items].[Encrypt] AS [Encrypt], 
+    [eZCA_3_9_items].[Encryptby] AS [Encryptby], 
+    [eZCA_3_9_items].[Decryptby] AS [Decryptby], 
+    [eZCA_3_9_items].[CreatedOn] AS [CreatedOn], 
+    [eZCA_3_9_items].[UpdatedOn] AS [UpdatedOn], 
+    [eZCA_3_9_items].[CreatedBy] AS [CreatedBy], 
+    [eZCA_3_9_items].[UpdatedBy] AS [UpdatedBy], 
+    [eZCA_3_9_items].[Isdeleted] AS [Isdeleted], 
+    [eZCA_3_9_items].[Mandate Type] AS [Mandate Type], 
+    [eZCA_3_9_items].[File Status] AS [File Status], 
+    [eZCA_3_9_items].[Account Type] AS [Account Type], 
+    [eZCA_3_9_items].[Account Status] AS [Account Status]
+    FROM [dbo].[eZCA_3_9_items] AS [eZCA_3_9_items]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="eZWorkflowUsers" EntityType="Self.eZWorkflowUsers" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [eZWorkflowUsers].[WorkflowUsersId] AS [WorkflowUsersId], 
+    [eZWorkflowUsers].[WorkflowId] AS [WorkflowId], 
+    [eZWorkflowUsers].[ECMLoginId] AS [ECMLoginId], 
+    [eZWorkflowUsers].[ECMGroupId] AS [ECMGroupId], 
+    [eZWorkflowUsers].[AssignedFrom] AS [AssignedFrom], 
+    [eZWorkflowUsers].[UserType] AS [UserType], 
+    [eZWorkflowUsers].[FormId] AS [FormId], 
+    [eZWorkflowUsers].[CreatedOn] AS [CreatedOn], 
+    [eZWorkflowUsers].[UpdatedOn] AS [UpdatedOn], 
+    [eZWorkflowUsers].[CreatedBy] AS [CreatedBy], 
+    [eZWorkflowUsers].[UpdatedBy] AS [UpdatedBy], 
+    [eZWorkflowUsers].[Isdeleted] AS [Isdeleted]
+    FROM [dbo].[eZWorkflowUsers] AS [eZWorkflowUsers]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

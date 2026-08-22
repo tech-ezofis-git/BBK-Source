@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="InvitaECMDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="eZECMLogin">
+    <Key>
+      <PropertyRef Name="ECMLoginId" />
+    </Key>
+    <Property Name="ECMLoginId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IsADUser" Type="Boolean" Nullable="false" />
+    <Property Name="LoginName" Type="String" MaxLength="140" FixedLength="false" Unicode="true" />
+    <Property Name="Pasword" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="ECMProfileId" Type="Int32" Nullable="false" />
+    <Property Name="CreatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UpdatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+    <Property Name="UpdatedBy" Type="Int32" Nullable="false" />
+    <Property Name="Isdeleted" Type="Boolean" Nullable="false" />
+    <Property Name="ECMUserTypeId" Type="Int32" Nullable="false" />
+    <Property Name="LanguageId" Type="Int32" Nullable="false" />
+    <Property Name="chart1" Type="Int32" />
+    <Property Name="chart2" Type="Int32" />
+    <Property Name="chart3" Type="Int32" />
+    <Property Name="IsFaxUser" Type="Boolean" />
+    <Property Name="Signatureid" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="eZUserSession">
+    <Key>
+      <PropertyRef Name="SessionId" />
+    </Key>
+    <Property Name="SessionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ECMLoginId" Type="Int32" Nullable="false" />
+    <Property Name="Logged" Type="Int32" />
+    <Property Name="TemplateId" Type="Int32" Nullable="false" />
+    <Property Name="itemid" Type="Int32" Nullable="false" />
+    <Property Name="UplaodDocument" Type="Boolean" Nullable="false" />
+    <Property Name="ViewDocument" Type="Boolean" Nullable="false" />
+    <Property Name="CommentsId" Type="Int32" Nullable="false" />
+    <Property Name="CheckOut" Type="Boolean" Nullable="false" />
+    <Property Name="LinkId" Type="Int32" Nullable="false" />
+    <Property Name="AlertDocument" Type="Boolean" Nullable="false" />
+    <Property Name="CreatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UpdatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+    <Property Name="UpdatedBy" Type="Int32" Nullable="false" />
+    <Property Name="Isdeleted" Type="Boolean" Nullable="false" />
+    <Property Name="IndexingChange" Type="Boolean" Nullable="false" />
+    <Property Name="Deleted" Type="Int32" />
+    <Property Name="bookmarks" Type="Int32" Nullable="false" />
+    <Property Name="email" Type="Int32" Nullable="false" />
+    <Property Name="checkin" Type="Int32" Nullable="false" />
+    <Property Name="loggedfrom" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="loggedat" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PrintDoc" Type="Boolean" />
+  </EntityType>
+  <EntityType Name="eZCA_3_9_items">
+    <Key>
+      <PropertyRef Name="itemid" />
+      <PropertyRef Name="ERSId" />
+      <PropertyRef Name="TemplateId" />
+      <PropertyRef Name="checkoutby" />
+      <PropertyRef Name="CreatedBy" />
+      <PropertyRef Name="UpdatedBy" />
+      <PropertyRef Name="Isdeleted" />
+    </Key>
+    <Property Name="itemid" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ERSId" Type="Int32" Nullable="false" />
+    <Property Name="TemplateId" Type="Int32" Nullable="false" />
+    <Property Name="RIM_Number" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="TIN_Number" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="RIM_Type" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Document_Type" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="RIM_Branch" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="RIM_Name" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="File_Location" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="LAST_KYC_DATE" Type="DateTime" Precision="0" />
+    <Property Name="Quality_Check" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Account_Number" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="ifilepath" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ifilename" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="ifiletype" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="eZFrom" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="version" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="dtitle" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="dauthor" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="dsubject" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="dkeywords" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="checkout" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="checkoutpath" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="checkoutby" Type="Int32" Nullable="false" />
+    <Property Name="dstatus" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="dsize" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="nopages" Type="Int32" />
+    <Property Name="Password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Passwordby" Type="Int32" />
+    <Property Name="PasswordRemoveby" Type="Int32" />
+    <Property Name="Encrypt" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Encryptby" Type="Int32" />
+    <Property Name="Decryptby" Type="Int32" />
+    <Property Name="CreatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UpdatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="Int32" Nullable="false" />
+    <Property Name="UpdatedBy" Type="Int32" Nullable="false" />
+    <Property Name="Isdeleted" Type="Boolean" Nullable="false" />
+    <Property Name="Mandate_Type" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="File_Status" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Account_Type" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="Account_Status" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="eZWorkflowUser">
+    <Key>
+      <PropertyRef Name="WorkflowUsersId" />
+      <PropertyRef Name="WorkflowId" />
+      <PropertyRef Name="ECMLoginId" />
+      <PropertyRef Name="Isdeleted" />
+    </Key>
+    <Property Name="WorkflowUsersId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="WorkflowId" Type="Int32" Nullable="false" />
+    <Property Name="ECMLoginId" Type="Int32" Nullable="false" />
+    <Property Name="ECMGroupId" Type="Int32" />
+    <Property Name="AssignedFrom" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="UserType" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="FormId" Type="Int32" />
+    <Property Name="CreatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="UpdatedOn" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="CreatedBy" Type="Int32" />
+    <Property Name="UpdatedBy" Type="Int32" />
+    <Property Name="Isdeleted" Type="Boolean" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="InvitaECMDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="eZECMLogins" EntityType="Self.eZECMLogin" />
+    <EntitySet Name="eZUserSessions" EntityType="Self.eZUserSession" />
+    <EntitySet Name="eZCA_3_9_items" EntityType="Self.eZCA_3_9_items" />
+    <EntitySet Name="eZWorkflowUsers" EntityType="Self.eZWorkflowUser" />
+    <FunctionImport Name="FindFileName" ReturnType="Collection(String)">
+      <Parameter Name="Itemid" Mode="In" Type="String" />
+      <Parameter Name="TemplateId" Mode="In" Type="String" />
+    </FunctionImport>
+    <EntitySet Name="eZBatchFiles" EntityType="InvitaECMDBModel.eZBatchFile" />
+  </EntityContainer>
+  <EntityType Name="eZBatchFile">
+    <Key>
+      <PropertyRef Name="BatchFileId" />
+    </Key>
+    <Property Name="BatchFileId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="BatchId" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="Filename" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="RIMNumber" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ExportedOn" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="ExportedAt" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+</Schema>

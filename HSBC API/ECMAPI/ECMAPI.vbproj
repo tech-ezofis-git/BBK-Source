@@ -1,0 +1,1052 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ECMAPI</RootNamespace>
+    <AssemblyName>ECMAPI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>false</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ECMAPI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DocumentationFile>ECMAPI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="dtSearch.Spider2, Version=1.0.5867.40255, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\dtSearch.Spider2.dll</HintPath>
+    </Reference>
+    <Reference Include="dtSearchNetApi2, Version=7.82.8339.40229, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\dtSearchNetApi2.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp">
+      <HintPath>..\..\..\Web API\Cloud\ezSBSMTWEBAPI\ezSBSMTWEBAPI\bin\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.pdfa">
+      <HintPath>..\..\..\Web API\Cloud\ezSBSMTWEBAPI\ezSBSMTWEBAPI\bin\itextsharp.pdfa.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Authorization, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Authorization.1.0.3\lib\net451\Microsoft.AspNetCore.Authorization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Hosting.Abstractions, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Hosting.Abstractions.1.0.3\lib\net451\Microsoft.AspNetCore.Hosting.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Hosting.Server.Abstractions, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Hosting.Server.Abstractions.1.0.3\lib\net451\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.1.0.3\lib\net451\Microsoft.AspNetCore.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Abstractions, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Abstractions.1.0.3\lib\net451\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Extensions, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Extensions.1.0.3\lib\net451\Microsoft.AspNetCore.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Http.Features, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Http.Features.1.0.3\lib\net451\Microsoft.AspNetCore.Http.Features.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.JsonPatch, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.JsonPatch.1.0.0\lib\netstandard1.1\Microsoft.AspNetCore.JsonPatch.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Abstractions, Version=1.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Mvc.Abstractions.1.0.4\lib\net451\Microsoft.AspNetCore.Mvc.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Core, Version=1.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Mvc.Core.1.0.4\lib\net451\Microsoft.AspNetCore.Mvc.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Mvc.Formatters.Json, Version=1.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Mvc.Formatters.Json.1.0.4\lib\net451\Microsoft.AspNetCore.Mvc.Formatters.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Routing, Version=1.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Routing.1.0.4\lib\net451\Microsoft.AspNetCore.Routing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.Routing.Abstractions, Version=1.0.4.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.Routing.Abstractions.1.0.4\lib\net451\Microsoft.AspNetCore.Routing.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNetCore.WebUtilities, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNetCore.WebUtilities.1.0.3\lib\net451\Microsoft.AspNetCore.WebUtilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.DotNet.InternalAbstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.DotNet.InternalAbstractions.1.0.0\lib\net451\Microsoft.DotNet.InternalAbstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Configuration.Abstractions, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Configuration.Abstractions.1.0.2\lib\netstandard1.0\Microsoft.Extensions.Configuration.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyInjection.Abstractions.1.0.2\lib\netstandard1.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyModel, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.DependencyModel.1.0.0\lib\net451\Microsoft.Extensions.DependencyModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.FileProviders.Abstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.FileProviders.Abstractions.1.0.1\lib\netstandard1.0\Microsoft.Extensions.FileProviders.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Logging.Abstractions.1.0.2\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.ObjectPool, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.ObjectPool.1.0.1\lib\net451\Microsoft.Extensions.ObjectPool.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Options, Version=1.0.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Options.1.0.2\lib\netstandard1.0\Microsoft.Extensions.Options.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.PlatformAbstractions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.PlatformAbstractions.1.0.0\lib\net451\Microsoft.Extensions.PlatformAbstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Primitives, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Extensions.Primitives.1.0.1\lib\netstandard1.0\Microsoft.Extensions.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Identity.Client, Version=4.74.1.0, Culture=neutral, PublicKeyToken=0a613f4dd989e8ae, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Identity.Client.4.74.1\lib\net472\Microsoft.Identity.Client.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.IdentityModel.Abstractions, Version=6.35.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.IdentityModel.Abstractions.6.35.0\lib\net472\Microsoft.IdentityModel.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Net.Http.Headers, Version=1.0.3.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Net.Http.Headers.1.0.3\lib\netstandard1.1\Microsoft.Net.Http.Headers.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Web.v20, Version=6.9.8.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\MySql.Web.v20.dll</HintPath>
+    </Reference>
+    <Reference Include="Swashbuckle.AspNetCore.Swagger, Version=3.0.0.0, Culture=neutral, PublicKeyToken=62657d7474907593, processorArchitecture=MSIL">
+      <HintPath>..\packages\Swashbuckle.AspNetCore.Swagger.3.0.0\lib\net451\Swashbuckle.AspNetCore.Swagger.dll</HintPath>
+    </Reference>
+    <Reference Include="Swashbuckle.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=cd1bb07a5ac7c7bc, processorArchitecture=MSIL">
+      <HintPath>..\packages\Swashbuckle.Core.5.6.0\lib\net40\Swashbuckle.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.Primitives, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.Primitives.4.1.0\lib\net45\System.ComponentModel.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.TypeConverter, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ComponentModel.TypeConverter.4.1.0\lib\net45\System.ComponentModel.TypeConverter.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Diagnostics.DiagnosticSource, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Diagnostics.DiagnosticSource.6.0.1\lib\net461\System.Diagnostics.DiagnosticSource.dll</HintPath>
+    </Reference>
+    <Reference Include="System.DirectoryServices.AccountManagement" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IdentityModel" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Memory, Version=4.0.1.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.4\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security" />
+    <Reference Include="System.Text.Encodings.Web, Version=4.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.4.0.1\lib\netstandard1.0\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.7\lib\net45\System.Web.Cors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.7\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.Cors, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.7\lib\net45\System.Web.Http.Cors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.4\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.4.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.4\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.4\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.4\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebActivatorEx.2.0\lib\net40\WebActivatorEx.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Collections.Specialized" />
+    <Import Include="System.Configuration" />
+    <Import Include="System.Text" />
+    <Import Include="System.Text.RegularExpressions" />
+    <Import Include="System.Web" />
+    <Import Include="System.Web.Caching" />
+    <Import Include="System.Web.Mvc" />
+    <Import Include="System.Web.Mvc.Ajax" />
+    <Import Include="System.Web.Mvc.Html" />
+    <Import Include="System.Web.Routing" />
+    <Import Include="System.Web.SessionState" />
+    <Import Include="System.Web.Security" />
+    <Import Include="System.Web.Profile" />
+    <Import Include="System.Web.UI" />
+    <Import Include="System.Web.UI.WebControls" />
+    <Import Include="System.Web.UI.WebControls.WebParts" />
+    <Import Include="System.Web.UI.HtmlControls" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.vb" />
+    <Compile Include="App_Start\FilterConfig.vb" />
+    <Compile Include="App_Start\RouteConfig.vb" />
+    <Compile Include="App_Start\SwaggerConfig.vb" />
+    <Compile Include="App_Start\WebApiConfig.vb" />
+    <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.vb" />
+    <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.vb" />
+    <Compile Include="Areas\HelpPage\Controllers\HelpController.vb" />
+    <Compile Include="Areas\HelpPage\HelpPageAreaRegistration.vb" />
+    <Compile Include="Areas\HelpPage\HelpPageConfigurationExtensions.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\CollectionModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumValueDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameAttribute.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameHelper.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterAnnotation.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterDescription.vb" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.vb" />
+    <Compile Include="Areas\HelpPage\Models\HelpPageApiModel.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleKey.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ImageSample.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\InvalidSample.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ObjectGenerator.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.vb" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.vb" />
+    <Compile Include="Areas\HelpPage\XmlDocumentationProvider.vb" />
+    <Compile Include="Controllers\CMAPController.vb" />
+    <Compile Include="Controllers\CommonController.vb" />
+    <Compile Include="Controllers\ExternalController.vb" />
+    <Compile Include="Controllers\eZBatchFilesController.vb" />
+    <Compile Include="Controllers\eZCabinetAndTemplateController.vb" />
+    <Compile Include="Controllers\eZCA_3_9_itemsController.vb" />
+    <Compile Include="Controllers\eZUserSessionsController.vb" />
+    <Compile Include="Controllers\FormController.vb" />
+    <Compile Include="Controllers\ProcessController.vb" />
+    <Compile Include="Controllers\ReportController.vb" />
+    <Compile Include="Controllers\TransactionController.vb" />
+    <Compile Include="Controllers\UserController.vb" />
+    <Compile Include="Controllers\WorkflowController.vb" />
+    <Compile Include="Global.asax.vb">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Common\ConnectUNCWithCredentials.vb" />
+    <Compile Include="Models\Common\CSVData.vb" />
+    <Compile Include="Models\Common\FaultException.vb" />
+    <Compile Include="Models\Common\ParaVariables.vb" />
+    <Compile Include="Models\Common\PropertyComparer.vb" />
+    <Compile Include="Models\Common\SharedGetFunction.vb" />
+    <Compile Include="Models\Entity\ECMModel.Context.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ECMModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\ECMModel.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ECMModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\ECMModel.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\eZBatchFile.vb">
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\eZCA_3_9_items.vb">
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\eZECMLogin.vb">
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\eZUserSession.vb">
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Entity\eZWorkflowUser.vb">
+      <DependentUpon>ECMModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\Layer\DBLayer\ActiveDirectory\DBLayereZADUsers.vb" />
+    <Compile Include="Models\Layer\DBLayer\ActiveDirectory\DBLayereZLdapConnection.vb" />
+    <Compile Include="Models\Layer\DBLayer\ActiveDirectory\DBLayereZRCConatcts.vb" />
+    <Compile Include="Models\Layer\DBLayer\Collaboration\DBLayereZCollaboration.vb" />
+    <Compile Include="Models\Layer\DBLayer\Collaboration\DBLayereZCollaborationUserDetails.vb" />
+    <Compile Include="Models\Layer\DBLayer\Collaboration\DBLayereZTaskComments.vb" />
+    <Compile Include="Models\Layer\DBLayer\DB Configuration\DBLayerDBCreation.vb" />
+    <Compile Include="Models\Layer\DBLayer\DB Configuration\OLEDB.vb" />
+    <Compile Include="Models\Layer\DBLayer\DBLayerCommon.vb" />
+    <Compile Include="Models\Layer\DBLayer\DBlayereZLicenseMaintenance.vb" />
+    <Compile Include="Models\Layer\DBLayer\Files\DBLayereZHideFile.vb" />
+    <Compile Include="Models\Layer\DBLayer\Files\DBLayereZHideFileUsers.vb" />
+    <Compile Include="Models\Layer\DBLayer\Files\DBLayereZHidePages.vb" />
+    <Compile Include="Models\Layer\DBLayer\Files\DBLayerezSupportFiles.vb" />
+    <Compile Include="Models\Layer\DBLayer\FolderMonitor\DBLayereZFolderMonitor.vb" />
+    <Compile Include="Models\Layer\DBLayer\FolderMonitor\DBLayereZUnProcessedFiles.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFormControlDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFormControlValue.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFormValidation.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFrmControlDataType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFrmControlType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Form\DBLayereZFrmDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLinkedItems.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookup.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupClientField.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupConnection.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupFields.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupServerType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupSPparameters.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayerezlookupsynchistory.vb" />
+    <Compile Include="Models\Layer\DBLayer\Integration\DBLayereZLookupType.vb" />
+    <Compile Include="Models\Layer\DBLayer\License\DBLayerClientApproval.vb" />
+    <Compile Include="Models\Layer\DBLayer\License\DBLayereZClient.vb" />
+    <Compile Include="Models\Layer\DBLayer\Mail\DBLayereZMailArchiveValue.vb" />
+    <Compile Include="Models\Layer\DBLayer\Mail\DBLayereZMailTriggering.vb" />
+    <Compile Include="Models\Layer\DBLayer\Mail\DBLayerezMailTriggerTypes.vb" />
+    <Compile Include="Models\Layer\DBLayer\Mail\DBLayereZMailType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Mail\DBLayereZUnAuthorisedMail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayerCabinet.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayerCabinetOwner.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayerERS.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZBarcodeType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZERSIPs.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZERSSync.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZERSSync_History.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZFolders.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayerezFoldersByUser.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZFoldersForTemp.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZHierarchy.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZInbox.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZIndexingChange.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZPdfProperties.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZPrivateFolders.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZTempBarcode.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZTempDatatype.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZTemplateField.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayereZTemplateUserFields.vb" />
+    <Compile Include="Models\Layer\DBLayer\Manage Cabinets\DBLayerTemplate.vb" />
+    <Compile Include="Models\Layer\DBLayer\Map\DBLayereZMapFields.vb" />
+    <Compile Include="Models\Layer\DBLayer\Map\DBLayereZMapLocation.vb" />
+    <Compile Include="Models\Layer\DBLayer\Map\DBLayereZMapTemplate.vb" />
+    <Compile Include="Models\Layer\DBLayer\Notification\DBLayerezNotification.vb" />
+    <Compile Include="Models\Layer\DBLayer\Oracle\DBLayerOracle.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayareeZMailConfig.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayareZDocumentLink.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayareZDuplicateType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayareZFilesCopyLink.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZAlert.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZAlertCondition.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZAllottedTask.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZAlternateField.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZApplication.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZBodyHtmlType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZBookMarks.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZBookMarksDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZComments.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZCondition.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZDocumentAlert.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZDtSearchPath.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFax.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFaxReceiver.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFaxReceiverRule.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFaxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFieldAlert.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFieldAlertDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFieldAlertDoc.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZFieldAlertTemp.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZInboxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZIntegrationDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZLanguage.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZLicense.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZLicenseClients.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZMail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZMailArchive.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZMailArchiveRuleType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZMailSettings.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBlayereZMailWatchingCondition.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBlayereZMailWatchingDetails.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZMailWatchingStatus.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZOutlookContact.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZOutlooksync.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZOutlookSync_History.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZRegistration.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZReminder.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZSchedule.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZScheduleType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZTask.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZTaskType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZTaskUsers.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZtest.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZTrialLicense.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZWorkFlow.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZWorkFlowProcess.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZWorkFlowRelation.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZWorkFlowType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayereZZonal.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayerGenrl.vb" />
+    <Compile Include="Models\Layer\DBLayer\Others\DBLayerSyncTable.vb" />
+    <Compile Include="Models\Layer\DBLayer\Outlook\DBLayereZOutlookDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Profile Security\DBLayereZECMProfileTemplate.vb" />
+    <Compile Include="Models\Layer\DBLayer\Profile Security\DBLayereZECMProfileUsers.vb" />
+    <Compile Include="Models\Layer\DBLayer\Retention\DBLayerezRetentionMail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Retention\DBLayerezRetentionRule.vb" />
+    <Compile Include="Models\Layer\DBLayer\Scan\DBLayereZScanBatch.vb" />
+    <Compile Include="Models\Layer\DBLayer\Scan\DBLayerezScannedImg.vb" />
+    <Compile Include="Models\Layer\DBLayer\Scan\DBLayereZScanSettings.vb" />
+    <Compile Include="Models\Layer\DBLayer\Schedule\DBLayerezEscalation.vb" />
+    <Compile Include="Models\Layer\DBLayer\Schedule\DBLayerezEscalationHistory.vb" />
+    <Compile Include="Models\Layer\DBLayer\Schedule\DBLayerezEscalationUser.vb" />
+    <Compile Include="Models\Layer\DBLayer\Schedule\DBLayereZScheduleDetail.vb" />
+    <Compile Include="Models\Layer\DBLayer\Schedule\DBLayereZScheduleFor.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZECMCabinetLevel.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZECMControl.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZECMControlLevel.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZECMDocumentLevel.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZECMFieldLevel.vb" />
+    <Compile Include="Models\Layer\DBLayer\Security\DBLayereZImpersonation.vb" />
+    <Compile Include="Models\Layer\DBLayer\SqlHelper.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZChart.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZChartType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMGroup.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMGroupusers.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMLogin.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMProfile.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMUserInfo.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayereZECMUserType.vb" />
+    <Compile Include="Models\Layer\DBLayer\Users And Groups\DBLayerProfile.vb" />
+    <Compile Include="Models\Layer\DBLayer\Vault\DBLayereZVaultId.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereeZWFlowTransation.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereeZWFProcess.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereeZWorkflowDetails.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereZFormUsers.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereZProcessItems.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereZWFlowFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLayer\Workflow\DBLayereZWorkflowUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\ActiveDirectory\IeZADUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\ActiveDirectory\IeZLdapConnection.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\ActiveDirectory\IeZRCContacts.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Collaboration\IeZCollaboration.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Collaboration\IeZCollaborationUserDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Collaboration\IeZTaskComments.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Error\IErrorMessage.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Files\IeZHideFile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Files\IeZHideFileUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Files\IeZHidePages.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Files\IezSupportFiles.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\FolderMonitor\IeZFolderMonitor.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\FolderMonitor\IeZUnProcessedFiles.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFormControlDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFormControlValue.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IezForms.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFormValidation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFrmControlDataType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IeZFrmControlType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Form\IezFrmDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\IDatabaseItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\IInstance.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLinkedItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookup.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupClientField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupConnection.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupServerType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupSPparameters.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\Iezlookupsynchistory.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Integration\IeZLookupType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\License\IeZClient.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\License\IeZClientAppproval.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Mail\IeZMailArchiveValue.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Mail\IeZMailTriggering.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Mail\IezMailTriggerTypes.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Mail\IeZMailType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Mail\IeZUnAuthorisedMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZBarcodeType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZCabinet.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZCabOwners.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZDuplicateType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZERSInfo.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZERSIPs.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZERSSync.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZERSSync_History.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZFolders.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IezFoldersByUser.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZFoldersForTemp.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZHierarchy.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZInbox.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZIndexingChange.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZPdfProperties.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZPrivateFolders.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZTempBarcode.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZTempDatatype.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZTemplateField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Manage Cabinets\IeZTemplateUserFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Map\IeZMapFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Map\IeZMapLocation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Map\IeZMapTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Notification\IezNotification.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IChartItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IDtSearchResultsItem.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZAlertCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZAllottedTask.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZAlternateField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZApplication.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZBodyHtmlType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZBookMarks.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZBookMarksDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZComments.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZDocumentAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZDocumentLink.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZDtSearchPath.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFax.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFaxReceiver.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFaxReceiverRule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFaxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFieldAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFieldAlertDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFieldAlertDoc.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFieldAlertTemp.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZFilesCopyLink.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZInboxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZIntegrationDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZLanguage.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZLicense.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZLicenseClients.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZLicenseMaintenance.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailArchive.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailArchiveType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailConfig.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailSettings.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailWatching.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailWatchingCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailWatchingDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZMailWatchingStatus.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZOutlookContact.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZOutlooksync.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZOutlookSync_History.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZRegistration.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZReminder.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZSchedule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZScheduleType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZTask.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZTaskType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZTaskUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\ieZtest.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZTrialLicense.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZWorkFlow.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZWorkFlowProcess.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZWorkFlowRelation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZWorkFlowType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\IeZZonal.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Others\ISyncTable.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Outlook\IeZOutlookDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Profile Security\IeZECMProfileTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Profile Security\IeZECMProfileUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Retention\IezRetentionMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Retention\IezRetentionRule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Scan\IeZScanBatch.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Scan\IezScannedImg.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Scan\IeZScanSettings.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Schedule\IezEscalation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Schedule\IezEscalationHistory.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Schedule\IezEscalationUser.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Schedule\IeZScheduleDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Schedule\IeZScheduleFor.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IeZECMCabinetLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IeZECMControl.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IeZECMControlLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IeZECMDocumentLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IeZECMFieldLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Security\IezImpersonation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZChart.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZChartType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZECMGroup.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZECMGroupusers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZECMUserInfo.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IOldeZECMLogin.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZECMProfile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZECMUserType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Users And Groups\IeZProfile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Vault\IeZVault.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZFormUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZProcessItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZWFlowFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZWFlowTransation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZWFProcess.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZWorkflowDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\IInterface\Workflow\IeZWorkflowUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\ActiveDirectory\eZADUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\ActiveDirectory\eZLdapConnection.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\ActiveDirectory\eZRCContacts.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Collaboration\eZCollaboration.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Collaboration\eZCollaborationUserDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Collaboration\eZTaskComments.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Error\ErrorMessage.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Files\eZHideFile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Files\eZHideFileUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Files\eZHidePages.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Files\ezSupportFiles.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\FolderMonitor\eZFolderMonitor.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\FolderMonitor\eZUnProcessedFiles.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFormControlDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFormControlValue.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFormValidation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFrmControlDataType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\eZFrmControlType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Form\ezFrmDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Instance.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLinkedItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookup.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupClientField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupConnection.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupServerType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupSPparameters.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\ezlookupsynchistory.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Integration\eZLookupType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\License\eZClient.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\License\eZClientApproval.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mail\eZMailArchiveValue.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mail\eZMailTriggering.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mail\ezMailTriggerTypes.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mail\eZMailType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mail\eZUnAuthorisedMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZBarcodeType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZCabinet.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZCabOwners.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZDuplicateType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZERSInfo.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZERSIPs.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZERSSync.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZERSSync_History.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZFolders.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\ezFoldersByUser.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZFoldersForTemp.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZHierarchy.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZInbox.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZIndexingChange.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZPdfProperties.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZPrivateFolders.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZTempBarcode.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZTempDatatype.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZTemplateField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Mange Cabinet\eZTemplateUserFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Map\eZMapFields.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Map\eZMapLocation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Map\eZMapTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Notification\ezNotification.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\ChartItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\DBLayereZMailWatching.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\DtSearchResultsItem.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZAlertCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZAllottedTask.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZAlternateField.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZApplication.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZBodyHtmlType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZBookMarks.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZBookMarksDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZComments.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZDocumentAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZDocumentLink.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZDtSearchPath.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFax.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFaxReceiver.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFaxReceiverRule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFaxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFieldAlert.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFieldAlertDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFieldAlertDoc.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFieldAlertTemp.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZFilesCopyLink.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZInboxTransaction.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZIntegrationDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZLanguage.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZLicense.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZLicenseClients.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZLicenseMaintenance.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailArchive.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailArchiveType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailConfig.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailSettings.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailWatching.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailWatchingCondition.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailWatchingDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZMailWatchingStatus.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZOutlookContact.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZOutlooksync.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZOutlookSync_History.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZRegistration.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZReminder.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZSchedule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZScheduleType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZTask.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZTaskType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZTaskUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZtest.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZTrialLicense.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZWorkFlow.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZWorkFlowProcess.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZWorkFlowRelation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZWorkFlowType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\eZZonal.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Others\SyncTable.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Outlook\eZOutlookDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Profile Security\eZECMProfileTemplate.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Profile Security\eZECMProfileUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Retention\ezRetentionMail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Retention\ezRetentionRule.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Scan\eZScanBatch.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Scan\ezScannedImg.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Scan\eZScanSettings.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Schedule\ezEscalation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Schedule\ezEscalationHistory.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Schedule\ezEscalationUser.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Schedule\eZScheduleDetail.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Schedule\eZScheduleFor.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\eZECMCabinetLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\eZECMControl.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\eZECMControlLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\eZECMDocumentLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\eZECMFieldLevel.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Security\ezImpersonation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZChart.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZChartType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZECMGroup.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZECMGroupusers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\OldeZECMLogin.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZECMProfile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZECMUserInfo.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZECMUserType.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Users And Groups\eZProfile.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Vault\eZVault.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZFormUsers.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZProcessItems.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZWFlowFormDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZWFlowTransation.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZWFProcess.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZWorkflowDetails.vb" />
+    <Compile Include="Models\Layer\DBLibrary\Implementation\Workflow\eZWorkflowUsers.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Areas\HelpPage\HelpPage.css" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="DBconn.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="Areas\HelpPage\Views\Web.config" />
+    <Content Include="Areas\HelpPage\Views\Shared\_Layout.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\ResourceModel.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Index.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Samples.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.vbhtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Api.vbhtml" />
+    <Content Include="Models\Entity\ECMModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ECMModel.edmx</DependentUpon>
+      <LastGenOutput>ECMModel.Context.vb</LastGenOutput>
+    </Content>
+    <Content Include="Models\Entity\ECMModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ECMModel.edmx</DependentUpon>
+      <LastGenOutput>ECMModel.vb</LastGenOutput>
+    </Content>
+    <Content Include="Models\Layer\DBLibrary\Implementation\Form-1.rar" />
+    <EntityDeploy Include="Models\Entity\ECMModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ECMModel.Designer.vb</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\Entity\ECMModel.edmx.diagram">
+      <DependentUpon>ECMModel.edmx</DependentUpon>
+    </Content>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Areas\HelpPage\Views\_ViewStart.vbhtml" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.vbhtml" />
+    <Content Include="Views\Home\Index.vbhtml" />
+    <Content Include="Views\Shared\Error.vbhtml" />
+    <Content Include="Views\Shared\_Layout.vbhtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="My Project\PublishProfiles\" />
+    <Folder Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1833</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/InvitaECMAPI</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

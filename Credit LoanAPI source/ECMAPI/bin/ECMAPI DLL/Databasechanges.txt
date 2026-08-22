@@ -1,0 +1,7 @@
+ALTER TABLE ezca_3_19_items
+ADD CONSTRAINT DF_ezca_3_19_items_AccountStatus
+DEFAULT ('') FOR [Account Status];
+
+update ezSubLoanType set SubLoanType='Car Loan' where id=1
+Update ezSubLoanType set SubLoanType='Consumer Loan' where id=2
+update ezSubLoanType set SubLoanType='Mortage Loan' where id=3

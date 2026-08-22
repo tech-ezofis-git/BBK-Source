@@ -1,0 +1,340 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|c:\\dfolder\\sara\\invita\\invita api\\credit loanapi\\ecmapi\\models\\layer\\dblayer\\manage cabinets\\dblayertemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ecmapi\\models\\layer\\dblayer\\manage cabinets\\dblayertemplate.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ecmapi\\models\\common\\sharedgetfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ecmapi\\models\\common\\sharedgetfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|c:\\dfolder\\sara\\invita\\invita api\\credit loanapi\\ecmapi\\controllers\\creditcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ecmapi\\controllers\\creditcontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\CommonController.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Controllers\\CommonController.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Common\\ParaVariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Common\\ParaVariables.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\2af5f7eff7483c33da1b1a5b542e9d1fd1f7cc014b8b903f71581631c471d9a8\\ReflectedHttpActionDescriptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\5c735d191a3ca2f139cc444955960b4f4aa1797dda6cdc293de4665e6eb96118\\String.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\ExternalController.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{11E3E9B5-D40B-43C3-A0F3-573A8FEAB401}|ECMAPI\\ECMAPI.vbproj|solutionrelative:ECMAPI\\Controllers\\ExternalController.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBLayerTemplate.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Manage Cabinets\\DBLayerTemplate.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLayer\\Manage Cabinets\\DBLayerTemplate.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Manage Cabinets\\DBLayerTemplate.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLayer\\Manage Cabinets\\DBLayerTemplate.vb",
+              "ViewState": "AgIAAGMBAAAAAAAAAAAAAGMBAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-23T06:06:01.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:828283592:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReflectedHttpActionDescriptor.cs",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\2af5f7eff7483c33da1b1a5b542e9d1fd1f7cc014b8b903f71581631c471d9a8\\ReflectedHttpActionDescriptor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\2af5f7eff7483c33da1b1a5b542e9d1fd1f7cc014b8b903f71581631c471d9a8\\ReflectedHttpActionDescriptor.cs",
+              "ToolTip": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\2af5f7eff7483c33da1b1a5b542e9d1fd1f7cc014b8b903f71581631c471d9a8\\ReflectedHttpActionDescriptor.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\2af5f7eff7483c33da1b1a5b542e9d1fd1f7cc014b8b903f71581631c471d9a8\\ReflectedHttpActionDescriptor.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T08:46:32.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreditController.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\CreditController.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Controllers\\CreditController.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\CreditController.vb",
+              "RelativeToolTip": "ECMAPI\\Controllers\\CreditController.vb",
+              "ViewState": "AgIAAGQBAAAAAAAAAAAwwG0BAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-02T03:15:29.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInstance.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\IInstance.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwCgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-25T05:26:49.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IeZECMControlLevel.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLibrary\\IInterface\\Security\\IeZECMControlLevel.vb",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-25T05:26:47.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eZECMControlLevel.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLibrary\\Implementation\\Security\\eZECMControlLevel.vb",
+              "ViewState": "AgIAANEAAAAAAAAAAAAtwNgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-25T05:26:33.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DBLayereZECMControlLevel.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControlLevel.vb",
+              "ViewState": "AgIAACcAAAAAAAAAAAAtwDMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-25T05:25:17.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DBLayereZECMControl.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLayer\\Security\\DBLayereZECMControl.vb",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-25T05:23:20.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\98730f1e537aecff730842eb396dda9db8e8bf4192a1ced4cecbd673edbc5ce5\\TaskAwaiter.cs [Read Only]",
+              "ViewState": "AgIAAFgAAAAAAAAAAAD4v18AAAAbAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:57:18.57Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "String.cs",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\5c735d191a3ca2f139cc444955960b4f4aa1797dda6cdc293de4665e6eb96118\\String.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\5c735d191a3ca2f139cc444955960b4f4aa1797dda6cdc293de4665e6eb96118\\String.cs",
+              "ToolTip": "C:\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\5c735d191a3ca2f139cc444955960b4f4aa1797dda6cdc293de4665e6eb96118\\String.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Users\\Ezofis\\AppData\\Local\\Temp\\.vsdbgsrc\\5c735d191a3ca2f139cc444955960b4f4aa1797dda6cdc293de4665e6eb96118\\String.cs [Read Only]",
+              "ViewState": "AgIAABsPAAAAAAAAAAD4vywPAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T11:42:18.431Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBLayereZBookMarks.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLayer\\Others\\DBLayereZBookMarks.vb",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAAAHgBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-16T13:54:20.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonController.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\CommonController.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Controllers\\CommonController.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\CommonController.vb",
+              "RelativeToolTip": "ECMAPI\\Controllers\\CommonController.vb",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAmwFMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-11-21T14:11:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Web.config",
+              "RelativeDocumentMoniker": "ECMAPI\\Web.config",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Web.config",
+              "RelativeToolTip": "ECMAPI\\Web.config",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-07T06:24:28.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DBLayereZCollaboration.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Layer\\DBLayer\\Collaboration\\DBLayereZCollaboration.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-08-07T12:40:07.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParaVariables.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Common\\ParaVariables.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Common\\ParaVariables.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Common\\ParaVariables.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Common\\ParaVariables.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-23T13:43:40.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExternalController.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\ExternalController.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Controllers\\ExternalController.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Controllers\\ExternalController.vb",
+              "RelativeToolTip": "ECMAPI\\Controllers\\ExternalController.vb",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-20T09:41:09.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharedGetFunction.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Common\\SharedGetFunction.vb",
+              "RelativeDocumentMoniker": "ECMAPI\\Models\\Common\\SharedGetFunction.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\Invita\\Invita API\\Credit LoanAPI\\ECMAPI\\Models\\Common\\SharedGetFunction.vb",
+              "RelativeToolTip": "ECMAPI\\Models\\Common\\SharedGetFunction.vb",
+              "ViewState": "AgIAAKcNAAAAAAAAAAAmwLYNAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-07-20T09:32:37.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
