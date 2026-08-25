@@ -1,0 +1,19 @@
+DateTime,Status,Filename
+
+08-07-2024 11:45:23,Exporting Files Started  ,
+
+08-07-2024 11:45:30,Record Saved Successfully in eZFileupload table ,C:\imaging\07082024094946083.pdf
+
+08-07-2024 11:45:30,item id : 1,C:\imaging\07082024094946083.pdf
+
+08-07-2024 11:45:30,Error From ExportPdf  System.IO.IOException: The process cannot access the file 'C:\imaging\07082024094946083.pdf' because it is being used by another process.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in F:\ECM Capture\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1917,C:\imaging\07082024094946083.pdf
+
+08-07-2024 11:45:34,Record Saved Successfully in eZFileupload table ,C:\imaging\07082024095140163.pdf
+
+08-07-2024 11:45:34,item id : 1,C:\imaging\07082024095140163.pdf
+
+08-07-2024 11:45:39,Exporting Files Completed.,
+
+08-07-2024 11:45:39,Number of Files Exported : 1 Out Of 2,

@@ -1,0 +1,15 @@
+DateTime,Status,Filename
+
+01-13-2020 04:50:29,Exporting Files Started  ,
+
+01-13-2020 04:50:30,Check Mandatory Fields : ,C:\imaging\Asiri With Barcode BW - Copy (2).tif
+
+01-13-2020 04:50:32,File Exported Successfully  ,C:\imaging\NRRMS_Detailed_Advertisement.pdf
+
+01-13-2020 04:50:32,Error From ExportOther Files : System.IO.FileNotFoundException: No files found matching 'C:\imaging\NRRMS_Detailed_Advertisement.pdf'.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportOtherFiles(String filenames) in E:\Working\Customers\Invita\Implementation\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1741,NRRMS_Detailed_Advertisement.pdf
+
+01-13-2020 04:50:32,Exporting Files Completed.,
+
+01-13-2020 04:50:32,Number of Files Exported : 0 Out Of 2,

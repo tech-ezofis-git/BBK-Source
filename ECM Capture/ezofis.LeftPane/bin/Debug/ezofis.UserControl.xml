@@ -1,0 +1,257 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ezofis.UserControl
+</name>
+</assembly>
+<members>
+<member name="T:ezofis.UserControl.My.Resources.Main">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.BlackPage">
+<summary>
+  Looks up a localized string similar to Black Page.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Cabinet">
+<summary>
+  Looks up a localized string similar to Cabinet.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.CurrentPage">
+<summary>
+  Looks up a localized string similar to Current Page.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.ECMCapture">
+<summary>
+  Looks up a localized string similar to ECM - Capture.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.eZConfig">
+<summary>
+  Looks up a localized string similar to eZConfig.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.EzIndex">
+<summary>
+  Looks up a localized string similar to EzIndex.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Fields">
+<summary>
+  Looks up a localized string similar to Fields.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.FreeHand">
+<summary>
+  Looks up a localized string similar to Free Hand.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Home">
+<summary>
+  Looks up a localized string similar to Home.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Import">
+<summary>
+  Looks up a localized string similar to Import.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.LoadZones">
+<summary>
+  Looks up a localized string similar to Load Zones.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.LookupFields">
+<summary>
+  Looks up a localized string similar to Lookup Fields.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Magnify">
+<summary>
+  Looks up a localized string similar to Magnify.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Merge">
+<summary>
+  Looks up a localized string similar to Merge.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.OtherFormats">
+<summary>
+  Looks up a localized string similar to Other Formats.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Page">
+<summary>
+  Looks up a localized string similar to Page.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Record">
+<summary>
+  Looks up a localized string similar to Record.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Refresh">
+<summary>
+  Looks up a localized string similar to Refresh.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.RotateLeft">
+<summary>
+  Looks up a localized string similar to Rotate Left.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.RotateRight">
+<summary>
+  Looks up a localized string similar to Rotate Right.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Save">
+<summary>
+  Looks up a localized string similar to Save.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Scan">
+<summary>
+  Looks up a localized string similar to Scan.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.SelectAll">
+<summary>
+  Looks up a localized string similar to Select All / UnSelect All.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Settings">
+<summary>
+  Looks up a localized string similar to Settings.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.SinglePages">
+<summary>
+  Looks up a localized string similar to Single Pages.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.Template">
+<summary>
+  Looks up a localized string similar to Template.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.TiffFiles">
+<summary>
+  Looks up a localized string similar to Tiff Files.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.ZonalSettings">
+<summary>
+  Looks up a localized string similar to Zonal Settings.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.ZoomIn">
+<summary>
+  Looks up a localized string similar to Zoom In.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Main.ZoomOut">
+<summary>
+  Looks up a localized string similar to Zoom Out.
+</summary>
+</member>
+<member name="T:ezofis.UserControl.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ezofis.UserControl.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ezofis.UserControl.ECMLeftPane">
+<summary>
+ECMLeftPane
+</summary>
+</member>
+<member name="F:ezofis.UserControl.ECMLeftPane._lstTif">
+<summary>
+lstTif Name Field
+</summary>
+</member>
+<member name="F:ezofis.UserControl.ECMLeftPane._lstOther">
+<summary>
+lstOther Name Field
+</summary>
+</member>
+<member name="M:ezofis.UserControl.ECMLeftPane.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ezofis.UserControl.ECMRightPane">
+<summary>
+ECMRightPane
+</summary>
+</member>
+<member name="F:ezofis.UserControl.ECMRightPane._ddlstcab">
+<summary>
+ddlstcab Name Field
+</summary>
+</member>
+<member name="F:ezofis.UserControl.ECMRightPane._ddlsttem">
+<summary>
+ddlsttem Name Field
+</summary>
+</member>
+<member name="F:ezofis.UserControl.ECMRightPane._IndexingFieldPanel">
+<summary>
+IndexingFieldPanel Name Field
+</summary>
+</member>
+<member name="M:ezofis.UserControl.ECMRightPane.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ezofis.UserControl.ECMViewer">
+<summary>
+ECMViewer
+</summary>
+</member>
+<member name="M:ezofis.UserControl.ECMViewer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ezofis.UserControl.Versioning">
+<summary>
+Versioning
+</summary>
+</member>
+<member name="M:ezofis.UserControl.Versioning.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

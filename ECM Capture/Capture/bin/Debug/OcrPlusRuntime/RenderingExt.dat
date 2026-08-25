@@ -1,0 +1,1241 @@
+[__Common__]
+Read only=0
+Retain graphics=1
+Picture color=0
+Tables=0
+Retain styles=1
+Retain font=1
+Retain character size=1
+Retain bold/italic=1
+Retain underline=1
+Retain strike through=1
+Retain subscript/superscript=1
+Retain character colors=1
+Retain language=1
+Retain character spacing=1
+Retain character scaling=1
+Insert line breaks=0
+Retain paragraph alignment=1
+Retain indents=1
+Retain paragraph spacing=1
+Retain line spacing=1
+Paragraph borders=0
+Retain pagination=1
+Retain bullets/numbering=1
+Retain drop caps=1
+Retain tab positions=1
+Insert extra anchor paragraphs=1
+Insert column breaks=0
+Insert page breaks=1
+Retain page size=1
+Retain page margins=1
+Retain page background color=1
+Retain table borders=1
+Retain table grid=1
+Headers/footers=0
+Retain columns=1
+Boxes=1
+Box wrapping=1
+Graphics in box=1
+Graphics only in box in RFC mode=1
+Table in box=1
+Table only in box in RFC mode=1
+Drop cap in box=1
+Column in box=1
+Box in box=1
+Box wrapping in box=1
+Different box borders = 0
+Different objects in box=1
+Box linking=1
+Bookmarks=1
+Cross references=1
+Fieldcodes=1
+Leader dots=1
+Rule lines=1
+Save selected pages only=0
+Save=0
+Default font=Times New Roman
+Default font family=1
+Default font pitch=2
+Default character size=240
+Default bold=0
+Default italic=0
+Default language=-1
+Default character spacing=0
+Default character scaling=1000
+Default paragraph alignment=0
+Default first line indent=0
+Default left indent=0
+Default right indent=0
+Default space before=0
+Default space after=0
+Default line spacing type=0
+Default line spacing distance=240
+Default page width=12240
+Default page length=15840
+Default left margin=1800
+Default right margin=1800
+Default top margin=1440
+Default bottom margin=1440
+Default table border line style=1
+Default table border line width=10
+Default table grid line style=1
+Default table grid line width=10
+Default tab distance=720
+
+[Microsoft Word for Windows 6.0]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=2
+Code page=1252
+Retain styles=0
+Default output file extension=.doc
+Default file extension of application to be started=.doc
+At_least linespacing value=1
+
+
+[PageMaker (6.5.2)]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-8
+Read only=1
+Code page necessary=1
+Output mode=1
+Code page=1252
+Retain styles=0
+Default output file extension=.doc
+Default file extension of application to be started=
+At_least linespacing value=0
+
+[Quattro Pro for Windows 4.0, 8]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-5
+Read only=1
+Spread sheet converter=1
+Code page necessary=1
+Output mode=4
+Code page=1252
+Retain styles=0
+Default output file extension=.xls
+Default file extension of application to be started=.wkq
+
+[Ventura Publisher]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-9
+Read only=1
+Code page necessary=1
+Output mode=1
+Code page=1252
+Retain styles=0
+Default output file extension=.doc
+Default file extension of application to be started=.vp
+At_least linespacing value=1
+
+[WordPad]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-2
+Read only=1
+Output mode=1
+Tables=1
+Retain styles=0
+Retain page size=0
+Retain page margins=0
+Headers/footers=4
+Default output file extension=.rtf
+Default file extension of application to be started=.wri
+
+[WordPerfect 9, 10]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-2
+Read only=1
+Output mode=2
+Headers/footers=4
+Default output file extension=.wpd
+Default file extension of application to be started=.wpd
+
+[WordPerfect 8]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-1
+Read only=1
+Output mode=2
+Headers/footers=4
+Default output file extension=.wpd
+Default file extension of application to be started=.wpd
+
+[WordPerfect for Windows 6.0, 6.1]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-3
+Read only=1
+Code page necessary=1
+Output mode=2
+Code page=1252
+Retain styles=0
+Default output file extension=.wpd
+Default file extension of application to be started=.wpd
+
+[WordPerfect for Windows 5.1, 5.2]
+Filter=Mastersoft's ICF filters
+DLC=ConvICF.dlc
+ID=-2
+Read only=1
+Code page necessary=1
+Output mode=2
+Code page=1252
+Retain styles=0
+Default output file extension=.wp5
+Default file extension of application to be started=.wp5
+
+;[eBook @33810]
+[eBook]
+Filter=XML - OEB 1.0 compliant
+DLC=eBookConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=1
+Code page=1252
+Retain styles=0
+Headers/footers=4
+Default output file extension=.opf
+Default file extension of application to be started=.opf
+
+;[HTML 4.0 @33201]
+[HTML 4.0]
+Filter=HyperText Markup Language
+DLC=HTMLCnv.dlc
+ID=-1
+Read only=1
+Output mode=2
+Default output file extension=.htm
+Default file extension of application to be started=.htm
+Retain tables=1
+Insert page breaks=0
+Headers/footers=4
+Put external files into a subdirectory=1
+Index page=1
+Horizontal ruleline beetween sections=1
+External CSS=1
+Text for "previous page"=Previous
+Text for "index page"=Index
+Text for "next page"=Next
+Enable box overflowing=1
+Name of generated files=Page
+Output device vertical DPI=96
+Output device horizontal DPI=96
+Write javascript for reload on resize=1
+
+;[HTML 3.2 @33200]
+[HTML 3.2]
+Filter=HyperText Markup Language
+DLC=HTMLCnv.dlc
+ID=-2
+Read only=1
+Spread sheet converter=1
+Output mode=4
+Default output file extension=.htm
+Default file extension of application to be started=.htm
+Retain tables=1
+Retain styles=0
+Insert page breaks=0
+Headers/footers=4
+Put external files into a subdirectory=1
+Index page=1
+Horizontal ruleline beetween sections=1
+Text for "previous page"=Previous
+Text for "index page"=Index
+Text for "next page"=Next
+Name of generated files=Page
+Default rowsize=400
+Output device vertical DPI=96
+Output device horizontal DPI=96
+
+;[Microsoft Excel 97, 2000 @33300]
+[Microsoft Excel 97, 2000]
+Filter=Excel
+DLC=ExcelCnv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=1
+Output mode=4
+Default output file extension=.xls
+Default file extension of application to be started=.xls
+Retain tables=1
+Retain styles=0
+Character unit=5265
+Textbox default horizontal alignment=0
+Textbox default vertical alignment=0
+Default language=0
+
+;[Microsoft PowerPoint 97 @33102]
+[Microsoft PowerPoint 97]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-2
+Read only=1
+Output mode=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Retain tab positions=0
+Retain page size=0
+Retain page margins=0
+Headers/footers=4
+Default output file extension=.rtf
+Default file extension of application to be started=
+
+;[Microsoft Publisher 98 @33103]
+[Microsoft Publisher 98]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-3
+Read only=1
+Output mode=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Retain tab positions=0
+Retain page size=0
+Retain page margins=0
+Headers/footers=4
+Default output file extension=.rtf
+Default file extension of application to be started=
+
+;[Microsoft Reader @33811]
+[Microsoft Reader]
+Filter=XML - OEB 1.0 compliant
+DLC=eBookConv.dlc
+ID=-2
+Read only=1
+Output mode=1
+Retain graphics=6
+Retain styles=0
+Headers/footers=4
+Default output file extension=.lit
+Default file extension of application to be started=.lit
+
+;[WordML @33880]
+[WordML]
+Filter=WordML
+DLC=WordMLConv.dlc
+ID=-1
+Spread sheet converter=0
+Insert column breaks=1
+Read only=1
+Output mode=3
+Paragraph borders=1
+Default output file extension=.xml
+Default file extension of application to be started=.doc
+Don't use textbox=0
+
+;[Microsoft Word 2000, XP @33400]
+[Microsoft Word 2000, XP]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Insert column breaks=1
+No Uncompressed Image = 1
+Output mode=3
+Paragraph borders=1
+Different box borders = 1
+Default output file extension=.doc
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Don't use textbox=0
+Word2000orhigher=1
+
+;[Microsoft Word 97 @33401]
+[Microsoft Word 97]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Insert column breaks=1
+Output mode=3
+Paragraph borders=1
+Different box borders = 1
+Default output file extension=.doc
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Don't use textbox=0
+
+;[PDF @33700]
+[PDF]
+Filter=Portable Document Format
+DLC=PDFCnv.dlc
+ID=-1
+Read only=1
+No PreRendering=1
+Output mode=2
+Default output file extension=.pdf
+Default file extension of application to be started=.pdf
+Retain tables=1
+Retain styles=0
+Insert page breaks=0
+Headers/footers=4
+Show background image=0
+Show recognized text=1
+Mark suspect words with small image=0
+Thumbnail images=0
+URL properties=0
+Highlight URLs=1
+Automatic color of URLs=0
+Color of URLs=16711680
+Transparent background color of URLs=1
+Background color of URLs=16777215
+Underline URLs=1
+Bookmark properties=0
+Bookmarks for pages=1
+Page name in bookmark=page
+Add page number to the page name=1
+External font properties=0
+Enable external fonts=1
+External fonts=True Type Font Files (*.ttf)|*.ttf|Type1 Font Files (*.pfb)|*.pfb
+Create tagged PDF=1
+;Retain graphics=6
+
+;[PDF - Edited @33707]
+[PDF - Edited]
+Filter=Portable Document Format
+DLC=PDFCnv.dlc
+ID=-2
+Read only=1
+Output mode=2
+Default output file extension=.pdf
+Default file extension of application to be started=.pdf
+Retain styles=0
+Insert page breaks=0
+In boxes=1
+Tabulated form=1
+URL properties=0
+Highlight URLs=1
+Automatic color of URLs=0
+Color of URLs=16711680
+Transparent background color of URLs=1
+Background color of URLs=16777215
+Underline URLs=1
+Bookmark properties=0
+Bookmarks for pages=1
+Page name in bookmark=page
+Add page number to the page name=1
+External font properties=0
+Enable external fonts=1
+External fonts=True Type Font Files (*.ttf)|*.ttf|Type1 Font Files (*.pfb)|*.pfb
+Expand table rows=0
+Create tagged PDF=1
+;Retain graphics=6
+
+;[PDF Image on Text @33702]
+[PDF Image on Text]
+Filter=Portable Document Format
+DLC=PDFCnv.dlc
+ID=-1
+Read only=1
+No PreRendering=1
+Output mode=2
+Default output file extension=.pdf
+Default file extension of application to be started=.pdf
+Retain tables=1
+Retain styles=0
+Insert page breaks=0
+Headers/footers=4
+Show background image=1
+Show recognized text=1
+Mark suspect words with small image=0
+Thumbnail images=0
+URL properties=0
+Highlight URLs=1
+Automatic color of URLs=0
+Color of URLs=16711680
+Transparent background color of URLs=1
+Background color of URLs=16777215
+Underline URLs=1
+Bookmark properties=0
+Bookmarks for pages=1
+Page name in bookmark=page
+Add page number to the page name=1
+External font properties=0
+Enable external fonts=1
+External fonts=True Type Font Files (*.ttf)|*.ttf|Type1 Font Files (*.pfb)|*.pfb
+
+;[PDF Image subtitutes @33701]
+[PDF Image subtitutes]
+Filter=Portable Document Format
+DLC=PDFCnv.dlc
+ID=-1
+Read only=1
+No PreRendering=1
+Output mode=2
+Default output file extension=.pdf
+Default file extension of application to be started=.pdf
+Retain tables=1
+Retain styles=0
+Insert page breaks=0
+Headers/footers=4
+Show background image=0
+Show recognized text=1
+Mark suspect words with small image=1
+Thumbnail images=0
+URL properties=0
+Highlight URLs=1
+Automatic color of URLs=0
+Color of URLs=16711680
+Transparent background color of URLs=1
+Background color of URLs=16777215
+Underline URLs=1
+Bookmark properties=0
+Bookmarks for pages=1
+Page name in bookmark=page
+Add page number to the page name=1
+External font properties=0
+Enable external fonts=1
+External fonts=True Type Font Files (*.ttf)|*.ttf|Type1 Font Files (*.pfb)|*.pfb
+Create tagged PDF=1
+;Retain graphics=6
+
+[PDF Image Only]
+Filter=Portable Document Format
+DLC=PDFCnv.dlc
+ID=-1
+Read only=1
+No PreRendering=1
+Output mode=2
+Default output file extension=.pdf
+Default file extension of application to be started=.pdf
+Retain tables=1
+Retain styles=0
+Insert page breaks=0
+Headers/footers=4
+Show background image=1
+Show recognized text=0
+Mark suspect words with small image=0
+Thumbnail images=0
+URL properties=0
+Highlight URLs=1
+Automatic color of URLs=0
+Color of URLs=16711680
+Transparent background color of URLs=1
+Background color of URLs=16777215
+Underline URLs=1
+Bookmark properties=0
+Bookmarks for pages=1
+Page name in bookmark=page
+Add page number to the page name=1
+External font properties=0
+Enable external fonts=1
+External fonts=True Type Font Files (*.ttf)|*.ttf|Type1 Font Files (*.pfb)|*.pfb
+
+;[RTF Word 2000 @33105]
+[RTF Word 2000]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Insert column breaks=1
+No Uncompressed Image = 1
+Output mode=3
+Paragraph borders=1
+Different box borders = 1
+Default output file extension=.rtf
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Don't use textbox=0
+Word2000orhigher=1
+
+;[RTF Word 97 @33104]
+[RTF Word 97]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Insert column breaks=1
+Output mode=3
+Paragraph borders=1
+Different box borders = 1
+Default output file extension=.rtf
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Don't use textbox=0
+
+;[RTF Word 6.0/95 @33100]
+[RTF Word 6.0/95]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Insert column breaks=1
+Output mode=3
+Paragraph borders=1
+Default output file extension=.rtf
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Irregular graphics=0
+
+;[XML @33809]
+[XML]
+Filter=XML
+DLC=XMLConv.dlc
+ID=-1
+Read only=1
+Output mode=2
+Default output file extension=.xml
+Default file extension of application to be started=.xml
+
+;[Text @33600]
+[Text]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+;[Text - Comma Separated @33602]
+[Text - Comma Separated]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-2
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.csv
+Default file extension of application to be started=.csv
+Irregular graphics=1
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell="
+End cell="
+Begin paragraph="
+End paragraph="
+Line break=\r\n
+Page break=\f
+
+[Text - Tab Separated]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1252
+Retain graphics=0
+Insert line breaks=1
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.csv
+Default file extension of application to be started=.csv
+Irregular graphics=1
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell="
+End cell="
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+[Text Smart]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1252
+Retain graphics=0
+Insert line breaks=1
+Tables=2
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=1
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Detect tabs=1
+Line break=\r\n
+Page break=\f
+
+[Text Plain]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1252
+Retain graphics=0
+Insert line breaks=1
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=1
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Detect tabs=0
+Line break=\r\n
+Page break=\f
+
+;[Text - Formatted @33608]
+[Text - Formatted]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-3
+Read only=1
+No PreRendering=1
+Code page necessary=1
+Output mode=2
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Detect tabs=0
+Line break=\r\n
+Page break=\f
+
+;[Text with linebreaks @33601]
+[Text with linebreaks]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Irregular graphics=1
+Output mode=0
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Insert line breaks=1
+Retain page margins=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+;[Unicode Text @33603]
+[Unicode Text]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=1
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+;[Unicode Text - Comma Separated @33605]
+[Unicode Text - Comma Separated]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-2
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.csv
+Default file extension of application to be started=.csv
+Irregular graphics=1
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=1
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell="
+End cell="
+Begin paragraph="
+End paragraph="
+Line break=\r\n
+Page break=\f
+
+;[Unicode Text - Formatted @33609]
+[Unicode Text - Formatted]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-3
+Read only=1
+No PreRendering=1
+Code page necessary=1
+Output mode=2
+Code page=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Intel Unicode byte order=1
+Use standard Unicode file header=1
+File header filename=
+Detect tabs=0
+Line break=\r\n
+Page break=\f
+
+;[Unicode Text with linebreaks @33604]
+[Unicode Text with linebreaks]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Irregular graphics=1
+Output mode=0
+Code page=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Insert line breaks=1
+Retain page margins=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=1
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+;[WAV Audio Converter @33815]
+[WAV Audio Converter]
+Filter=Text
+DLC=AudioConv.dlc
+ID=-1
+Read only=1
+Output mode=0
+Headers/footers=4
+Default output file extension=.wav
+Default file extension of application to be started=.wav
+Voice name=
+Speech rate=2
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=
+Page break=
+
+[CLB RTF Word 6.0/95]
+Filter=Rich Text Format
+DLC=RtfConv.dlc
+ID=-1
+Read only=1
+Spread sheet converter=0
+Output mode=3
+Paragraph borders=1
+Default output file extension=.rtf
+Default file extension of application to be started=.doc
+Enable transparent character background=1
+Irregular graphics=0
+
+[CLB Text]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+[CLB Text - Comma Separated]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-2
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=5999
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.csv
+Default file extension of application to be started=.csv
+Irregular graphics=1
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell="
+End cell="
+Begin paragraph="
+End paragraph="
+Line break=\r\n
+Page break=\f
+
+[CLB Unicode Text]
+Filter=Text
+DLC=TxtConv.dlc
+ID=-1
+Read only=1
+Code page necessary=1
+Output mode=0
+Code page=1
+Retain graphics=0
+Tables=1
+Retain styles=0
+Headers/footers=4
+Append=0
+Default output file extension=.txt
+Default file extension of application to be started=.txt
+Retain page margins=0
+Tabulator width=960
+Use OS list separator=1
+List separator=\t
+Simulate paragraph properties=0
+Character width=240
+Character height=480
+Intel Unicode byte order=1
+Use standard Unicode file header=0
+File header filename=
+Picture name=Image
+Picture extension=.tif
+Picture format=5
+Picture text=IMAGE(%)
+Extra top margin=0
+Extra left margin=0
+Extra bottom margin=0
+Begin table=
+End table=
+Begin table line=
+End table line=
+Begin cell=
+End cell=
+Begin paragraph=
+End paragraph=
+Line break=\r\n
+Page break=\f
+
+[CLB WordPerfect 11]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-2
+Read only=1
+Clipboard mode=1
+Output mode=2
+Default output file extension=.wp11
+Default file extension of application to be started=.wp11
+
+[CLB WordPerfect 10]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-2
+Read only=1
+Clipboard mode=1
+Output mode=2
+Default output file extension=.wp10
+Default file extension of application to be started=.wp10
+
+[CLB WordPerfect 9]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-2
+Read only=1
+Clipboard mode=1
+Output mode=2
+Default output file extension=.wp9
+Default file extension of application to be started=.wp9
+
+[CLB WordPerfect 8]
+Filter=WordPerfect
+DLC=WPCnv.dlc
+ID=-1
+Read only=1
+Clipboard mode=1
+Output mode=2
+Default output file extension=.wp8
+Default file extension of application to be started=.wp8
+
+

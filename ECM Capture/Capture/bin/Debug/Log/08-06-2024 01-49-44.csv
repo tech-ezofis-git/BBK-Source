@@ -1,0 +1,32 @@
+DateTime,Status,Filename
+
+08-06-2024 01:49:44,Exporting Files Started  ,
+
+08-06-2024 01:49:45,Check Mandatory Fields : ,C:\imaging\DCMS4 -2023-03-14 (2).tif
+
+08-06-2024 01:50:12,Error From ExportPdf  System.ServiceModel.ServerTooBusyException: The HTTP service located at http://52.172.32.88/Invitaezofisservice/CACservice.svc is unavailable.  This could be because the service is too busy or because no endpoint was found listening at the specified address. Please ensure that the address is correct and try accessing the service again later. ---> System.Net.WebException: The remote server returned an error: (503) Server Unavailable.
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   --- End of inner exception stack trace ---
+
+Server stack trace: 
+   at System.ServiceModel.Channels.HttpChannelUtilities.ProcessGetResponseWebException(WebException webException, HttpWebRequest request, HttpAbortReason abortReason)
+   at System.ServiceModel.Channels.HttpChannelFactory`1.HttpRequestChannel.HttpChannelRequest.WaitForReply(TimeSpan timeout)
+   at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at ezofis.UserControl.CAC.ICACservice.GetDatasetByQuery(String& strQry)
+   at ezofis.UserControl.CAC.CACserviceClient.GetDatasetByQuery(String& strQry) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\Service References\CAC\Reference.vb:line 34994
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1883,C:\imaging\blankpage_A.pdf
+
+08-06-2024 01:50:12,ERS Path Not Found ,C:\imaging\sample (1).pdf
+
+08-06-2024 01:50:12,Exporting Files Completed.,
+
+08-06-2024 01:50:12,Number of Files Exported : 0 Out Of 3,

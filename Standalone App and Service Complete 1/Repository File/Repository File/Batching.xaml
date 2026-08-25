@@ -1,0 +1,107 @@
+﻿<Window x:Class="Batching"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Repository_File"
+             mc:Ignorable="d" 
+             Width="1080" Title="STANDALONE:NOTIFICATION"  Icon="Resources/favicon (2).ico" Loaded="Window_Loaded" Height="680" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None"  AllowsTransparency="True"  Background="#B2FFFFFF" Opacity="1" >
+    <Border BorderThickness="1" BorderBrush="Brown" CornerRadius="5"  Background="White" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="1" Visibility="Visible" RenderTransformOrigin="0.5,0.5" Height="500" Width="800">
+        <Border.RenderTransform>
+            <TransformGroup>
+                <!--<ScaleTransform ScaleX="0.5" ScaleY="0.5"/>-->
+                <SkewTransform/>
+                <RotateTransform Angle="0"/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Border.RenderTransform>
+        <Grid Margin="0,0,0,6">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="5*"/>
+                <RowDefinition Height="70"/>
+            </Grid.RowDefinitions>
+            <Grid.Resources>
+                <Style x:Key="Link" TargetType="Button">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <TextBlock TextDecorations="Underline">
+                                    <ContentPresenter/>
+                                </TextBlock>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                    <Setter Property="Foreground" Value="Blue" />
+                    <Setter Property="FontFamily" Value="Roboto" />
+                    <Style.Triggers>
+                        <Trigger Property="IsMouseOver" Value="true">
+                            <Setter Property="Foreground" Value="Black" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </Grid.Resources>
+            <Border BorderBrush="Brown" BorderThickness="0">
+                <Grid Grid.Row="0">
+                    <StackPanel HorizontalAlignment="Left" Background="Brown">
+                        <Label Content="EZOFIS STANDALONE APP:NOTIFY" Margin="10,5,20,5" FontSize="16" Foreground="White"/>
+                    </StackPanel>
+
+                    <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top" >
+                        <Button x:Name="Btn_cancel"  ToolTip="close" Background="Transparent" BorderBrush="Transparent">
+
+                            <Image Source="Resources/close-icon8.png" Height="35" Width="35" />
+                        </Button>
+                    </StackPanel>
+                </Grid>
+            </Border>
+
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="129*"/>
+                    <ColumnDefinition Width="4*"/>
+                </Grid.ColumnDefinitions>
+                <StackPanel Grid.ColumnSpan="2">
+                    <Label x:Name="LabelBatch" FontSize="15"  Height="41" >
+                    </Label>
+                </StackPanel>
+                <StackPanel Grid.ColumnSpan="2">
+                    <Button  Height="30" Width="30" FontFamily="Roboto"  Foreground="White" x:Name="btnRefresh" HorizontalAlignment="Right" Margin="10" Background="Transparent" BorderBrush="Transparent">
+                        <Image Source="/Resources/refresh-icon4.png" />
+                    </Button>
+                </StackPanel>
+            </Grid>
+           
+            <Grid Grid.Row="2">
+                <StackPanel Height="334" VerticalAlignment="Top" Margin="0,-21,0,0">
+                    <DataGrid x:Name="Resultgrid" Foreground="Black" BorderBrush="White" Background="White" SelectionMode="Single"  Width="auto" ColumnWidth="*" IsReadOnly="True" AutoGenerateColumns="False" FontFamily="Roboto" FontSize="14" Height="333">
+                        <DataGrid.Columns>
+                            <DataGridTemplateColumn  Header="Batching Id"  Binding.XmlNamespaceManager ="{Binding batchid}" CanUserSort="True" SortMemberPath="batchid">
+                                <DataGridTemplateColumn.CellTemplate>
+                                    <DataTemplate>
+                                        <Button x:Name="btnbatchid" Tag="{Binding batch_id}" 
+                                                  Click="btnbatchid_Click" Content="{Binding batchid}"  Style="{StaticResource Link}"/>
+                                    </DataTemplate>
+                                </DataGridTemplateColumn.CellTemplate>
+                            </DataGridTemplateColumn>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                </StackPanel>
+            </Grid>
+            
+            <Grid Grid.Row="3">
+                <StackPanel>
+                    <Button  FontFamily="Roboto" BorderBrush="White" Foreground="White" Background="Green" x:Name="excelexport" HorizontalAlignment="Left" Margin="5" Width="50" Height="50">
+                        <Image Source="/Resources/Excel-Export.png" Height="50" Width="50" />
+                    </Button>
+                </StackPanel>
+                <StackPanel>
+                    <Button Content="Close" Height="30"  FontFamily="Roboto" BorderBrush="White" Foreground="White" Background="Red" x:Name="closebtn2" HorizontalAlignment="Right" Margin="20" Width="120"/>
+                </StackPanel>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>
+    

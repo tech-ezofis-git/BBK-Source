@@ -1,0 +1,25 @@
+DateTime,Status,Filename
+
+08-06-2024 06:56:43,Exporting Files Started  ,
+
+08-06-2024 06:57:03,Check Mandatory Fields : ,C:\imaging\DCMS4 -2023-03-14 (2).tif
+
+08-06-2024 06:57:17,Record Saved Successfully in eZFileupload table ,C:\imaging\blankpage_A.pdf
+
+08-06-2024 06:57:17,item id : 1,C:\imaging\blankpage_A.pdf
+
+08-06-2024 06:57:37,Record Saved Successfully in eZFileupload table ,C:\imaging\dssds.pdf
+
+08-06-2024 06:57:38,item id : 1,C:\imaging\dssds.pdf
+
+08-06-2024 06:59:11,Record Saved Successfully in eZFileupload table ,C:\imaging\sample (1).pdf
+
+08-06-2024 06:59:11,item id : 1,C:\imaging\sample (1).pdf
+
+08-06-2024 06:59:45,Check Mandatory Fields : ,C:\imaging\sample (2) - Copy.pdf
+
+08-06-2024 06:59:49,Check Mandatory Fields : ,C:\imaging\singlepage1.pdf
+
+08-06-2024 06:59:49,Exporting Files Completed.,
+
+08-06-2024 06:59:49,Number of Files Exported : 3 Out Of 6,

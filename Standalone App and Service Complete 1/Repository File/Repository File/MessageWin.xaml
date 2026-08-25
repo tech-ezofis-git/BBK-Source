@@ -1,0 +1,65 @@
+﻿<Window x:Class="MessageWin"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Repository_File"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"  ResizeMode="NoResize" Width="1080" Height="680" WindowStartupLocation="CenterScreen" WindowStyle="None"   AllowsTransparency="True" Background="#B2FFFFFF" Opacity="1" >
+
+    <!--<Grid Height="250" Width="500" >-->
+        <Border x:Name="winborder" BorderThickness="1"    Background="LightGray" BorderBrush="Green" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="1" Visibility="Visible" RenderTransformOrigin="0.5,0.5" Height="250" Width="550" >
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <!--<ScaleTransform ScaleX="0.5" ScaleY="0.5"/>-->
+                    <SkewTransform/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+
+            <Grid  Background="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="40"/>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Border x:Name="titlewinborder" BorderThickness="0" >
+                    <Grid Grid.Row="0">
+
+                        <StackPanel x:Name="titlepanel" HorizontalAlignment="Left" Background="Green"  >
+                            <Label Content="EZOFIS STANDALONE APP:NOTIFY" Margin="10,5,20,5" FontSize="16"  BorderBrush="Transparent" />
+                        </StackPanel>
+
+
+                        <StackPanel HorizontalAlignment="Right" VerticalAlignment="Top" >
+                            <Button x:Name="Btn_cancel"  ToolTip="close" Margin="0,0,0,0" Background="Transparent" BorderBrush="Transparent">
+                                <Image Source="Resources/close-icon8.png" Height="35" Width="35" />
+                            </Button>
+                        </StackPanel>
+
+
+
+                    </Grid>
+                </Border>
+                <Grid Grid.Row="1">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                        <TextBlock Name="lblmsg" Text="Process Initiated Successfully!" FontWeight="Medium" FontSize="16" Foreground="BLACK" VerticalAlignment="Center" HorizontalAlignment="Center" />
+                    </ScrollViewer>
+                </Grid>
+                <Grid Grid.Row="2">
+                    <StackPanel HorizontalAlignment="Left">
+                        <Label x:Name="lblLog" Content="* Check LOGS for Current Status" FontSize="10"  BorderBrush="Transparent" Margin="5" Visibility="Hidden" />
+                    </StackPanel>
+                    <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                        <Button x:Name="Btn_No"   ToolTip="close" Content="No" Width="120"    Background="#FF48B1D8" FontSize="14" Foreground="White" BorderBrush="White" Margin="5" Visibility="Hidden" >
+                        </Button>
+                        <Button x:Name="Btn_Ok"   ToolTip="close" Content="OK" Width="120"    Background="#FF48B1D8" FontSize="14" Foreground="White" BorderBrush="White" Margin="5">
+                        </Button>
+
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Border>
+    <!--</Grid>-->
+</Window>

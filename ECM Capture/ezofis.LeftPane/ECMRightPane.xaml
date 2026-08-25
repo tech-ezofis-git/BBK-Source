@@ -1,0 +1,28 @@
+﻿<UserControl x:Class="ECMRightPane"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Background="#FF25A0DA" Height="Auto" ContextMenuService.IsEnabled="False" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="130" />            
+            <RowDefinition Height="200*" MinHeight="100"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <Label Content="Cabinet" Name="LblCabinet" Foreground="White" VerticalAlignment="Top" />
+            <ComboBox x:FieldModifier="Public" Margin="5,0,10,5" Height="23" HorizontalAlignment="Stretch" DisplayMemberPath="CabinetName"  VerticalAlignment="Stretch"  Name="ddlstcab"  />
+            <Label  VerticalAlignment="Top" Content="Template" Name="LblTemplate" Foreground="White"/>
+            <ComboBox  x:FieldModifier="Public" Margin="5,0,10,5" Height="23" HorizontalAlignment="Stretch" DisplayMemberPath="TemplateName"  VerticalAlignment="Stretch"  Name="ddlsttem"/>
+            <Label VerticalAlignment="Top" Name="LblFields" Foreground="White" Content="Fields" />
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" x:Name="scr"  VerticalScrollBarVisibility="Auto">
+                <StackPanel x:FieldModifier="Public" Name="IndexingFieldPanel" Margin="3 3 3 3"  Background="White" >
+                </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+
+</UserControl>

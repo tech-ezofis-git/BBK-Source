@@ -1,0 +1,14 @@
+CREATE TABLE [dbo].[eZWorkItemIdGen](
+	[itemid] [int] IDENTITY(1,1) NOT NULL,
+	[Prefix] [nvarchar](200) NULL,
+	[Noofchars] [int] NOT NULL,
+	[LastWorkItemNo] [int] NULL,
+	[CreatedOn] [nvarchar](100) NULL,
+	[UpdatedOn] [nvarchar](100) NULL,
+	[CreatedBy] [int] NULL,
+	[UpdatedBy] [int] NULL,
+	[Isdeleted] [bit] NOT NULL
+) ON [PRIMARY]
+GO
+
+insert into eZWorkItemIdGen values('BBK-TF',4,0,'15-Mar-2021 12:22:26 PM','',1,0,0)

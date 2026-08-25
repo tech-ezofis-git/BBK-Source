@@ -1,0 +1,27 @@
+DateTime,Status,Filename
+
+10-25-2019 04:51:56,Exporting Files Started  ,
+
+10-25-2019 04:52:09,Check Mandatory Fields : ,C:\imaging\10252019044759458-M0-S1.tif
+
+10-25-2019 04:52:09,Check Mandatory Fields : ,C:\imaging\10252019044759458-M0-S2.tif
+
+10-25-2019 04:52:20,Record Not Saved in eZFileupload table ,C:\imaging\10252019044759458-M0-S3.tif
+
+10-25-2019 04:52:20,Error From ExportTiff Files : System.IO.FileNotFoundException: No files found matching 'C:\EZOFIS\ECM Config Files\Archive\InvitaECM\\BBK\RETAIL\1232\34\Normal\Deposit'.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportTifFiles(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1324,10252019044759458-M0-S3.tif
+
+10-25-2019 04:52:32,Error From ExportPdf  System.IO.IOException: The file 'E:\Working\Customers\Invita\Implementation\From Vinsi\Watch\9\251020190452PM.tif' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportPdf(String newfilename, String path, String SelectedItem, String ExtentFile, String oldfilename) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1585,C:\imaging\10252019044759458-M0-S4.tif
+
+10-25-2019 04:52:32,Error From ExportTiff Files : System.IO.FileNotFoundException: No files found matching 'C:\EZOFIS\ECM Config Files\Archive\InvitaECM\\BBK\RETAIL\1232\34\Normal\Deposit_1.0'.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportTifFiles(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1324,10252019044759458-M0-S4.tif
+
+10-25-2019 04:52:32,Exporting Files Completed.,
+
+10-25-2019 04:52:32,Number of Files Exported : 0 Out Of 4,

@@ -1,0 +1,15 @@
+DateTime,Status,Filename
+
+01-13-2020 04:48:10,Exporting Files Started  ,
+
+01-13-2020 04:48:11,Check Mandatory Fields : ,C:\imaging\Asiri With Barcode BW - Copy (2).tif
+
+01-13-2020 04:48:22,File Exported Successfully  ,C:\imaging\AE_NOTIFICATION_ FINAL_PDF.pdf
+
+01-13-2020 04:48:23,Error From ExportOther Files : System.IO.FileNotFoundException: No files found matching 'C:\imaging\AE_NOTIFICATION_ FINAL_PDF.pdf'.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportOtherFiles(String filenames) in E:\Working\Customers\Invita\Implementation\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1741,AE_NOTIFICATION_ FINAL_PDF.pdf
+
+01-13-2020 04:48:23,Exporting Files Completed.,
+
+01-13-2020 04:48:23,Number of Files Exported : 0 Out Of 2,

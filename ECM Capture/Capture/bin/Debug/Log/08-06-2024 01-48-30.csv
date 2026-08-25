@@ -1,0 +1,29 @@
+DateTime,Status,Filename
+
+08-06-2024 01:48:30,Exporting Files Started  ,
+
+08-06-2024 01:48:31,Check Mandatory Fields : ,C:\imaging\DCMS4 -2023-03-14 (2).tif
+
+08-06-2024 01:48:44,Record Saved Successfully in eZFileupload table ,C:\imaging\blankpage_A.pdf
+
+08-06-2024 01:48:44,item id : 1,C:\imaging\blankpage_A.pdf
+
+08-06-2024 01:48:45,Error From ExportPdf  System.IO.IOException: The process cannot access the file 'C:\imaging\blankpage_A.pdf' because it is being used by another process.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1908,C:\imaging\blankpage_A.pdf
+
+08-06-2024 01:48:48,Record Saved Successfully in eZFileupload table ,C:\imaging\sample (1).pdf
+
+08-06-2024 01:48:48,item id : 1,C:\imaging\sample (1).pdf
+
+08-06-2024 01:48:48,Error From ExportPdf  System.IO.IOException: The process cannot access the file 'C:\imaging\sample (1).pdf' because it is being used by another process.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1908,C:\imaging\sample (1).pdf
+
+08-06-2024 01:48:51,Record Saved Successfully in eZFileupload table ,C:\imaging\singlepage1.pdf
+
+08-06-2024 01:48:51,item id : 1,C:\imaging\singlepage1.pdf
+
+08-06-2024 01:48:51,Exporting Files Completed.,
+
+08-06-2024 01:48:51,Number of Files Exported : 1 Out Of 4,

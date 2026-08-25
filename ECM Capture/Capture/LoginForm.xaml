@@ -1,0 +1,141 @@
+﻿<Window
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="LoginForm"
+    Title="LoginForm" Height="500" Width="500" WindowStartupLocation="CenterScreen"  ShowInTaskbar="False" ResizeMode="NoResize" Icon="/ECMScanAndIndex;component/images/scanbig.ico">
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0.2*"/>
+            <ColumnDefinition Width="0.3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions >
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="300"/>           
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <Image Grid.Column="0" Grid.Row="0" Height="70" Source="/image/MicrosoftTeams-image (2).png" HorizontalAlignment="Left" Margin="15,0,0,0"  VerticalAlignment="Stretch"  />
+        <Image Grid.Column="1" Grid.Row="0" Source="/image/MicrosoftTeams-image.png" HorizontalAlignment="Right" Margin="0,0,15,0" VerticalAlignment="Stretch" Height="70" />
+        <Label Grid.Column="0" Grid.Row="1" Height="50" Grid.ColumnSpan="2" Margin="10,5,0,0" FontSize="25" Content="RecordManagementSolution" />
+        <Grid Grid.Column="0" x:Name="Grid1" Grid.Row="2" Grid.ColumnSpan="2" Visibility="Visible" >
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="0.8*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >               
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Border Background="#00829C" Grid.Column="0" Margin="0,0,10,0" Grid.Row="1" Height="30" Width="40" HorizontalAlignment="Right">
+                <Image Source="/image/user.png" HorizontalAlignment="Stretch" Height="20" Width="30" VerticalAlignment="Stretch" />
+            </Border>
+            <Border Background="#00829C" Grid.Column="0" Margin="0,0,10,0" Grid.Row="2" Height="30" Width="40" HorizontalAlignment="Right">
+                <Image Source="/image/icons8-password-30.png" HorizontalAlignment="Stretch" Height="20" Width="30" VerticalAlignment="Stretch" />
+            </Border>
+            <!--<Label Grid.Column="0"  Grid.Row="0" Content="User Name" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0"/>-->
+            <!--<Label Grid.Column="0"  Grid.Row="2" Content="Password" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0"/>-->
+            <TextBox  Grid.Column="1" Name="txtusername" TabIndex="0"  Grid.Row="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,10,5,10"/>
+            <PasswordBox PreviewKeyDown="EnterClicked" Grid.Column="1" Name="txtpassword" TabIndex="1"  Grid.Row="2"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="0,10,5,10"/>
+            <TextBlock Grid.Column="0" Name="lblresult"   TextWrapping="Wrap" Grid.Row="3"  HorizontalAlignment="Left"  Grid.ColumnSpan="2" Margin="20,0,0,0" Foreground="Red" FontWeight="Bold"/>
+            <StackPanel Grid.Column="0"  Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Name="btnlogin" BorderBrush="Blue" Background="White" Foreground="Gray" Content="Sign in" Width="100" TabIndex="3" HorizontalAlignment="Left" Margin="0,10,20,10"/>
+                <Button Name="btncancel" Visibility="Collapsed" Content="Cancel" Width="100" TabIndex="4" HorizontalAlignment="Right" Margin="20,10,0,10"/>
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Column="0" x:Name="Grid2"  Grid.Row="2" Grid.ColumnSpan="2" Visibility="Collapsed" >
+           
+            <Grid.RowDefinitions >
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Border Background="#00829C" Grid.Column="0"  Grid.Row="0" Height="30" Width="300" Grid.ColumnSpan="2">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/image/user.png"  Margin="5,0,0,0" HorizontalAlignment="Left" Height="20" Width="30" VerticalAlignment="Stretch" />
+                    <Label Content="User:" Foreground="White" />
+                    <Label Name="lblusername" Content="" Foreground="White" />
+                </StackPanel>              
+                
+            </Border>
+            <StackPanel Grid.Column="0"  Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center">
+                <Label Content="Time To change your password!" Foreground="Gray"/>
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="Your " Foreground="Gray" />
+                    <Label Content="Password will expire in" Foreground="Red" />
+                    <Label Name="lbldays" Content="" Foreground="Red" FontStyle="Italic" />
+                    <Label Content="Days" Foreground="Red" FontStyle="Italic" />
+                </StackPanel>
+                
+            </StackPanel>
+            <StackPanel Grid.Column="0"  Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Stretch" >
+                <Button Name="btnProceedlogin" Click="btnProceedlogin_Click" BorderBrush="Blue" Background="White" Foreground="Gray" Content="Proceed to Login>>" Width="130" TabIndex="3" HorizontalAlignment="Center" Margin="50,10,20,10"/>
+                <Button Name="btnChangePW" Click="btnChangePW_Click" Background="#00829C" Foreground="White" Content="Change it now" Width="100" TabIndex="4" HorizontalAlignment="Center" Margin="20,10,0,10"/>
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Column="0" x:Name="Grid3"  Grid.Row="2" Grid.ColumnSpan="2" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="0.3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="180"/>
+                <RowDefinition Height="50"/>               
+            </Grid.RowDefinitions>
+            <Border Background="#00829C" Grid.Column="0"  Grid.Row="0" Height="30" Width="280" Grid.ColumnSpan="2">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/image/user.png"  Margin="5,0,0,0" HorizontalAlignment="Left" Height="20" Width="30" VerticalAlignment="Stretch" />
+                    <Label Content="User:" Foreground="White" />
+                    <Label Name="lblusername1" Content="" Foreground="White" />
+                </StackPanel>
+            </Border>
+            <StackPanel Grid.Column="0" Margin="10,0,10,0"  Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Stretch">
+                <Label Grid.Column="0"  Grid.Row="0" Content="New Password" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,20,0"/>
+                <PasswordBox  x:Name="txtnewpw" Height="30"  Grid.Column="1" TabIndex="1"  Grid.Row="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+                <Label Grid.Column="0"  Grid.Row="0" Content="Confirm New password" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="0,0,20,0"/>
+                <PasswordBox  Height="30"  Grid.Column="1" Name="txConfirmpassword" TabIndex="1"  Grid.Row="1"  HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+                <TextBlock  TextWrapping="Wrap" HorizontalAlignment="Left" Text="Your organization requires that your password inculde at least[8] characters,a capital letter,a lowercase letter and a special character." FontSize="10" Foreground="Gray" />
+                <TextBlock Grid.Column="0" Name="lblresult1" Text=""  TextWrapping="Wrap" Grid.Row="3"  HorizontalAlignment="Left"  Grid.ColumnSpan="2" Margin="20,5,0,0" Foreground="Red" FontWeight="Bold"/>
+            </StackPanel>
+            <StackPanel Grid.Column="0"  Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">              
+                <Button Name="btnUpdate" Click="btnUpdate_Click" Background="#00829C" Foreground="White" Content="Update Password" Width="100" TabIndex="4" HorizontalAlignment="Right" Margin="20,10,0,10"/>
+            </StackPanel>
+
+        </Grid>
+
+        <Grid Grid.Column="0" x:Name="Grid4"  Grid.Row="2" Grid.ColumnSpan="2" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*"/>
+                <ColumnDefinition Width="0.3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions >
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="75"/>
+                <RowDefinition Height="50"/>
+            </Grid.RowDefinitions>
+            <Border Background="#00829C" Grid.Column="0"  Grid.Row="0" Height="30" Width="280" Grid.ColumnSpan="2">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center">
+                    <Image Source="/image/user.png"  Margin="5,0,0,0" HorizontalAlignment="Left" Height="20" Width="30" VerticalAlignment="Stretch" />
+                    <Label Content="User:" Foreground="White" />
+                    <Label Name="lblusername2" Content="" Foreground="White" />
+                </StackPanel>
+            </Border>
+            <StackPanel Grid.Column="0" Margin="10,0,10,0"  Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Stretch">
+                <Label Foreground="#00829C" FontWeight="Bold" Content="Successful password reset!" HorizontalAlignment="Center" />
+                <TextBlock TextWrapping="Wrap"  Foreground="Gray"  Text="you can now use you new password to log in to your account!" HorizontalAlignment="Center" />
+            </StackPanel>
+            <StackPanel Grid.Column="0"  Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center">
+                <Button Name="btnloin" Click="btnloin_Click" Background="#00829C" Foreground="White" Content="Login" Width="100" TabIndex="4" HorizontalAlignment="Right" Margin="20,10,0,10"/>
+            </StackPanel>
+
+        </Grid>
+
+    </Grid>
+</Window>

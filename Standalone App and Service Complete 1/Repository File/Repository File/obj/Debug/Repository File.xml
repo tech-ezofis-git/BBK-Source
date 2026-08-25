@@ -1,0 +1,101 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Repository File
+</name>
+</assembly>
+<members>
+<member name="T:Repository_File.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.drive">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.file">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.home_black">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Repository_File.My.Resources.Resources.search_icon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Repository_File.Batching">
+<summary>
+Batching
+</summary>
+</member>
+<member name="M:Repository_File.Batching.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Repository_File.MessageWin">
+<summary>
+MessageWin
+</summary>
+</member>
+<member name="M:Repository_File.MessageWin.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Repository_File.Popup">
+<summary>
+Popup
+</summary>
+</member>
+<member name="M:Repository_File.Popup.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Repository_File.Repos">
+<summary>
+Repos
+</summary>
+</member>
+<member name="M:Repository_File.Repos.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:Repository_File.Notification">
+<summary>
+Notification
+</summary>
+</member>
+<member name="M:Repository_File.Notification.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

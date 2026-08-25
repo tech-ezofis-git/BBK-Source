@@ -1,0 +1,392 @@
+﻿<Window xmlns:ECM="clr-namespace:ezofis.UserControl;assembly=ezofis.UserControl"  
+        x:Class="MainWindow"  xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Title="ECM - Capture" xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"        
+        WindowStartupLocation="CenterScreen" WindowState="Maximized" Icon="/ECMScanAndIndex;component/images/scanbig.ico" KeyDown="Window_KeyDown" >
+    <Window.Resources>
+        <SolidColorBrush x:Key="ImportantForegroundBrush" Color="#FFD20000" />
+        <Storyboard x:Key="BeginProgress" >
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border2">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border1">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="border1">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="border1">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border1">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border2">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>       
+        <Storyboard x:Key="PageProgress" >
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border4">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border3">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="border3">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="border3">
+                <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+            </DoubleAnimationUsingKeyFrames>
+
+
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border3">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border4">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+            </ObjectAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Grid Width="auto" Name="grdmain" Height="auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="143" />
+            <RowDefinition Height="27*" />
+            <RowDefinition Height="25" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0">
+            <telerik:RadRibbonView  telerik:StyleManager.Theme="Metro"  MinimizeButtonVisibility="Collapsed" Grid.RowSpan="2"  ApplicationButtonImageSource="/ECMScanAndIndex;component/image/log.png" 
+                               Name="RadRibbonView1" VerticalAlignment="Top" ApplicationName="Scan And Index" 
+                               Foreground="White">
+                <telerik:RadRibbonTab Header="Home" Name="htab">
+                    <telerik:RadRibbonGroup Header="Scan" Name="RadRibGrpScan" >
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="20" />
+                            <telerik:GroupVariant Variant="Small" Priority="13" />
+                            <telerik:GroupVariant Variant="Medium" Priority="8" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonSplitButton Name="btnimgfrmt" CollapseToMedium="WhenGroupIsMedium" Background="White"  CollapseToSmall="WhenGroupIsSmall"
+                                                     LargeImage="images\doc.png" SmallImage="images\doc.png" Size="Large" Text="Format">
+                                <telerik:RadRibbonSplitButton.DropDownContent>
+                                    <telerik:RadContextMenu BorderThickness="0" Name="radcolor">
+                                        <telerik:RadMenuItem FontSize="12" Header="Black" Background="White">
+                                            <telerik:RadMenuItem.Icon>
+                                                <Image Source="images\blackpg.png" />
+                                            </telerik:RadMenuItem.Icon>
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem FontSize="12" Header="Color" Background="White">
+                                            <telerik:RadMenuItem.Icon>
+                                                <Image Source="images\colorpg.png" />
+                                            </telerik:RadMenuItem.Icon>
+                                        </telerik:RadMenuItem>
+                                        <telerik:RadMenuItem IsSeparator="True" IsEnabled="False" Background="WhiteSmoke"/>
+                                        <telerik:RadMenuItem IsEnabled="False" FontSize="9" Background="WhiteSmoke"
+                                                             Header="Choose Appropriate Format For B/W (Or) Color Document Processing">
+                                            <telerik:RadMenuItem.Icon>
+                                                <Image Source="images\info.png"/>
+                                            </telerik:RadMenuItem.Icon>
+                                        </telerik:RadMenuItem>
+                                    </telerik:RadContextMenu>
+                                </telerik:RadRibbonSplitButton.DropDownContent>
+                            </telerik:RadRibbonSplitButton>
+                            <telerik:RadRibbonButton Name="btnsca" CollapseToMedium="WhenGroupIsMedium" CollapseToSmall="WhenGroupIsSmall" LargeImage="image\scan.png" Visibility="Collapsed"  SmallImage="image\scan.png" Size="Large" Text="Scan" />
+                            <telerik:RadRibbonButton Name="btnref" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\refresh3.png" SmallImage="image\refresh3.png" Size="Large" Text="Refresh" />
+                            <telerik:RadRibbonButton Name="btnimp" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\download_folder.png" SmallImage="image\download_folder.png" Size="Large" Text="Import" />
+                            <telerik:RadRibbonButton Name="btnimp1" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\import1.png" SmallImage="image\import1.png" Size="Large" Text="Import" />
+                            <telerik:RadRibbonButton Name="btnimprej" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\download_folder.png" 
+                                                     SmallImage="image\download_folder.png" Size="Large" Text="Rejected list" Visibility="Collapsed"/>
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Merge" Name="RadRibGrpMerge">
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="19" />
+                            <telerik:GroupVariant Variant="Small" Priority="12" />
+                            <telerik:GroupVariant Variant="Medium" Priority="7" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadRibbonButton Name="btnmer" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\merge.png" SmallImage="image\merge.png" Size="Large" Text="merge" />
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Split Page" Name="RadRibGrpSplitpg">
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="18" />
+                            <telerik:GroupVariant Variant="Small" Priority="11" />
+                            <telerik:GroupVariant Variant="Medium" Priority="6" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonButton Name="btnsin" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\single.png" SmallImage="image\single.png" Size="Large" Text="Single" />
+                            <telerik:RadRibbonButton Name="btncur" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\currentp.png" SmallImage="image\currentp.png" Size="Large" Text="Current" />
+                        </telerik:RadCollapsiblePanel>
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonButton Name="btnbla" BorderBrush="#999" BorderThickness="3"  CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\blackp.png" SmallImage="image\blackp.png" Size="Large" Text="B/W" />
+                            <telerik:RadRibbonButton Name="btnbar" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="images\barcode.png" SmallImage="images\barcode.png" Size="Large" Text="Barcode" />
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Page Navigation" Name="pagenavgrp">
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="17" />
+                            <telerik:GroupVariant Variant="Medium" Priority="5" />
+                            <telerik:GroupVariant Variant="Small" Priority="10" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                        <telerik:RadRibbonButton Name="btnbk" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\bk.png" 
+                                                         SmallImage="image\bk.png" Size="Large" Text="First" />
+                        <telerik:RadRibbonButton Name="btnbk1" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\arrw.png" 
+                                                         SmallImage="image\arrw.png" Size="Large" Text="Prev" />
+                        <telerik:RadRibbonButton Name="btnfr" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\fr.png" 
+                                                         SmallImage="image\fr.png" Size="Large" Text="Next" />
+                        <telerik:RadRibbonButton Name="btnfr1" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="image\frnt.png" 
+                                                         SmallImage="image\frnt.png" Size="Large" Text="Last"  />
+                            </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Page" Name="RadRibGrpPg">
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="17" />
+                            <telerik:GroupVariant Variant="Medium" Priority="5" />
+                            <telerik:GroupVariant Variant="Small" Priority="10" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <!--<telerik:RadOrderedWrapPanel Width="100" Height="70" CompressedItemsOrder="0,1">-->
+                           
+                            <!--<telerik:RadButtonGroup Height="38" Width="100" Background="White" BorderBrush="White">-->
+                            <!--<StackPanel Width="50" Orientation="Vertical">-->
+                            <telerik:RadRibbonButton Name="btnpgo" VerticalAlignment="Top" CollapseToMedium="WhenGroupIsMedium" HorizontalAlignment="Center"  Text="Save"
+                                                             LargeImage="images\savegreen.png" SmallImage="images\savegreen.png" Size="Large" VerticalContentAlignment="Bottom"  />
+                            <!--<TextBlock Text="Save" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                                </StackPanel>
+                                <StackPanel Width="50" Orientation="Vertical">-->
+                            <telerik:RadRibbonButton Name="btnpgc" VerticalAlignment="Top" CollapseToMedium="WhenGroupIsMedium"  HorizontalAlignment="Center" Text="Delete"  
+                                                             LargeImage="image\delete1.png" SmallImage="image\delete1.png" Size="Large"  VerticalContentAlignment="Bottom" />
+                          
+                            <!--<TextBlock Text="Delete" VerticalAlignment="Top" HorizontalAlignment="Center" TextAlignment="Center" />
+                                </StackPanel>-->
+                            <!--</telerik:RadButtonGroup>-->
+                            <!--</telerik:RadOrderedWrapPanel>-->
+                            <!--<telerik:RadCollapsiblePanel>-->
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btnrol" CollapseToSmall="WhenGroupIsSmall" 
+                                                     LargeImage="image\rol.png" SmallImage="image\rol.png" Size="Large" Text="Left" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btnrl" CollapseToSmall="WhenGroupIsSmall" 
+                                                     LargeImage="image\lft.png" SmallImage="image\lft.png" Size="Large" Text="Right" />
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="View" Name="RadRibGrpView" >
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Collapsed" Priority="16" />
+                            <telerik:GroupVariant Variant="Small" Priority="9" />
+                            <telerik:GroupVariant Variant="Medium" Priority="4" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonButton   CollapseToMedium="WhenGroupIsMedium"  Name="btnzoi" CollapseToSmall="WhenGroupIsSmall" LargeImage="images\zoo.png" SmallImage="images\zoo.png" Size="Large" Text="ZoomIn"   />
+                            <telerik:RadRibbonButton Text="ZoomOut" CollapseToMedium="WhenGroupIsMedium"  Name="btnzoo" LargeImage="images\zo.png" SmallImage="images\zo.png" Size="Large" CollapseToSmall="WhenGroupIsSmall"  />
+                        </telerik:RadCollapsiblePanel>
+                        <telerik:RadOrderedWrapPanel Height="70" Width="90" VerticalAlignment="Top" >
+                            <telerik:RadButtonGroup Height="30" Background="White">
+                                <StackPanel Width="30" Height="auto">
+                                    <telerik:RadRibbonButton VerticalAlignment="Top" HorizontalAlignment="Stretch"   Name="btnhei" LargeImage="image\hit.png"  Size="Large"   />
+                                </StackPanel>
+                                <StackPanel Width="30">
+                                    <telerik:RadRibbonButton VerticalAlignment="Center" HorizontalAlignment="Center"   Name="btnfit" LargeImage="image\fitt.png"  Size="Large"   />
+                                </StackPanel>
+                                <StackPanel Width="30">
+                                    <telerik:RadRibbonButton VerticalAlignment="Center" HorizontalAlignment="Center"   Name="btnwid" LargeImage="image\wit.png"  Size="Large"   />
+                                </StackPanel>
+                            </telerik:RadButtonGroup>
+                            <telerik:RadButtonGroup Height="38" Background="White" BorderBrush="White">
+                                <StackPanel Width="45" Orientation="Vertical">
+                                    <telerik:RadRibbonButton Name="btnpan" VerticalAlignment="Top" HorizontalAlignment="Center"  CollapseToMedium="WhenGroupIsMedium"  LargeImage="images\hand.png" SmallImage="images\hand.png" Size="Large"    />
+                                    <TextBlock Text="Pan" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                                </StackPanel>
+                                <StackPanel Width="45">
+                                    <telerik:RadRibbonButton Name="btnSelectZoom" VerticalAlignment="Top" HorizontalAlignment="Center" CollapseToMedium="WhenGroupIsMedium"  LargeImage="images\area.png" SmallImage="images\area.png" Size="Large"   />
+                                    <TextBlock Text="Zoom" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                                </StackPanel>
+                            </telerik:RadButtonGroup>
+                        </telerik:RadOrderedWrapPanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="EzIndex" Name="RadRibGrpIndex" >
+                        
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btnmag"  LargeImage="image\mag.png"  Size="Large" Text="Magnifier" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" BorderBrush="#999" BorderThickness="3" Name="btnfre"  LargeImage="image\freeh.png"  Size="Large" Text="Free Hand" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btnlzo"  LargeImage="images\lzone.png"  Size="Large" Text="LoadZone" Visibility="Collapsed" />
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Record" Name="RecordNav" >
+                            <telerik:RadRibbonGroup.Variants>
+                                <telerik:GroupVariant Variant="Collapsed" Priority="17" />
+                                <telerik:GroupVariant Variant="Medium" Priority="5" />
+                                <telerik:GroupVariant Variant="Small" Priority="10" />
+                            </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="firstrec" CollapseToSmall="WhenGroupIsSmall" 
+                                                   LargeImage="image\ffirst.png" SmallImage="image\ffirst.png" Size="Large" Text="First" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="prerec" CollapseToSmall="WhenGroupIsSmall" 
+                                                      LargeImage="image\fprev.png" SmallImage="image\fprev.png" Size="Large" Text="Prev" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="nextrec" CollapseToSmall="WhenGroupIsSmall" 
+                                            LargeImage="image\fnext.png" SmallImage="image\fnext.png" Size="Large" Text="Next" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="lastrec" CollapseToSmall="WhenGroupIsSmall" 
+                                                LargeImage="image\flast.png" SmallImage="image\flast.png" Size="Large" Text="Last" />
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Record" Name="RadRibGrpRecord" >
+                        <telerik:RadRibbonGroup.Variants>
+                            <telerik:GroupVariant Variant="Medium" Priority="2" />
+                            <telerik:GroupVariant Variant="Collapsed" Priority="15" />
+                        </telerik:RadRibbonGroup.Variants>
+                        <telerik:RadCollapsiblePanel>
+                            <!--<telerik:RadOrderedWrapPanel Width="105" Height="70" CompressedItemsOrder="0,1">-->
+                            <!--<telerik:RadButtonGroup Height="25" Background="White" Width="100" VerticalAlignment="Top">-->
+                            <!--<telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="firstrec" CollapseToSmall="WhenGroupIsSmall" 
+                                                   LargeImage="image\ffirst.png" SmallImage="image\ffirst.png" Size="Large" Text="First" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="prerec" CollapseToSmall="WhenGroupIsSmall" 
+                                                      LargeImage="image\fprev.png" SmallImage="image\fprev.png" Size="Large" Text="Prev" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="nextrec" CollapseToSmall="WhenGroupIsSmall" 
+                                            LargeImage="image\fnext.png" SmallImage="image\fnext.png" Size="Large" Text="Next" />
+                            <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="lastrec" CollapseToSmall="WhenGroupIsSmall" 
+                                                LargeImage="image\flast.png" SmallImage="image\flast.png" Size="Large" Text="Last" />-->
+                            <!--</telerik:RadButtonGroup>-->
+                            <!--<telerik:RadButtonGroup Height="38" Background="White" Width="100" BorderBrush="White">-->
+                            <!--<StackPanel Width="50">-->
+                            <telerik:RadRibbonButton VerticalAlignment="Center" HorizontalAlignment="Center" BorderBrush="#999" BorderThickness="3"  CollapseToSmall="WhenGroupIsMedium"  
+                                                     Name="btnrec" LargeImage="image\rec.png" SmallImage="image\rec.png" Size="Large" Text="Save"  />
+                            <!--<TextBlock Text="Save" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                                </StackPanel>-->
+                            <!--<StackPanel Width="50" Height="35">-->
+                            <telerik:RadRibbonButton VerticalAlignment="Top" HorizontalAlignment="Center" CollapseToSmall="WhenGroupIsMedium" 
+                                                     Name="btnrcl" LargeImage="image\any.png" SmallImage="image\any.png" Size="Large" Text="Delete"  />
+                            <!--<TextBlock Text="Delete" VerticalAlignment="Top" HorizontalAlignment="Center"/>
+                                </StackPanel>
+                            </telerik:RadButtonGroup>-->
+                            <!--</telerik:RadOrderedWrapPanel>-->
+                        </telerik:RadCollapsiblePanel>
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Header="Indexing" Name="grpindexing">
+                        <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btnindex" CollapseToSmall="WhenGroupIsSmall"
+                                                 Size="Large" Text="Add Value(s)" LargeImage="image\index.png" SmallImage="image\index.png">
+                        </telerik:RadRibbonButton>
+                    </telerik:RadRibbonGroup>
+                    <!--<telerik:RadRibbonGroup Header="Processing" Name="grpinvoice" >
+                        <telerik:RadRibbonButton CollapseToMedium="WhenGroupIsMedium" Name="btninvoice" CollapseToSmall="WhenGroupIsSmall" 
+                                                 Size="Large" Text="Invoice" LargeImage="image\index.png" SmallImage="image\index.png">
+                        </telerik:RadRibbonButton>
+                    </telerik:RadRibbonGroup>-->
+                    <telerik:RadRibbonGroup Header="Export" Name="RadRibGrpExp" IsHitTestVisible="True" Icon="image\fr.png">                        
+                        <telerik:RadRibbonButton BorderBrush="#999" BorderThickness="3"  Name="btnexp"  
+                                                 LargeImage="image\export21.png"   Size="Large" 
+                                                 Text="Send to Export" Click="btnexp_Click" />
+                    </telerik:RadRibbonGroup>
+                </telerik:RadRibbonTab>
+                <telerik:RadRibbonTab Header="Settings" Name="settab">
+                    <telerik:RadRibbonGroup Width="auto" Header="Settings" Name="RadRibGrpSet"  Height="90" VerticalAlignment="Top" >
+                        <telerik:RadRibbonButton Name="btnsan"   LargeImage="image\saneset.png" SmallImage="image\saneset.png" Size="Large" Text="Scan"  />
+                        <telerik:RadRibbonButton  Name="btnezc" LargeImage="images\ezcon.png" SmallImage="images\ezcon.png" Size="Large"  Text="Ezconfig" />
+                        <telerik:RadRibbonButton  Name="btnpapsav" LargeImage="images\48.png" SmallImage="images\48.png" Size="Large" Visibility="Collapsed"  Text="Paper" />
+                    </telerik:RadRibbonGroup>
+                    <telerik:RadRibbonGroup Width="auto" Header="Zonal" Height="90" VerticalAlignment="Top" Visibility="Collapsed">
+                        <telerik:RadRibbonButton  Name="btnsel"  LargeImage="images\setting.png" SmallImage="images\setting.png" Size="Large" Text="Select"  />
+                        <telerik:RadRibbonButton  Name="btnsav" LargeImage="images\freesve.png" SmallImage="images\freesve.png" Size="Large"  Text="Save" />
+                        <telerik:RadRibbonButton  Name="BtnSSelZonFile" LargeImage="images\freesve save file.png" SmallImage="images\freesve save file.png" Size="Large" Text="Select File" />
+                        <telerik:RadRibbonButton Name="btnbartype" CollapseToMedium="WhenGroupIsMedium"  CollapseToSmall="WhenGroupIsSmall" LargeImage="images\barcode.png" SmallImage="images\barcode.png" Size="Large" Text="Barcode" />
+                    </telerik:RadRibbonGroup>
+                </telerik:RadRibbonTab>
+                <telerik:RadRibbonView.Backstage >
+                    <telerik:RadRibbonBackstage  Height="90" VerticalAlignment="Top" >
+                        <telerik:RadRibbonBackstageItem Header="About Us" Icon="image\about.png" IsSelectable="False"  Name="AboutUs_Back" Click="AboutUs_Back_Click"/>
+                        <telerik:RadRibbonBackstageItem Header="Exit" Icon="image\any.png" IsSelectable="False" Name="Exit_BackStage" Click="Exit_BackStage_Click"/>
+                    </telerik:RadRibbonBackstage>
+                </telerik:RadRibbonView.Backstage>
+                <telerik:RadRibbonView.QuickAccessToolBar>
+                    <telerik:QuickAccessToolBar Name="QuickAccessBar" CustomizationMenuVisibility="Collapsed">
+                        <telerik:RadRibbonButton Text="Save" SmallImage="Image\scan.png"
+                                        Size="Small" Name="QuickScan" Click="QuickScan_Click"
+                                        telerik:KeyTipService.AccessText="1" />
+                        <telerik:RadRibbonButton Text="Undo" SmallImage="Image\rec.png"
+                                        Size="Small" Name="QuickRecord" Click="QuickRecord_Click"
+                                        telerik:KeyTipService.AccessText="2" />
+                        <telerik:RadDropDownButton Name="ddlang" Content="" Height="22" Width="20" DropDownWidth="100" />
+                    </telerik:QuickAccessToolBar>
+                </telerik:RadRibbonView.QuickAccessToolBar>
+            </telerik:RadRibbonView>
+        </StackPanel>
+        <telerik:RadDockPanel Name="pan" Margin="2" Grid.Row="1" >
+            <telerik:RadSplitContainer  Orientation="Horizontal" InitialPosition="DockedRight" Grid.ColumnSpan="2" Margin="0,0,0,0" Height="auto"  >
+                <telerik:RadPaneGroup telerik:ProportionalStackPanel.RelativeSize="150 200" OverridesDefaultStyle="False" Height="auto">
+                    <telerik:RadPane   Name="radf" PaneHeaderVisibility="Collapsed" ContextMenuTemplate="{x:Null}">
+                        <ECM:ECMLeftPane x:Name="LeftPane" Margin="0" Tif_SelectionChanged="LeftPane_Tif_SelectionChanged" Tif_unchecked="LeftPane_Tif_checkedChanged"  
+                                         Other_SelectionChanged="LeftPane_Other_SelectionChanged"/>
+                    </telerik:RadPane>
+                </telerik:RadPaneGroup>
+                <telerik:RadPaneGroup telerik:ProportionalStackPanel.RelativeSize="600 200" Height="auto" >
+                    <telerik:RadPane   Name="rads" PaneHeaderVisibility="Collapsed" >
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="*"/>
+                            </Grid.RowDefinitions>
+
+                            <!-- Top Panel -->
+                            
+                            <ECM:ECMViewer x:Name="ECMViewer" Grid.Row="1" />
+                        </Grid>
+                    </telerik:RadPane>
+                </telerik:RadPaneGroup>
+                <telerik:RadPaneGroup telerik:ProportionalStackPanel.RelativeSize="150,200" Height="auto" >
+                    <telerik:RadPane  Name="radt" PaneHeaderVisibility="Collapsed" ContextMenuTemplate="{x:Null}">
+                        <ECM:ECMRightPane   x:Name="RightPane" Margin="0"/>
+                    </telerik:RadPane>
+                </telerik:RadPaneGroup>
+            </telerik:RadSplitContainer>
+        </telerik:RadDockPanel>
+        <StatusBar   Grid.Row="2" >
+            <TextBlock  Name="stalab" Text ="Page"  Height="20" />
+        </StatusBar>
+        <Border x:Name="border2" Background="Transparent" Opacity="0" Visibility="Collapsed" Height="auto" Grid.Row="0" Grid.RowSpan="2" />
+        <Border x:Name="border1" Background="Transparent" BorderBrush="#FF7A7A7A" BorderThickness="0"  Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Right" 
+				Opacity="0" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+            <Image VerticalAlignment="Stretch"  HorizontalAlignment="Stretch"   Height="25" gif:ImageBehavior.AutoStart="True"  gif:ImageBehavior.AnimatedSource="Images/logo.gif" />
+        </Border>
+        <Border Background="Transparent" BorderBrush="#FF7A7A7A" VerticalAlignment="Top" HorizontalAlignment="Right"  Grid.Row="0" Margin="0,0,20,0">
+            <StackPanel Background="Transparent">
+                <Image  Source="Images/Logo.png"  Margin="0,0,2,0"   Height="48"   />
+            </StackPanel>
+        </Border>
+        <Border x:Name="border4" Background="#B2FFFFFF" Opacity="0" Visibility="Collapsed" Height="auto" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3" />
+        <Border x:Name="border3" Background="#643094" BorderBrush="#FF7A7A7A" BorderThickness="1" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3"
+				VerticalAlignment="Top" HorizontalAlignment="Right" Margin="30 60 30 40"
+				Opacity="0" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5">
+            <Border.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Border.RenderTransform>
+            <TextBlock Text="Processing ...." FontFamily="Segoe UI Light" FontSize="16" Background="#643094" Foreground="White"
+					   HorizontalAlignment="Center" VerticalAlignment="Center" Margin="8"/>
+        </Border>
+    </Grid>
+</Window>

@@ -1,0 +1,37 @@
+DateTime,Status,Filename
+
+10-30-2019 03:02:31,Exporting Files Started  ,
+
+10-30-2019 03:02:31,Error From ExportTiff Files : System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.ComboBox.get_Text()
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1354,10302019023051888-M0-S1.tif
+
+10-30-2019 03:02:32,Error From ExportTiff Files : System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.ComboBox.get_Text()
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1354,10302019023051888-M0-S2.tif
+
+10-30-2019 03:02:32,Error From ExportTiff Files : System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.ComboBox.get_Text()
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1354,10302019023051888-M0-S3.tif
+
+10-30-2019 03:02:32,Error From ExportTiff Files : System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.ComboBox.get_Text()
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1354,10302019023051888-M0-S4.tif
+
+10-30-2019 03:02:32,Error From ExportTiff Files : System.InvalidOperationException: The calling thread cannot access this object because a different thread owns it.
+   at System.Windows.Threading.Dispatcher.VerifyAccess()
+   at System.Windows.DependencyObject.GetValue(DependencyProperty dp)
+   at System.Windows.Controls.ComboBox.get_Text()
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1354,10302019023051888-M0-S5.tif
+
+10-30-2019 03:02:32,Exporting Files Completed.,
+
+10-30-2019 03:02:32,Number of Files Exported : 0 Out Of 5,

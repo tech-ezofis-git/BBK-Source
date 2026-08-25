@@ -1,0 +1,24 @@
+DateTime,Status,Filename
+
+08-06-2024 11:26:25,Exporting Files Started  ,
+
+08-06-2024 11:26:26,Check Mandatory Fields : ,C:\imaging\DCMS4 -2023-03-14 (2).tif
+
+08-06-2024 11:26:28,Check Mandatory Fields : ,C:\imaging\blankpage_A.pdf
+
+08-06-2024 11:26:51,Error From ExportPdf  System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\Working\Customers\Invita\Implementation\From Vinsi\Watch\14'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.Directory.InternalCreateDirectory(String fullPath, String path, Object dirSecurityObj, Boolean checkHost)
+   at System.IO.Directory.InternalCreateDirectoryHelper(String path, Boolean checkHost)
+   at System.IO.Directory.CreateDirectory(String path)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1873,C:\imaging\Green and White Minimalist Product Design Service Invoice_1.pdf
+
+08-06-2024 11:26:52,Check Mandatory Fields : ,C:\imaging\manualfile.pdf
+
+08-06-2024 11:26:52,Check Mandatory Fields : ,C:\imaging\sample (1).pdf
+
+08-06-2024 11:26:53,Check Mandatory Fields : ,C:\imaging\singlepage1.pdf
+
+08-06-2024 11:26:53,Exporting Files Completed.,
+
+08-06-2024 11:26:53,Number of Files Exported : 0 Out Of 6,

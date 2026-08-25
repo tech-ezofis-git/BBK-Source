@@ -1,0 +1,779 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props" Condition="Exists('..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props')" />
+  <Import Project="..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props" Condition="Exists('..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{930FFAB9-8913-4F00-BB97-CE63D9227ED0}</ProjectGuid>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ECMScanAndIndex</RootNamespace>
+    <AssemblyName>ECMScanAndIndex</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <MyType>Custom</MyType>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <PublishUrl>C:\Users\Arasu\Downloads\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.1</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>true</IncrementalBuild>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ECMScanAndIndex.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <IncrementalBuild>false</IncrementalBuild>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ECMScanAndIndex.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>ECMScanAndIndex.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>ECMScanAndIndex.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036,42314</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Images\scanbig.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>062FB172866CF5044F10C57A91549BB785DB7AEB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>ECMScanAndIndex_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="eZLicence, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\eZLicence.dll</HintPath>
+    </Reference>
+    <Reference Include="ezofis, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Ezofis Dlls\ezofis.dll</HintPath>
+    </Reference>
+    <Reference Include="ezofis.Export">
+      <HintPath>..\Ezofis Dlls\ezofis.Export.dll</HintPath>
+    </Reference>
+    <Reference Include="ezofis.Scan">
+      <HintPath>..\Ezofis Dlls\ezofis.Scan.dll</HintPath>
+    </Reference>
+    <Reference Include="ezofis.Split">
+      <HintPath>..\Ezofis Dlls\ezofis.Split.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Barcode">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Codecs.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs.Cmp">
+      <HintPath>..\Ezofis Dlls\Leadtools.Codecs.Cmp.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs.Fax">
+      <HintPath>..\Ezofis Dlls\Leadtools.Codecs.Fax.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs.Raw">
+      <HintPath>..\Ezofis Dlls\Leadtools.Codecs.Raw.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Codecs.Tif">
+      <HintPath>..\Ezofis Dlls\Leadtools.Codecs.Tif.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Document">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Document.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Forms">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Forms.DocumentWriters">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Forms.DocumentWriters.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Forms.Ocr">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Forms.Ocr.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Forms.Ocr.Plus">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.Forms.Ocr.Plus.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.ImageProcessing.Color">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.ImageProcessing.Color.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.ImageProcessing.Core">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.ImageProcessing.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.ImageProcessing.Effects">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.ImageProcessing.Effects.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.ImageProcessing.SpecialEffects">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.ImageProcessing.SpecialEffects.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.ImageProcessing.Utilities">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.ImageProcessing.Utilities.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Twain">
+      <HintPath>..\Ezofis Dlls\Leadtools.Twain.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Annotations">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Annotations.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Controls">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Controls.Pro">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Controls.Pro.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Media">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Media.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Media.Effects">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Media.Effects.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Media.TransitionBase">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Media.TransitionBase.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.Windows.Media.Transitions">
+      <HintPath>..\Ezofis Dlls\ass\Leadtools.Windows.Media.Transitions.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.WinForms">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.WinForms.CommonDialogs.Color">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.WinForms.CommonDialogs.Color.dll</HintPath>
+    </Reference>
+    <Reference Include="Leadtools.WinForms.CommonDialogs.File">
+      <HintPath>..\Ezofis Dlls\LeadTools Dlls\Leadtools.WinForms.CommonDialogs.File.dll</HintPath>
+    </Reference>
+    <Reference Include="LicenseDll, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Udhaya\LicenseDll\LicenseDll\bin\Debug\LicenseDll.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfiumViewer, Version=2.12.0.0, Culture=neutral, PublicKeyToken=91e4789cfb0609e0, processorArchitecture=MSIL">
+      <HintPath>..\packages\PdfiumViewer.2.12.0.0\lib\net20\PdfiumViewer.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Telerik.Pivot.Core, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\TO Demo for Saji\Al Brooge Securities\DemoZonal\14-Sep-2014\Capture\ezscan\bin\x64\Debug\Telerik.WinControls.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.PivotGrid, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\Microsoft.NET\assembly\GAC_MSIL\Telerik.WinControls.PivotGrid\v4.0_2012.2.912.40__5bb2a467cbec794e\Telerik.WinControls.PivotGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.WinControls.UI, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\..\TO Demo for Saji\Al Brooge Securities\DemoZonal\14-Sep-2014\Capture\ezscan\bin\x64\Debug\Telerik.WinControls.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Windows.Controls, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Chart, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Charting, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Data, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.DataServices, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.DataVisualization, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Diagrams, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Diagrams.Extensions, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Docking, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.EntityFramework, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Expressions, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.FixedDocumentViewers, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.GanttView, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.GridView, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.ImageEditor, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Input, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Navigation, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.Pivot, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.PivotFieldList, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.RibbonView, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.RichTextBoxUI, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Controls.ScheduleView, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Data, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Diagrams.Core, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.Fixed, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.Html, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.MsRichTextBoxXaml, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.OpenXml, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.Pdf, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.Rtf, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.FormatProviders.Xaml, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.Proofing, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.Proofing.DataGrid, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.Proofing.Dictionaries.En-US, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Documents.Proofing.RadGridView, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.PersistenceFramework, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Scheduling.Core, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.Windows.Zip, Version=2012.2.912.40, Culture=neutral, PublicKeyToken=5803cfa389c90ce7, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon">
+      <HintPath>..\..\..\..\Diamond Lease\Capture\ezscan\bin\x64\Debug\TelerikCommon.dll</HintPath>
+    </Reference>
+    <Reference Include="UseOffice">
+      <HintPath>..\Ezofis Dlls\UseOffice.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WpfAnimatedGif">
+      <HintPath>..\Ezofis Dlls\WpfAnimatedGif.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="Application.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="AliasAccount.vb" />
+    <Compile Include="AppContext.vb" />
+    <Compile Include="BarcodeTypeForm.xaml.vb">
+      <DependentUpon>BarcodeTypeForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ConfigSettings.vb" />
+    <Compile Include="ImportFileForm.xaml.vb">
+      <DependentUpon>ImportFileForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.xaml.vb">
+      <DependentUpon>LoginForm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Message.xaml.vb">
+      <DependentUpon>Message.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PaperSettings.xaml.vb">
+      <DependentUpon>PaperSettings.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="DialogUtilities.vb" />
+    <Compile Include="Language Resources\Main.Designer.vb" />
+    <Compile Include="Messager.vb" />
+    <Compile Include="PdfEngineDialog.designer.vb">
+      <DependentUpon>PdfEngineDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="PdfEngineDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pvariable.vb" />
+    <Compile Include="ServiceRef.Designer.vb">
+      <DependentUpon>ServiceRef.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServiceRef.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZonalSelectForm.xaml.vb">
+      <DependentUpon>ZonalSelectForm.xaml</DependentUpon>
+    </Compile>
+    <Page Include="BarcodeTypeForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ImportFileForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="LoginForm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Message.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="PaperSettings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="Application.xaml.vb">
+      <DependentUpon>Application.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.vb">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="ZonalSelectForm.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows" />
+    <Import Include="System.Windows.Controls" />
+    <Import Include="System.Windows.Data" />
+    <Import Include="System.Windows.Documents" />
+    <Import Include="System.Windows.Input" />
+    <Import Include="System.Windows.Shapes" />
+    <Import Include="System.Windows.Media" />
+    <Import Include="System.Windows.Media.Imaging" />
+    <Import Include="System.Windows.Navigation" />
+    <Import Include="Telerik" />
+    <Import Include="Telerik.Collections" />
+    <Import Include="Telerik.Collections.Generic" />
+    <Import Include="Telerik.Pivot.Core" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="My Project\AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="My Project\MyExtensions\MyWpfExtension.vb">
+      <VBMyExtensionTemplateID>Microsoft.VisualBasic.WPF.MyExtension</VBMyExtensionTemplateID>
+      <VBMyExtensionTemplateVersion>1.0.0.0</VBMyExtensionTemplateVersion>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Language Resources\Main.ar.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.de.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.es.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.fr.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.it.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.ja.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.pl.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Language Resources\Main.ru.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServiceRef.resx">
+      <DependentUpon>ServiceRef.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ECMScanAndIndex_TemporaryKey.pfx" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.DtSearchResultsItem.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZAlert.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZAlertCondition.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZAllottedTask.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZBarcodeType.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZCabinet.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZComments.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZCondition.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZDocumentAlert.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZDocumentCopyLink.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZDocumentLink.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZDuplicateType.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMCabinetLevel.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMControl.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMControlLevel.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMDocumentLevel.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMFieldLevel.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMGroup.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMLogin.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMProfile.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZECMUserInfo.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZERSInfo.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZERSIPs.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZFieldAlert.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZFieldAlertDetail.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZFolders.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZInbox.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookup.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupClientField.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupConnection.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupFields.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupServerType.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupSPparameters.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZLookupType.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZOutlookContact.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZPdfProperties.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZReminder.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZSchedule.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZScheduleType.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTask.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTaskUsers.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTempBarcode.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTempDatatype.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTemplate.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.eZTemplateField.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.WorkFlow_Activity.datasource" />
+    <None Include="My Project\DataSources\ezofis.UserControl.CAC.WorkFlow_Rule.datasource" />
+    <None Include="My Project\DataSources\System.Data.DataSet.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <AppDesigner Include="My Project\" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\area.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\ezcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\freesve.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\logo copy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\lzone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\savegreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\setting.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\synch.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\syncxl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\zoo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\about.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\any.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\any1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\arrw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\bk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\blackp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\currentp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\dbcc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\delete1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\download_folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\export21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\fit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\fitt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\fr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\free1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\freeh.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\frnt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\hit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\import.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\lft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\log.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\mag.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\merge.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\newzoom2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\nfhc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\nfwc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\pagesave1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\pageset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\pgecl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\pgt.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\rec.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\refresh.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\refresh3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\roatl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\rol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\saneset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\scan.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\sdx.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\secfr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\single.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\sp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\spl6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\wit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\xsane.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\zoi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\zoop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\zot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\main_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\logo.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\Export.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\Pause.png" />
+    <Resource Include="image\Play.png" />
+    <Resource Include="image\Stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\Deletes.png" />
+    <Content Include="x64\pdfium.dll" />
+    <Content Include="x86\pdfium.dll" />
+    <Resource Include="image\User.png" />
+    <Resource Include="image\rep.png" />
+    <Resource Include="Images\Logo.png" />
+    <Resource Include="Images\scanbig.ico" />
+    <Resource Include="Images\freesve save file.png" />
+    <Resource Include="Images\blackpg.png" />
+    <Resource Include="Images\colorpg.png" />
+    <Resource Include="Images\doc.png" />
+    <Resource Include="Images\info.png" />
+    <Resource Include="image\last.png" />
+    <Resource Include="image\next.png" />
+    <Resource Include="image\first.png" />
+    <Resource Include="image\previous.png" />
+    <Resource Include="image\ffirst.png" />
+    <Resource Include="image\flast.png" />
+    <Resource Include="image\fnext.png" />
+    <Resource Include="image\fprev.png" />
+    <Resource Include="image\index.png" />
+    <Resource Include="image\MicrosoftTeams-image %282%29.png" />
+    <Resource Include="image\MicrosoftTeams-image.png" />
+    <Resource Include="image\icons8-user-50.png" />
+    <Resource Include="image\icons8-password-30.png" />
+    <Resource Include="image\import1.png" />
+    <Content Include="image\TeamViewer9.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ezofis.LeftPane\ezofis.UserControl.vbproj">
+      <Project>{0b706315-07f9-4162-b553-05921c6f7331}</Project>
+      <Name>ezofis.UserControl</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.8">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.8 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\PdfiumViewer.Native.x86.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86.v8-xfa.props'))" />
+    <Error Condition="!Exists('..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\PdfiumViewer.Native.x86_64.v8-xfa.2018.4.8.256\build\PdfiumViewer.Native.x86_64.v8-xfa.props'))" />
+  </Target>
+</Project>

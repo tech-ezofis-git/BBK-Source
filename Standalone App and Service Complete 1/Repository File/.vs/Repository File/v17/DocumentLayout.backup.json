@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|c:\\users\\ezofis\\downloads\\standalone app and service complete 1\\repository file\\repository file\\popup.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\popup.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\batching.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\batching.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\repos.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\repos.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\repos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\repos.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\popup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\popup.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\batching.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\batching.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\fileform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\fileform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\form2.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\fileform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\fileform.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\notification.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\notification.xaml.vb||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\notification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\notification.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\repository file\\connectuncwithcredentials.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A1203DDE-0F9D-40C3-B34E-02255A01A119}|Repository File\\Repository File.vbproj|solutionrelative:repository file\\connectuncwithcredentials.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:828283592:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Batching.xaml",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Batching.xaml",
+              "RelativeDocumentMoniker": "Repository File\\Batching.xaml",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Batching.xaml",
+              "RelativeToolTip": "Repository File\\Batching.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-13T06:21:23.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.Designer.vb",
+              "RelativeDocumentMoniker": "Repository File\\Form2.Designer.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.Designer.vb",
+              "RelativeToolTip": "Repository File\\Form2.Designer.vb",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-13T06:18:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fileform.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Fileform.vb",
+              "RelativeDocumentMoniker": "Repository File\\Fileform.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Fileform.vb",
+              "RelativeToolTip": "Repository File\\Fileform.vb",
+              "ViewState": "AgIAABoAAAAAAAAAAAD4vysAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-13T03:00:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fileform.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Fileform.vb",
+              "RelativeDocumentMoniker": "Repository File\\Fileform.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Fileform.vb [Design]",
+              "RelativeToolTip": "Repository File\\Fileform.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-13T04:08:03.171Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.vb",
+              "RelativeDocumentMoniker": "Repository File\\Form2.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.vb [Design]",
+              "RelativeToolTip": "Repository File\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T07:27:35.593Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notification.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Notification.xaml.vb",
+              "RelativeDocumentMoniker": "Repository File\\Notification.xaml.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Notification.xaml.vb",
+              "RelativeToolTip": "Repository File\\Notification.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T05:18:26.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Notification.xaml",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Notification.xaml",
+              "RelativeDocumentMoniker": "Repository File\\Notification.xaml",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Notification.xaml",
+              "RelativeToolTip": "Repository File\\Notification.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-12T05:17:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Batching.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Batching.xaml.vb",
+              "RelativeDocumentMoniker": "Repository File\\Batching.xaml.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Batching.xaml.vb",
+              "RelativeToolTip": "Repository File\\Batching.xaml.vb",
+              "ViewState": "AgIAABMBAAAAAAAAAAAtwB0BAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-12T05:03:30.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repos.xaml",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Repos.xaml",
+              "RelativeDocumentMoniker": "Repository File\\Repos.xaml",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Repos.xaml",
+              "RelativeToolTip": "Repository File\\Repos.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T14:36:03.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Popup.xaml",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Popup.xaml",
+              "RelativeDocumentMoniker": "Repository File\\Popup.xaml",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Popup.xaml",
+              "RelativeToolTip": "Repository File\\Popup.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-11T14:31:15.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.vb",
+              "RelativeDocumentMoniker": "Repository File\\Form2.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form2.vb",
+              "RelativeToolTip": "Repository File\\Form2.vb",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAcwI8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-10T10:10:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Popup.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Popup.xaml.vb",
+              "RelativeDocumentMoniker": "Repository File\\Popup.xaml.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Popup.xaml.vb",
+              "RelativeToolTip": "Repository File\\Popup.xaml.vb",
+              "ViewState": "AgIAACoBAAAAAAAAAAAzwDoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-08T05:36:07.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repos.xaml.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Repos.xaml.vb",
+              "RelativeDocumentMoniker": "Repository File\\Repos.xaml.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Repos.xaml.vb",
+              "RelativeToolTip": "Repository File\\Repos.xaml.vb",
+              "ViewState": "AgIAAMoAAAAAAAAAAAAswNYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-08T05:36:07.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\App.config",
+              "RelativeDocumentMoniker": "Repository File\\App.config",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\App.config",
+              "RelativeToolTip": "Repository File\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-08T05:38:11.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ConnectUNCWithCredentials.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\ConnectUNCWithCredentials.vb",
+              "RelativeDocumentMoniker": "Repository File\\ConnectUNCWithCredentials.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\ConnectUNCWithCredentials.vb",
+              "RelativeToolTip": "Repository File\\ConnectUNCWithCredentials.vb",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-08T04:38:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form1.vb",
+              "RelativeDocumentMoniker": "Repository File\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form1.vb",
+              "RelativeToolTip": "Repository File\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-08T04:38:03.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form1.vb",
+              "RelativeDocumentMoniker": "Repository File\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ezofis\\Downloads\\Standalone App and Service Complete 1\\Repository File\\Repository File\\Form1.vb [Design]",
+              "RelativeToolTip": "Repository File\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-06-05T10:38:29.476Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

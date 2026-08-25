@@ -1,0 +1,35 @@
+DateTime,Status,Filename
+
+10-25-2019 05:12:51,Exporting Files Started  ,
+
+10-25-2019 05:12:51,Error From ExportPdf  System.IO.FileNotFoundException: Could not find file '10252019044759458-M0-S1.tif'.
+File name: '10252019044759458-M0-S1.tif'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1304,10252019044759458-M0-S1.tif
+
+10-25-2019 05:12:51,Error From ExportPdf  System.IO.FileNotFoundException: Could not find file '10252019044759458-M0-S2.tif'.
+File name: '10252019044759458-M0-S2.tif'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1304,10252019044759458-M0-S2.tif
+
+10-25-2019 05:12:51,Error From ExportPdf  System.IO.FileNotFoundException: Could not find file '10252019044759458-M0-S3.tif'.
+File name: '10252019044759458-M0-S3.tif'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1304,10252019044759458-M0-S3.tif
+
+10-25-2019 05:12:51,Error From ExportPdf  System.IO.FileNotFoundException: Could not find file '10252019044759458-M0-S4.tif'.
+File name: '10252019044759458-M0-S4.tif'
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1304,10252019044759458-M0-S4.tif
+
+10-25-2019 05:12:51,Exporting Files Completed.,
+
+10-25-2019 05:12:51,Number of Files Exported : 0 Out Of 4,

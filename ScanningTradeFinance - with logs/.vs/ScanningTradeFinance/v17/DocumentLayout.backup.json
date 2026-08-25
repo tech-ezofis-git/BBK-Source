@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|c:\\dfolder\\sara\\scanningtradefinance\\scanningtradefinance - with logs\\scanningtradefinance\\apifunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\apifunctions.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\ecmviewer.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\ecmviewer.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\loginform.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\loginform.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\loginform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\submittedworkitemsgrid.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\submittedworkitemsgrid.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\scanningtradefinance\\notifywin.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4D07CA56-0383-4E22-8675-321CE15F7794}|ScanningTradeFinance\\ScanningTradeFinance.vbproj|solutionrelative:scanningtradefinance\\notifywin.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:828283592:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ECMViewer.xaml.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\ECMViewer.xaml.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\ECMViewer.xaml.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\ECMViewer.xaml.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\ECMViewer.xaml.vb",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-04T03:30:12.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmittedWorkItemsGrid.xaml.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\SubmittedWorkItemsGrid.xaml.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\SubmittedWorkItemsGrid.xaml.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\SubmittedWorkItemsGrid.xaml.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\SubmittedWorkItemsGrid.xaml.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwDcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-07-04T03:30:12.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.xaml",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\LoginForm.xaml",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\LoginForm.xaml",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\LoginForm.xaml",
+              "RelativeToolTip": "ScanningTradeFinance\\LoginForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-03T13:12:27.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "notifywin.xaml.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\notifywin.xaml.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\notifywin.xaml.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\notifywin.xaml.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\notifywin.xaml.vb",
+              "ViewState": "AgIAAA4AAAAAAAAAAAD4vxMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-25T09:19:49.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiFunctions.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\ApiFunctions.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\ApiFunctions.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\ApiFunctions.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\ApiFunctions.vb",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAIwJEAAADHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T18:33:04.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\MainWindow.xaml.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAPQPAAAAAAAAAAAtwP4PAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-18T17:08:09.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\App.config",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\App.config",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\App.config",
+              "RelativeToolTip": "ScanningTradeFinance\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-18T18:08:26.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.xaml.vb",
+              "DocumentMoniker": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\LoginForm.xaml.vb",
+              "RelativeDocumentMoniker": "ScanningTradeFinance\\LoginForm.xaml.vb",
+              "ToolTip": "C:\\DFolder\\Sara\\ScanningTradeFinance\\ScanningTradeFinance - with logs\\ScanningTradeFinance\\LoginForm.xaml.vb",
+              "RelativeToolTip": "ScanningTradeFinance\\LoginForm.xaml.vb",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAcwLAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-12T13:00:37.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

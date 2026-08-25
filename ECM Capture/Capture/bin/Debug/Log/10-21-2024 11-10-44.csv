@@ -1,0 +1,15 @@
+DateTime,Status,Filename
+
+10-21-2024 11:10:44,Exporting Files Started  ,
+
+10-21-2024 11:10:44,Check Mandatory Fields : ,C:\imaging\10-page-sample.pdf
+
+10-21-2024 11:10:45,Check Mandatory Fields : ,C:\imaging\24EXT2425-10824.pdf
+
+10-21-2024 11:10:46,Record Saved Successfully in eZFileupload table ,C:\imaging\ADNC.pdf
+
+10-21-2024 11:10:46,item id : 1,C:\imaging\ADNC.pdf
+
+10-21-2024 11:10:47,Exporting Files Completed.,
+
+10-21-2024 11:10:47,Number of Files Exported : 1 Out Of 3,

@@ -1,0 +1,23 @@
+DateTime,Status,Filename
+
+10-29-2019 03:47:32,Exporting Files Started  ,
+
+10-29-2019 03:47:33,Record Saved Successfully in eZFileupload table ,C:\imaging\10292019034659210-M0-S1.tif
+
+10-29-2019 03:47:33,item id : 1,C:\imaging\10292019034659210-M0-S1.tif
+
+10-29-2019 03:47:34,Error From ExportPdf  System.IO.IOException: The file 'E:\Working\Customers\Invita\Implementation\From Vinsi\Watch\9\291020190347PM.tif' already exists.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   at System.IO.File.Copy(String sourceFileName, String destFileName)
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in E:\Working\Customers\Invita\Implementation\From Vinsi\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1314,C:\imaging\10292019034659210-M0-S2.tif
+
+10-29-2019 03:47:34,Check Mandatory Fields : ,C:\imaging\10292019034659210-M0-S3.tif
+
+10-29-2019 03:47:35,Check Mandatory Fields : ,C:\imaging\10292019034659210-M0-S4.tif
+
+10-29-2019 03:47:35,Check Mandatory Fields : ,C:\imaging\10292019034659210-M0-S5.tif
+
+10-29-2019 03:47:35,Exporting Files Completed.,
+
+10-29-2019 03:47:35,Number of Files Exported : 1 Out Of 5,

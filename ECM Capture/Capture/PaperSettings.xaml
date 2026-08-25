@@ -1,0 +1,21 @@
+﻿<Window x:Class="PaperSettings"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Paper Settings" Height="171" Width="309" WindowStartupLocation="CenterOwner" WindowStyle="SingleBorderWindow">
+    <Grid Height="138">
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition Width="160*" />          
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height ="50" />
+            <RowDefinition Height="34*" />
+            <RowDefinition Height="54*" />
+        </Grid.RowDefinitions>
+        <RadioButton Name="RadioButton1"  Grid.Row="0" HorizontalAlignment="Center"  Content="Black and White"  VerticalAlignment="Center"/>
+        <RadioButton Name="RadioButton2"  Grid.Row="1" Content="Color" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+
+        <Button Content="Done" Height="23" HorizontalAlignment="Center" Margin="10,19,0,0" Name="BtnSaveZonal" VerticalAlignment="Center" Width="75" Grid.Column="1" Grid.Row="2" />
+        
+    </Grid>
+</Window>

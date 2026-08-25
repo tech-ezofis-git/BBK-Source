@@ -1,0 +1,165 @@
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Repository File.exe.config
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Repository File.exe
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Repository File.pdb
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Repository File.xml
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EZ002\source\repos\Repository File\Repository File\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Popup.baml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Popup.g.vb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repos.g.vb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Notification.g.vb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File_Content.g.vb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.cache
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.lref
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repos.baml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Notification.baml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.g.resources
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository_File.Fileform.resources
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository_File.Form1.resources
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository_File.Resources.resources
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.vbproj.GenerateResource.cache
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.vbproj.CoreCompileInputs.cache
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.vbproj.CopyComplete
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.exe
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.xml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository File.pdb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Batching.g.vb
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Batching.baml
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository_File.Formbatch.resources
+C:\Users\EZ002\source\repos\Repository File\Repository File\obj\Debug\Repository_File.Form2.resources
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Repository File.exe.config
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Repository File.exe
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Repository File.pdb
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Repository File.xml
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Newtonsoft.Json.dll
+G:\Source\Standalone\Repository File\Repository File\bin\Debug\Newtonsoft.Json.xml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Popup.baml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Batching.g.vb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Popup.g.vb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repos.g.vb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Notification.g.vb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File_Content.g.vb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.cache
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.lref
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Batching.baml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repos.baml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Notification.baml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.g.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository_File.Fileform.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository_File.Form1.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository_File.Form2.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository_File.Formbatch.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository_File.Resources.resources
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.vbproj.GenerateResource.cache
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.vbproj.CoreCompileInputs.cache
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.vbproj.CopyComplete
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.exe
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.xml
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.pdb
+G:\Source\Standalone\Repository File\Repository File\obj\Debug\Repository File.vbprojAssemblyReference.cache
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Repository File.exe.config
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Repository File.exe
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Repository File.pdb
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Repository File.xml
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Newtonsoft.Json.dll
+F:\MY SOURCE\Repository File\Repository File\bin\Debug\Newtonsoft.Json.xml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Popup.baml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Batching.g.vb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Popup.g.vb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repos.g.vb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Notification.g.vb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File_Content.g.vb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.cache
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.lref
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Batching.baml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repos.baml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Notification.baml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.g.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository_File.Fileform.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository_File.Form1.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository_File.Form2.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository_File.Formbatch.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository_File.Resources.resources
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.vbproj.GenerateResource.cache
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.vbproj.CoreCompileInputs.cache
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.vbproj.CopyComplete
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.exe
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.xml
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.pdb
+F:\MY SOURCE\Repository File\Repository File\obj\Debug\Repository File.vbprojAssemblyReference.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.vbprojAssemblyReference.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.vbproj.ResolveComReference.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Popup.baml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Batching.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\MessageWin.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Popup.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repos.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Notification.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File_Content.g.vb
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.lref
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Repository File.exe.config
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Repository File.exe
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Repository File.pdb
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Repository File.xml
+D:\shiva\harron\Repository File\Repository File\bin\Debug\MaterialDesignColors.dll
+D:\shiva\harron\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Newtonsoft.Json.dll
+D:\shiva\harron\Repository File\Repository File\bin\Debug\MaterialDesignColors.pdb
+D:\shiva\harron\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\shiva\harron\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\shiva\harron\Repository File\Repository File\bin\Debug\Newtonsoft.Json.xml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Batching.baml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\MessageWin.baml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repos.baml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Notification.baml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.g.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository_File.Fileform.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository_File.Form1.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository_File.Form2.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository_File.Formbatch.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository_File.Resources.resources
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.vbproj.GenerateResource.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.vbproj.CoreCompileInputs.cache
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.vbproj.CopyComplete
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.exe
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.xml
+D:\shiva\harron\Repository File\Repository File\obj\Debug\Repository File.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.vbproj.AssemblyReference.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.vbproj.ResolveComReference.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Popup.baml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Batching.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\MessageWin.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Popup.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repos.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Notification.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File_Content.g.vb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File_MarkupCompile.lref
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Batching.baml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\MessageWin.baml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repos.baml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Notification.baml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.g.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Repository File.exe.config
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Repository File.exe
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Repository File.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Repository File.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository_File.Fileform.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository_File.Form1.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository_File.Form2.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository_File.Formbatch.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository_File.Resources.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.vbproj.GenerateResource.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.vbproj.CoreCompileInputs.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Reposito.6DAC9780.Up2Date
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\Repository File\Repository File\obj\Debug\Repository File.exe

@@ -1,0 +1,16 @@
+DateTime,Status,Filename
+
+08-06-2024 03:42:52,Exporting Files Started  ,
+
+08-06-2024 03:42:52,Check Mandatory Fields : ,C:\imaging\DCMS4 -2023-03-14 (2).tif
+
+08-06-2024 03:43:11,Record Saved Successfully in eZFileupload table ,C:\imaging\sample (1).pdf
+
+08-06-2024 03:43:14,item id : 1,C:\imaging\sample (1).pdf
+
+08-06-2024 03:43:32,Error From ExportPdf  System.NullReferenceException: Object reference not set to an instance of an object.
+   at ezofis.UserControl.ECMRightPane.ExportToEngine(String filenames) in D:\New folder (4)\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1910,C:\imaging\sample (1).pdf
+
+08-06-2024 03:43:36,Record Saved Successfully in eZFileupload table ,C:\imaging\singlepage1.pdf
+
+08-06-2024 03:43:37,item id : 1,C:\imaging\singlepage1.pdf

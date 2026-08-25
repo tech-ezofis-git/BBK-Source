@@ -1,0 +1,36 @@
+﻿<Window x:Class="Message"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ECMQCAndExport"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="QC And Export" Height="230" Width="400" Icon="Images/logo copy.ico" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Label Content="Number Of Files Processed  : " Width="165" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="25,20,0,0"></Label>
+            <Label Content="1000" Name="lbltot"   Width="40" HorizontalAlignment="Left" VerticalAlignment="Center"  Margin="200,20,0,0"></Label>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Label Content="Number Of Files initiated to archive : " Width="200" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="25,0,0,20" ></Label>
+            <Label Content="0" Name="lblexported" Width="40"  HorizontalAlignment="Left" VerticalAlignment="Center" Margin="230,0,0,20" ></Label>
+            
+        </Grid>
+        <Grid Grid.Row="2">
+            <Label Content="* Please allow some time for the export to complete. " Foreground="Red" FontSize="10" HorizontalAlignment="Left"  VerticalAlignment="Top"  ></Label>
+        </Grid>
+    <Grid Grid.Row="3">
+           
+            <Button Name="Btnclose" Content="Ok" Width="120" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                    Background="WhiteSmoke" Height="30" Margin="20,0,0,0" Click="Btnclose_Click"></Button>
+            <Button Name="ViewLog" Content="View Log" HorizontalAlignment="Left" VerticalAlignment="Center" 
+                    Width="120" Background="WhiteSmoke" Height="30" Click="ViewLog_Click" Margin="160,0,0,0"></Button>
+        </Grid>
+    </Grid>
+</Window>

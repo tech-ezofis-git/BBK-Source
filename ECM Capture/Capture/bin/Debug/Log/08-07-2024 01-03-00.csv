@@ -1,0 +1,17 @@
+DateTime,Status,Filename
+
+08-07-2024 01:03:00,Exporting Files Started  ,
+
+08-07-2024 01:03:02,Record Saved Successfully in eZFileupload table ,C:\imaging\07082024100541297.pdf
+
+08-07-2024 01:03:02,item id : 1,C:\imaging\07082024100541297.pdf
+
+08-07-2024 01:03:03,Record Saved Successfully in eZFileupload table ,C:\imaging\07082024100546557.pdf
+
+08-07-2024 01:03:03,item id : 1,C:\imaging\07082024100546557.pdf
+
+08-07-2024 01:03:04,Check Mandatory Fields : ,C:\imaging\07082024100756476.pdf
+
+08-07-2024 01:03:04,Exporting Files Completed.,
+
+08-07-2024 01:03:04,Number of Files Exported : 2 Out Of 3,

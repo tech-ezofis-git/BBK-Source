@@ -1,0 +1,1292 @@
+﻿<Window x:Class="MainWindow"
+        xmlns:ECM="clr-namespace:ScanningTradeFinance"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+          xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:ScanningTradeFinance"
+        mc:Ignorable="d"
+        Title="ScanningTradeFinance" Name="mainwnd"  WindowStyle="None"  WindowStartupLocation="CenterScreen"  d:DesignWidth="1280" d:DesignHeight="600"   ResizeMode="NoResize" SizeChanged="Window_SizeChanged"  
+>
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="LightBlue"  SecondaryColor="DeepPurple" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <Storyboard x:Key="PageProgress1" >
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border7">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border6">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border7">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>
+            <!--<Storyboard x:Key="PageProgress" >
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border7">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border7">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border6">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>-->
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <!--<DockPanel Background="GhostWhite">-->
+        <Border BorderThickness="1" BorderBrush="Black" >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="45"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid Grid.Row="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="5"/>
+                    </Grid.RowDefinitions>
+                    <Grid x:Name="mainhead" Grid.Row="0" Background="#00BCD4" MouseDown="mainhead_MouseDown">
+                        <StackPanel HorizontalAlignment="Left" Margin="50,3,0,0">
+                            <Label Content="EZCAPTURE - TRADE FINANCE" Foreground="White" FontSize="16" />
+                        </StackPanel>
+                        <StackPanel  Orientation="Horizontal"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center">
+
+                            <Button x:Name="MinimizeButton" Background="White"  ToolTip="Minimize"
+                KeyboardNavigation.IsTabStop="False"
+                Click="MinimizeButton_Click">
+                                <Image Source="/Image/icons8-macos-minimize-32.png"  HorizontalAlignment="Left" />
+                            </Button>
+
+                            <Button x:Name="CloseButton"  ToolTip="close"  Background="Red" 
+                KeyboardNavigation.IsTabStop="False" Click="CloseButton_Click"
+                >
+                                <Image Source="/Image/cancel.png"  HorizontalAlignment="Left"  />
+                            </Button>
+
+                        </StackPanel>
+                    </Grid>
+                    <Grid Grid.Row="0" Grid.RowSpan="2">
+                        <Image Source="/Image/logo.png"  HorizontalAlignment="Left" />
+                    </Grid>
+
+                </Grid>
+                <!--head end-->
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="4*"/>
+                        <ColumnDefinition Width="6*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid Grid.Row="1" Grid.Column="0">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="40*"/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="100"/>
+                            <RowDefinition Height="80"/>
+                            <RowDefinition Height="110"/>
+                            <!--<RowDefinition Height="70"/>-->
+                            <RowDefinition Height="80*"/>
+                            <RowDefinition Height="110"/>
+                        </Grid.RowDefinitions>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Margin="5,5" Grid.ColumnSpan="2" >
+                            <Grid Grid.Row="0" Grid.Column="0" Margin="10,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="3*"/>
+                                    <ColumnDefinition Width="3.5*"/>
+                                    <ColumnDefinition Width="2*"/>
+                                    <ColumnDefinition Width="0.5*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="0.80*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+
+                                <Grid Grid.Row="0" Grid.Column="0">
+                                    <Label Content="ACCOUNT NUMBER"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center"  />
+                                </Grid>
+
+                                <Grid Grid.Row="0" Grid.Column="1">
+                                    <TextBox Margin="20,3" x:Name="txtAccountNo"   BorderThickness="1"   BorderBrush="#837E7C"  TextWrapping="Wrap" Text=""   SelectionBrush="Black" Foreground="Black" FontSize="12" FontWeight="Medium" FontFamily="Roboto" VerticalAlignment="Bottom"  />
+                                </Grid>
+                                <Grid Grid.Row="1" Grid.Column="0">
+                                    <Label Grid.Row="1"  Grid.Column="0" Content="[ OR ]"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center"/>
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="2" >
+                                    <Button   x:Name="btnVERIFY" Content="VERIFY" Background="#FDD017"  Foreground="Firebrick" Height="25" VerticalAlignment="Center" HorizontalAlignment="Stretch" />
+                                </Grid>
+                                <Grid Grid.Row="0" Grid.Column="3" >
+                                    <fa:ImageAwesome Icon="Spinner" Spin="True" Grid.Row="2" Grid.RowSpan="2" Foreground="#00a5ff"  Width="20" Name="btnAccNoVerifySpin"  Visibility="Collapsed"/>
+                                </Grid>
+                                <Grid Grid.Row="2" Grid.Column="0">
+
+                                    <Label  Content="WORK ITEM REFERENCE"   FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center" Grid.ColumnSpan="2" Margin="0,4,0,3" />
+                                </Grid>
+                                <Grid Grid.Row="2" Grid.Column="1">
+                                    <TextBox  Margin="20,3" x:Name="txtWorkItemNo"    BorderThickness="1"   BorderBrush="#837E7C"  TextWrapping="Wrap" Text=""   FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"/>
+                                </Grid>
+                                <Grid Grid.Row="2" Grid.Column="2" >
+                                    <Button   x:Name="btnVERIFYWorkItem" Content="VERIFY" Background="#FDD017"  Foreground="Firebrick" VerticalAlignment="Center" HorizontalAlignment="Stretch" Height="25" />
+                                </Grid>
+                                <Grid Grid.Row="2" Grid.Column="3" >
+                                    <fa:ImageAwesome Icon="Spinner" Spin="True" Grid.Row="2" Grid.RowSpan="2" Foreground="#00a5ff"  Width="20" Name="btnWorkItemVerifySpin"  Visibility="Collapsed"/>
+                                </Grid>
+                            </Grid>
+
+                        </Border>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Margin="5,5" Grid.Row="1" Grid.ColumnSpan="2">
+                            <Grid Grid.Row="1">
+                                <DataGrid x:Name="gridAccountDetails" BorderBrush="Gray" BorderThickness="1"  GridLinesVisibility="All"  HorizontalGridLinesBrush="Black"
+          VerticalGridLinesBrush="LightGray"  AutoGenerateColumns="False" IsReadOnly="True" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" ItemsSource="{Binding}" Margin="5" AlternatingRowBackground = "LightBlue" RowHeight="25" >
+
+                                    <!--<DataTemplate>
+                                        <Image Width="40" Height="40"
+           Stretch="UniformToFill" StretchDirection="Both"
+           RenderOptions.BitmapScalingMode="HighQuality">
+                                            <Image.Style>
+                                                <Style TargetType="Image">
+                                                    <Setter Property="Source" Value="/image/fit.png" />
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding Status}" Value="ACTIVE">
+                                                            <Setter Property="Source" Value="/image/delete-forever-outline.png" />
+                                            
+            </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </Image.Style>
+                                        </Image>
+                                    </DataTemplate>-->
+
+
+                                    <!--<DataGrid.Resources>
+                                        <Style x:Key="HyperlinkImageStyle" TargetType="{x:Type Image}">
+                                            <Setter Property="Source" Value="/image/delete-forever-outline.png"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding IsHyperlink}" Value="True">
+                                                    <Setter Property="Source" Value="/image/fit.png"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                        <DataTemplate x:Key="HyperLinkImageColumnTemplate">
+                                            <Image Style="{StaticResource HyperlinkImageStyle}"/>
+                                        </DataTemplate>
+                                    </DataGrid.Resources>-->
+
+                                    <!--<DataGridTemplateColumn Header="STATUS" Width="SizeToCells" IsReadOnly="True">
+                                        <DataGridTemplateColumn.CellTemplate>
+                                            <DataTemplate>
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="{Binding name}" />
+                                                    <Image Source="{Binding Path=crestUrl, Converter={StaticResource NameToImageConverter}}" />
+                                                </StackPanel>
+                                            </DataTemplate>
+                                        </DataGridTemplateColumn.CellTemplate>
+                                    </DataGridTemplateColumn>-->
+                                    <DataGrid.ColumnHeaderStyle>
+
+                                        <Style TargetType="DataGridColumnHeader">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="13"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+                                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                        </Style>
+                                    </DataGrid.ColumnHeaderStyle>
+                                    <DataGrid.CellStyle>
+                                        <Style TargetType="DataGridCell">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="12"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+                                            <Setter Property="Background" Value="LightGreen"/>
+                                            <!--<Setter Property="VerticalContentAlignment" Value="Stretch"></Setter>-->
+                                        </Style>
+                                    </DataGrid.CellStyle>
+                                    <DataGrid.Columns>
+                                        <DataGridTextColumn Header="ACCOUNT NUMBER" Binding="{Binding AccountNo}" Width="*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="ACCOUNT TYPE" Binding="{Binding AccountType}"  Width="*"  >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="RIM NUMBER" Binding="{Binding RIMNumber}"  Width="*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="STATUS" Binding="{Binding Status}"  Width="*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                         
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="RIMTYPE" Binding="{Binding RIMTYPE}"  Width="*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="RIMName" Binding="{Binding RIMName}"  Width="*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+
+                                        </DataGridTextColumn>
+                                        <!--<DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*"  />-->
+
+                                    </DataGrid.Columns>
+                                </DataGrid>
+                            </Grid>
+                        </Border>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5" Margin="5,5" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2">
+                            <Grid Grid.Row="2" Grid.Column="0" Margin="10,0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="3*"/>
+                                    <ColumnDefinition Width="7*"/>
+                                   
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                    <RowDefinition Height="1*"/>
+                                </Grid.RowDefinitions>
+                                <Label Grid.Row="0"  Grid.Column="0" Content="PRODUCT LIST"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center"  />
+                                <ComboBox  materialDesign:HintAssist.Hint="Select Product" Margin="5,3" x:Name="cbProductList"  Grid.Row="0"  Grid.Column="1" FontSize="12" FontWeight="Medium"  Foreground="Black"  BorderThickness="1"  ItemsSource="{Binding}" IsEditable="False">
+                                </ComboBox>
+                                <Label Grid.Row="1"  Grid.Column="0" Content="PHASE"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center"  />
+                                <ComboBox x:Name="cbPhase" materialDesign:HintAssist.Hint="Select Phase"  Grid.Row="1" Margin="5,3" Grid.Column="1" FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"  BorderThickness="1"     ItemsSource="{Binding}">
+                                </ComboBox>
+                                <Label Grid.Row="2"  Grid.Column="0" Content="DOCUMENT TYPE"   FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center" Visibility="Hidden" />
+                                <!--<ComboBox   x:Name="cbDocumentType" materialDesign:HintAssist.Hint="select Document Type"   Grid.Row="2"  Grid.Column="1" Margin="5,3" VerticalAlignment="Center"   FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"   BorderThickness="1"   BorderBrush="#837E7C"  ItemsSource="{Binding}"  ScrollViewer.HorizontalScrollBarVisibility="Auto" SelectionChanged="cbDocumentType_SelectionChanged">
+                                </ComboBox>-->
+                                <ComboBox x:Name="cbDocumentType" materialDesign:HintAssist.Hint="Select Document Type"   Grid.Row="2"  Grid.Column="1" Margin="5,3" VerticalAlignment="Center"   FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" BorderThickness="1" BorderBrush="#837E7C" ItemsSource="{Binding}" SelectedValuePath="Content"  ScrollViewer.HorizontalScrollBarVisibility="Auto" SelectionChanged="cbDocumentType_SelectionChanged" Visibility="Hidden">
+                                </ComboBox>
+                                <Label Grid.Row="2"  Grid.Column="0" Content="TYPE"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" VerticalAlignment="Center"  />
+                                <ComboBox x:Name="cbfiletype" materialDesign:HintAssist.Hint="Select Type"  Grid.Row="2" Margin="5,3" Grid.Column="1" FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"  BorderThickness="1"  IsEnabled="True"   ItemsSource="{Binding}">
+                                </ComboBox>
+                            </Grid>
+                        </Border>
+
+                        <Border BorderThickness="1" BorderBrush="Gray" CornerRadius="5" Margin="5,5" Grid.Column="0" Grid.Row="3" Grid.ColumnSpan="2" Visibility="Collapsed" >
+                            <Grid Grid.Row="3" Grid.Column="0"  >
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1*"/>
+                                    <ColumnDefinition Width="1*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <Button Grid.Column="0" Grid.Row="0"  x:Name="btnclear" Background="Orange" BorderBrush="Orange"  Foreground="White" Margin="10,0" Height="40" Click="btnclear_Click">
+                                    <TextBlock Text="Clear" TextWrapping="Wrap"  TextAlignment="Center"/>
+                                </Button>
+
+                                <Button Grid.Column="1" Grid.Row="0" x:Name="btnINITIATESCANNING"     IsEnabled="False" Foreground="White" Margin="10,0" Height="40">
+                                    <TextBlock Text="INITIATE SCANNING" TextWrapping="Wrap"  TextAlignment="Center"/>
+                                </Button>
+                            </Grid>
+                        </Border>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5"  Margin="5,5" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2">
+                            <Grid Grid.Row="3" Grid.Column="0">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="30"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+
+
+                                <StackPanel Orientation="Horizontal" HorizontalAlignment="Left">
+                                    <Label Grid.Row="0"  Margin="5,3" Content="Mandatory Documents / Received" HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="Black" FontFamily="Roboto" FontSize="12" FontWeight="Bold"/>
+
+                                    <CheckBox x:Name="chkboxShowLocally" Grid.Row="0"   Margin="5,3"  Content="Show Locally Scanned Files" HorizontalAlignment="Center" VerticalAlignment="Top"  Foreground="Black" FontFamily="Roboto" FontSize="12" FontWeight="Bold" Checked="chkboxShowLocally_Checked" Unchecked="chkboxShowLocally_Unchecked" Visibility="Hidden" />
+
+                                    <TextBlock  x:Name="txtwir" Text="" Grid.Row="0"  Margin="5" HorizontalAlignment="Left" VerticalAlignment="Center"  Foreground="Black" FontFamily="Roboto" FontSize="12"  FontWeight="Bold" />
+                                </StackPanel>
+
+
+                                <!--<DataGrid Grid.Row="1" x:Name="gridSubmittedDocuments" BorderBrush="Gray" BorderThickness="1"  GridLinesVisibility="All"  HorizontalGridLinesBrush="Black"
+          VerticalGridLinesBrush="LightGray" AutoGenerateColumns="False" IsReadOnly="True" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" ItemsSource="{Binding}" Margin="5,0" AlternatingRowBackground = "MediumSeaGreen"  SelectionUnit="FullRow" RowHeight="25" >
+                                    -->
+                                <!--Cursor="Hand"-->
+                                <!--
+
+
+                                    <DataGrid.ColumnHeaderStyle>
+                                        <Style TargetType="DataGridColumnHeader">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="13"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+                                        </Style>
+                                    </DataGrid.ColumnHeaderStyle>
+                                    <DataGrid.CellStyle>
+                                        <Style TargetType="DataGridCell">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="12"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+                                            <Setter Property="Background" Value="LightGreen"/>
+                                        </Style>
+                                    </DataGrid.CellStyle>
+                                    <DataGrid.Columns>
+                                        -->
+                                <!--<DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*" Visibility="Hidden" />-->
+                                <!--
+                                        <DataGridTextColumn Header="PRODUCT" Binding="{Binding PRODUCT}" Width="*"  Visibility="Hidden"  >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="HorizontalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="PHASE" Binding="{Binding PHASE}" Width="*"  Visibility="Hidden" />
+                                        <DataGridTextColumn Header="SUBMITTED FILES" Binding="{Binding SUBMITTEDFiles}" Width="2*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        -->
+                                <!--<DataGridHyperlinkColumn  Header="SUBMITTED FILES" Binding="{Binding SUBMITTEDFiles}" Width="2*">-->
+                                <!--<DataGridHyperlinkColumn.ElementStyle>
+                                                <Style>
+                                                    <EventSetter Event="Hyperlink.Click" Handler="Hyperlink_Click"/>
+                                                </Style>
+                                            </DataGridHyperlinkColumn.ElementStyle>-->
+                                <!--</DataGridHyperlinkColumn>-->
+                                <!--
+                                        <DataGridTextColumn Header="NO OF PAGES" Binding="{Binding NoPage}"  Width="0.65*"  >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                    <Setter Property="HorizontalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="SCANNED AT" Binding="{Binding ScannedAt}"  Width="*"  Visibility="Hidden" />
+                                        <DataGridTextColumn Header="SCANNED BY" Binding="{Binding Scannedby}"  Width="*"  Visibility="Hidden" />
+                                        <DataGridTextColumn Header="SCANNED ON" Binding="{Binding Scannedon}"  Width="1*">
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="ITEM ID" Binding="{Binding itemid}" Visibility="Hidden" />
+                                        -->
+                                <!--<DataGridTextColumn Header="CREATEDDATE" Binding="{Binding createdon}"  Width="*"  />-->
+                                <!--<DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*" />-->
+                                <!--
+                                    </DataGrid.Columns>
+                                </DataGrid>-->
+
+
+                                <DataGrid Grid.Row="1" x:Name="gridSubmittedDocuments" BorderBrush="Gray" BorderThickness="1"  GridLinesVisibility="All"  HorizontalGridLinesBrush="LightGray"
+          VerticalGridLinesBrush="LightGray" AutoGenerateColumns="False" IsReadOnly="True" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" ItemsSource="{Binding}" Margin="5,0" SelectionUnit="FullRow" RowHeight="25" HeadersVisibility="Column" >
+                                    <!--Cursor="Hand"-->
+                                    <DataGrid.Resources>
+                                        <SolidColorBrush x:Key="{x:Static SystemColors.HighlightBrushKey}" 
+                   Color="LightGreen"/>
+
+                                    </DataGrid.Resources>
+
+                                    <DataGrid.ColumnHeaderStyle>
+                                        <Style TargetType="DataGridColumnHeader">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="13"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                                            <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+                                        </Style>
+                                    </DataGrid.ColumnHeaderStyle>
+                                    <DataGrid.CellStyle>
+                                        <Style TargetType="DataGridCell">
+                                            <Setter Property="FontFamily" Value="Roboto"/>
+                                            <Setter Property="FontSize" Value="12"/>
+                                            <Setter Property="FontWeight" Value="Normal"/>
+                                            <Setter Property="Foreground" Value="Black"/>
+
+                                        </Style>
+                                    </DataGrid.CellStyle>
+                                    <DataGrid.Columns>
+                                        <!--<DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*" Visibility="Hidden" />-->
+
+
+                                        <DataGridTextColumn Header="DOCUMENT TYPE" Binding="{Binding 'DOCUMENT_TYPE'}" Width="2*" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+
+                                        <DataGridTextColumn Header="MANDATORY" Binding="{Binding 'MANDATORY'}"  Width="0.5*"  >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                    <Setter Property="HorizontalAlignment" Value="Center" />
+
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+
+                                        <DataGridTextColumn Header="ITEMID" Binding="{Binding 'itemid'}"  Width="0.5*" Visibility="Hidden" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                    <Setter Property="HorizontalAlignment" Value="Left" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+
+                                        <DataGridTextColumn Header="FILEPATH" Binding="{Binding 'FILEPATH'}"  Width="0.5*" Visibility="Hidden" CanUserResize="True" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                    <Setter Property="HorizontalAlignment" Value="Left" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <DataGridTextColumn Header="STAGEITEMID" Binding="{Binding 'STAGEITEMID'}"  Width="0.5*" Visibility="Hidden" CanUserResize="True" >
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                    <Setter Property="HorizontalAlignment" Value="Left" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>
+                                        <!--<DataGridTextColumn Header="ACTION" Binding="{Binding Scannedon}"  Width="1*">-->
+                                        <!--<DataGridTextColumn Header="ACTION" Binding="{Binding 'SCAN'}"  Width="1*">
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>-->
+
+                                        <!--<Hyperlink>
+                                            <Hyperlink.Style>
+                                                <Style TargetType="Hyperlink"
+                   BasedOn="{StaticResource {x:Type Hyperlink}}">
+                                                    <Setter Property="Foreground" Value="#0C0"/>
+                                                </Style>
+                                            </Hyperlink.Style>
+                                            Mark as done
+                                        </Hyperlink>-->
+
+                                        <DataGridHyperlinkColumn  Header="SCAN" Binding="{Binding 'SCAN'}" Width="0.5*">
+
+                                            <DataGridHyperlinkColumn.CellStyle>
+                                                <Style TargetType="DataGridCell">
+
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding 'SCAN'}" Value="Scan">
+                                                            <Setter Property="Foreground" Value="Chocolate" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding 'SCAN'}" Value="View">
+                                                            <Setter Property="Foreground" Value="LimeGreen" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+
+                                                    <!--<Style.Resources>
+                                                        <Style TargetType="Hyperlink">
+                                                            <Setter Property="Foreground" Value="Chocolate"></Setter>
+                                                            
+
+                                                            -->
+                                                    <!--<Style.Triggers>
+                                                                <EventTrigger RoutedEvent="Hyperlink.Click">
+                                                                    <BeginStoryboard>
+                                                                        <Storyboard>
+                                                                            <ColorAnimation Storyboard.TargetProperty="Foreground.Color" From="Chocolate" To="BlueViolet" Duration="0:0:0.1"></ColorAnimation>
+                                                                        </Storyboard>
+                                                                    </BeginStoryboard>
+                                                                </EventTrigger>
+                                                            </Style.Triggers>-->
+                                                    <!--
+                                                        </Style>
+                                                       
+                                                    </Style.Resources>-->
+                                                </Style>
+                                            </DataGridHyperlinkColumn.CellStyle>
+                                            <DataGridHyperlinkColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <EventSetter Event="Hyperlink.Click" Handler="OnCellHyperlinkScanOrViewClick" />
+                                                </Style>
+                                            </DataGridHyperlinkColumn.ElementStyle>
+                                            <!--<DataGridHyperlinkColumn.ElementStyle>
+                                                <Style TargetType="Hyperlink"
+                   BasedOn="{StaticResource {x:Type Hyperlink}}">
+                                                    <Setter Property="Foreground" Value="#0C0"/>
+                                                </Style>
+                                                
+                                                -->
+                                            <!--<Style>
+                                                    -->
+                                            <!--<EventSetter Event="Hyperlink.Click" Handler="Hyperlink_Click"/>-->
+                                            <!--
+                                                </Style>-->
+                                            <!--
+                                            </DataGridHyperlinkColumn.ElementStyle>-->
+                                        </DataGridHyperlinkColumn>
+                                        <!--<DataGridTextColumn Header="SCAN AGAIN" Binding="{Binding 'RESCAN'}"  Width="1*">
+                                            <DataGridTextColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <Setter Property="VerticalAlignment" Value="Center" />
+                                                </Style>
+                                            </DataGridTextColumn.ElementStyle>
+                                        </DataGridTextColumn>-->
+
+
+                                        <DataGridHyperlinkColumn  Header="IMPORT" Binding="{Binding 'IMPORT'}" Width="0.5*">
+
+                                            <DataGridHyperlinkColumn.CellStyle>
+                                                <Style TargetType="DataGridCell">
+
+                                                    <Style.Triggers>
+                                                        <DataTrigger  Value="Import" Binding="{Binding 'IMPORT'}">
+                                                            <Setter Property="Foreground" Value="Chocolate" />
+                                                        </DataTrigger>
+
+
+
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </DataGridHyperlinkColumn.CellStyle>
+                                            <DataGridHyperlinkColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <EventSetter Event="Hyperlink.Click" Handler="OnCellHyperlinkimportClick" />
+                                                </Style>
+                                            </DataGridHyperlinkColumn.ElementStyle>
+                                        </DataGridHyperlinkColumn>
+
+                                        <DataGridHyperlinkColumn  Header="RESCAN" Binding="{Binding 'RESCAN'}" Width="0.5*">
+                                            <!--<DataGridHyperlinkColumn.ElementStyle>
+                                                <Style>
+                                                    -->
+                                            <!--<EventSetter Event="Hyperlink.Click" Handler="Hyperlink_Click"/>-->
+                                            <!--
+                                                </Style>
+                                            </DataGridHyperlinkColumn.ElementStyle>-->
+                                            <DataGridHyperlinkColumn.CellStyle>
+                                                <Style TargetType="DataGridCell">
+                                                    <!--<Setter Property="Background" Value="Transparent"></Setter>
+                                                    <Setter Property="BorderThickness" Value="0"></Setter>-->
+                                                    <Style.Resources>
+                                                        <Style TargetType="Hyperlink">
+                                                            <Setter Property="Foreground" Value="Gold"></Setter>
+                                                            <Setter Property="Background" Value="White"/>
+
+                                                            <!--<Style.Triggers>
+                                                                <EventTrigger RoutedEvent="Hyperlink.Click">
+                                                                    <BeginStoryboard>
+                                                                        <Storyboard>
+                                                                            <ColorAnimation Storyboard.TargetProperty="Foreground.Color" From="Chocolate" To="BlueViolet" Duration="0:0:0.1"></ColorAnimation>
+                                                                        </Storyboard>
+                                                                    </BeginStoryboard>
+                                                                </EventTrigger>
+                                                            </Style.Triggers>-->
+                                                            <!--<Style.Triggers>
+                                                                <EventTrigger RoutedEvent="Hyperlink.Click"/>
+                                                            </Style.Triggers>-->
+
+                                                        </Style>
+
+                                                    </Style.Resources>
+                                                </Style>
+                                            </DataGridHyperlinkColumn.CellStyle>
+                                            <DataGridHyperlinkColumn.ElementStyle>
+                                                <Style TargetType="TextBlock">
+                                                    <EventSetter Event="Hyperlink.Click" Handler="OnCellHyperlinkReScanClick" />
+                                                    <!--<EventSetter Event="Hyperlink.LostFocus" Handler="OnCellHyperlinkReScanLostFocus" />-->
+                                                </Style>
+                                            </DataGridHyperlinkColumn.ElementStyle>
+                                        </DataGridHyperlinkColumn>
+
+                                    </DataGrid.Columns>
+                                </DataGrid>
+
+                            </Grid>
+                        </Border>
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="5"  Margin="5,5" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                            <Grid Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="0.5*"/>
+                                    <RowDefinition Height="1.5*"/>
+                                </Grid.RowDefinitions>
+                                <Label Grid.Row="0" Content="Status" HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="Black" FontFamily="Roboto" FontSize="12" FontWeight="Bold" />
+
+                                <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center" Orientation="Horizontal">
+                                    <TextBlock HorizontalAlignment="Right" VerticalAlignment="Center" Margin="20,0">
+                                        <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" Click="Hyperlink_Click">
+                                            <!--<Run>
+                                                <Run.Text>
+                                                    <Binding Path="submittedDocNos"></Binding>
+                                                </Run.Text>
+                                            </Run>-->
+                                           <TextBlock x:Name="txtSubmittedWorkItems" />
+        
+    </Hyperlink>
+                                    </TextBlock>
+                                    <!--<TextBlock   Text="" Grid.Row="0"  Margin="5" HorizontalAlignment="Right" VerticalAlignment="Center"  Foreground="Black" FontFamily="Roboto" FontSize="12" FontWeight="Bold" />
+                                    <Label Content=")" Foreground="Gray" FontWeight="SemiBold"  HorizontalAlignment="Right" VerticalAlignment="Center"  />-->
+                                </StackPanel>
+
+                                <Grid Grid.Row="1" Margin="5,0">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="4*"/>
+                                        <ColumnDefinition Width="29*"/>
+                                        <ColumnDefinition Width="65*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Border BorderBrush="#FF0B232F" BorderThickness="1" VerticalAlignment="Top" CornerRadius="5" Height="70" Grid.ColumnSpan="3" >
+                                        <TextBlock  x:Name="lblStatusbar" Margin="5,5" HorizontalAlignment="Left" FontFamily="Roboto" FontSize="16" FontWeight="Bold"  Foreground="Red" OpacityMask="Black" />
+                                    </Border>
+                                    <StackPanel Grid.Column="2" HorizontalAlignment="Stretch" VerticalAlignment="Bottom" Margin="170,-10,40,10">
+                                        <Button x:Name="btnClearLeftPane"  Content="CLEAR"  Background="#FDD017"  Foreground="Firebrick" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Visibility="Visible" BorderBrush="#00bcd4" BorderThickness="1" Height="25" Click="btnclear_Click"/>
+                                        <!--</StackPanel>-->
+                                    </StackPanel>
+                                </Grid>
+                            </Grid>
+                        </Border>
+                    </Grid>
+
+                    <Grid Grid.Row="0" Grid.Column="1">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition Width="0*"/>
+                            <!--<ColumnDefinition Width="97*"/>-->
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition/>
+                            <RowDefinition Height="5"/>
+                        </Grid.RowDefinitions>
+
+
+                        <!--<Border  Grid.Row="0" BorderBrush="#FF0B232F" BorderThickness="3" VerticalAlignment="Top" HorizontalAlignment="Left" >-->
+                        <!--<Grid Grid.Row="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1*"/>
+                                <ColumnDefinition Width="8*"/>
+                            </Grid.ColumnDefinitions>
+                        </Grid>-->
+
+
+                        <!--<UniformGrid Grid.Row="0"  Grid.Column="1" Columns="10" Rows="1" HorizontalAlignment="Right" VerticalAlignment="Top"   Margin="5,0">-->
+                        <!--shiva-->
+                        <Label x:Name="LblFileName"  Foreground="Gray" FontWeight="SemiBold"  HorizontalAlignment="Left" VerticalAlignment="Center"  />
+                        <StackPanel Grid.Row="0"  HorizontalAlignment="Right" VerticalAlignment="Top" Orientation="Horizontal"  Margin="0,5,5,0" Height="30" Width="676" x:Name="ECMViewerToolbar" >
+
+                            <Button ToolTip="First Page" Height="30" x:Name="BtnMoveFirst"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnMoveFirst_Click"  >
+                                <Image Height="24"  Source="Image\page-first.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Previous Page" Height="30" x:Name="BtnMoveLeft"  HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnMoveLeft_Click" >
+                                <Image Height="24"  Source="Image\chevron-left.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Next Page" Height="30" x:Name="BtnMoveRight"  HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnMoveRight_Click"  >
+                                <Image Height="24"  Source="Image\chevron-right.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Last Page"  Height="30" x:Name="BtnMoveLast"  HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnMoveLast_Click">
+                                <Image Height="24"  Source="Image\page-last.png" Width="20"/>
+                            </Button>
+                            <!--shiva-->
+
+                            <Button ToolTip="Zoom In" Height="30" x:Name="BtnZoomIn"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnZoomIn_Click">
+                                <Image Height="24"  Source="Image\magnify-plus.png" Width="20"/>
+                            </Button>
+                            <Button  ToolTip="Zoom Out"  Height="30"  x:Name="BtnZoomOut" HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnZoomOut_Click">
+                                <Image Height="24"  Source="Image\magnify-minus.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Fit With Height"  Height="30" x:Name="BtnFitWithHeight"  HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnFitWithHeight_Click">
+                                <Image Height="24"  Source="Image\hit.png" Width="20" />
+                            </Button>
+                            <Button ToolTip="Fit" Height="30" x:Name="BtnFit"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnFit_Click">
+                                <Image Height="24"  Source="Image\fit.png" Width="20"/>
+                            </Button>
+                            <Button  ToolTip="Fit with Width"  Height="30" x:Name="BtnFitwithWidth" HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" Click="BtnFitwithWidth_Click">
+                                <Image Height="24"  Source="Image\wit.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Rotate Right (F2)" Height="30" x:Name="BtnRotateRight" Click="BtnRotateRight_Click"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" >
+                                <Image Height="24"  Source="image\rotate-right.png" Width="20"/>
+                            </Button>
+                            <Button ToolTip="Rotate Left (F1)" Height="30" x:Name="BtnRotateLeft" Click="BtnRotateLeft_Click"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" >
+                                <Image Height="24"  Source="image\rotate-left.png" Width="20" />
+                            </Button>
+                            <Button ToolTip="Save Page" Height="30" x:Name="BtnPageSave" Click="BtnPageSave_Click"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" >
+                                <Image Height="24"  Source="image\content-save-outline.png" Width="20" />
+                            </Button>
+                            <Button ToolTip="Delete Page" Height="30" x:Name="BtnPageDelete" Click="BtnPageDelete_Click"   HorizontalAlignment="Left" VerticalAlignment="Top"  Background="{x:Null}" BorderBrush="Gray" BorderThickness="1" Foreground="White" >
+                                <Image Height="24"  Source="image\delete-forever-outline.png" Width="20"/>
+                            </Button>
+
+                        </StackPanel>
+                        <!--</UniformGrid>-->
+                        <!--</Border>-->
+
+                        <ECM:ECMViewer Grid.Row="1" x:Name="ECMViewer" Margin="5,0" />
+
+                        <StackPanel Grid.Row="1"  Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="10,10">
+
+                            <Button x:Name="btnClearRightPane"  Content="CLEAR" Height="60" Width="130"  Foreground="White" Background="Gold"  VerticalAlignment="Bottom" Visibility="Visible" BorderBrush="Gold" BorderThickness="1" Click="btnclearRightPane_Click" Margin="10,10" >
+                            </Button>
+
+                            <Button x:Name="btnRescan"  Content="RESCAN" Height="60" Width="130"  Foreground="White" Background="#ffa500" VerticalAlignment="Bottom" Visibility="Visible" BorderBrush="#00bcd4" BorderThickness="1" Click="btnRescan_Click" Margin="10,10"/>
+
+                            <Button x:Name="btnSubmit"  Content="SAVE" Height="60" Width="130"  Foreground="White" Background="#800080" VerticalAlignment="Bottom" Visibility="Visible" BorderBrush="#00bcd4" BorderThickness="1" Margin="10,10" />
+
+                            <Button x:Name="btnFinalSubmit"  Content="FINAL SUBMIT" Height="60" Width="130"  Foreground="White" Background="#00bcd4"  VerticalAlignment="Bottom" Visibility="Visible" BorderBrush="#00bcd4" BorderThickness="1" Margin="10,10" >
+                            </Button>
+                            <Button x:Name="btnReupload"  Content="REUPLOAD" Height="60" Width="130"  Foreground="White" Background="LightGreen"  VerticalAlignment="Bottom" Visibility="Visible" BorderBrush="LightGreen" BorderThickness="1" Click="btnimport_Click" Margin="10,10" >
+                            </Button>
+
+                            <!--</StackPanel>-->
+
+                        </StackPanel>
+
+                        <!--<Grid x:Name="AViewer" Grid.Row="1" Visibility="Collapsed" />-->
+                        <!--within file viewer-->
+
+
+                    </Grid>
+                </Grid>
+                <!--grid row 1 end-->
+
+
+
+
+                <Border x:Name="border7" Background="#B2FFFFFF" Opacity="20" Visibility="Collapsed" Height="auto" Margin="0,35,0,0" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3" />
+                <Border x:Name="border6" Background="#643094" BorderBrush="#FF7A7A7A" BorderThickness="1" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3"
+				VerticalAlignment="Center" HorizontalAlignment="Center" Margin="30"
+				Opacity="0" Visibility="Visible" RenderTransformOrigin="0.5,0.5">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+                    <Grid Height="250" Width="375" Background="White"  >
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="45"/>
+                            <RowDefinition Height="60"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel  Grid.Row="0" Orientation="Horizontal" Background="#00BCD4" >
+                            <Image   HorizontalAlignment="Left" Margin="1,0,0,0" Source="Image\logo.png"  />
+                            <Label Content="EZCAPTURE - TRADE FINANCE" Foreground="White" FontSize="16" Margin="0,5,0,0" />
+                        </StackPanel>
+                        <fa:ImageAwesome Icon="Spinner" Spin="True" Grid.Row="2" Grid.RowSpan="2" Foreground="#00a5ff"  Width="40" Name="btnSpin"  Visibility="Collapsed"/>
+                        <Label Grid.Row="4" Name="lblProgress"  Content="Processing..." VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" Height="26"/>
+                        <Label Grid.Row="5" Name="lblPcontent" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontStyle="Oblique"  Height="26"/>
+                        <Label Grid.Row="6" Name="lblmsg" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="7" Name="lblcomp" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+                        <Button Grid.Row="9" Visibility="Collapsed" x:Name="btncok" Content="OK" Height="25"  Foreground="White" Width="60" Margin="8,5,0,0"  Background="#FF48B1D8"  BorderBrush="White"  Click="btncok_Click"/>
+                        <Label Grid.Row="8" Name="lblexport" Content="" Margin="20,4,0,0" Foreground="Gray"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="8" Name="lblprocessed" Content="" Margin="180,5,0,0" Foreground="Green"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="8" Name="lblunprocessed" Content="" Margin="320,5,0,0" Foreground="Red" FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Image Grid.Row="8" x:Name="info"  Source="Image\logo.png" Width="15" Height="15" Margin="180,6,0,0" Visibility="Collapsed" ToolTip="Redo the scan for unprocessed files or contact support team"></Image>
+
+                        <Label Grid.Row="10" Content="@EZOFIS INC. All Rights Reserved" Foreground="#707070" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="25" FontSize="10"/>
+                        <Button Grid.Row="10" x:Name="btnlog" Content="LOG" Height="25" Foreground="White" Width="70" Margin="-350,-5,0,0" Background="#ff5c33" Visibility="Collapsed"  BorderBrush="White" Click="btnlog_Click"/>
+                        <Button Grid.Row="10" x:Name="btnpop" Content="OK" Height="25" Foreground="White" Width="70" Margin="350,-5,0,0" Background="#FF48B1D8" Visibility="Collapsed"  BorderBrush="White" Click="btnpop_Click"/>
+                    </Grid>
+                </Border>
+
+            </Grid>
+
+
+
+        </Border>
+        <Border x:Name="border1" Background="White" Opacity="0.5" Visibility="Collapsed"  >
+            <StackPanel>
+                <fa:ImageAwesome Icon="Spinner" Spin="True"  Foreground="#00a5ff" Width="100" Name="btnSpin1"  Visibility="Visible" HorizontalAlignment="Center" VerticalAlignment="Center"  />
+                <TextBlock Text="Processing ...."  FontFamily="Roboto" FontSize="30" FontWeight="Bold" Foreground="Indigo" 
+					   HorizontalAlignment="Center" VerticalAlignment="Center" Visibility="Visible" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
+<!--
+
+                    
+                        
+                    
+                    <Border x:Name="border1" Grid.Row="1" Grid.RowSpan="4" Background="White" Opacity="0.5" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5" >
+                        -->
+<!--<Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>-->
+<!--
+                        <TextBlock Text="Processing ...."  FontFamily="Roboto" FontSize="30" FontWeight="Bold" Background="Indigo" Foreground="White" Margin="12"
+					   HorizontalAlignment="Center" VerticalAlignment="Center" />
+                    </Border>
+                
+
+
+                <Border x:Name="border7" Background="#B2FFFFFF" Opacity="20" Visibility="Collapsed" Height="auto" Margin="0,35,0,0" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3" />
+                <Border x:Name="border6" Background="#643094" BorderBrush="#FF7A7A7A" BorderThickness="1" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3"
+				VerticalAlignment="Center" HorizontalAlignment="Center" Margin="30"
+				Opacity="0" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5">
+                    <Border.RenderTransform>
+                        <TransformGroup>
+                            <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                            <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                    </Border.RenderTransform>
+                    <Grid Height="250" Width="375" Background="White">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="15"/>
+                            <RowDefinition Height="60"/>
+                            <RowDefinition Height="20"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="25"/>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40"/>
+                            <RowDefinition Height="40*"/>
+                        </Grid.RowDefinitions>
+                        <StackPanel  Grid.Row="1" Orientation="Horizontal">
+                            <Image   HorizontalAlignment="Left" Margin="50,0,0,0" Source="Image\logo.png"  />
+                            <Label Content="EZCAPTURE - TRADE FINANCE" Foreground="Black" FontSize="16" Margin="0,15,0,0" />
+                        </StackPanel>
+                        <fa:ImageAwesome Icon="Spinner" Spin="True" Grid.Row="3" Foreground="#00a5ff"  Width="18" Name="btnSpin"/>
+                        <Label Grid.Row="4" Name="lblProgress"  Content="Processing..." VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" Height="26"/>
+                        <Label Grid.Row="5" Name="lblPcontent" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontStyle="Oblique"  Height="26"/>
+                        <Label Grid.Row="6" Name="lblmsg" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="7" Name="lblcomp" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+                        <Button Grid.Row="9" Visibility="Collapsed" x:Name="btncok" Content="OK" Height="25"  Foreground="White" Width="60" Margin="8,5,0,0"  Background="#FF48B1D8"  BorderBrush="White"  Click="btncok_Click"/>
+                        <Label Grid.Row="8" Name="lblexport" Content="" Margin="20,4,0,0" Foreground="Gray"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="8" Name="lblprocessed" Content="" Margin="180,5,0,0" Foreground="Green"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Label Grid.Row="8" Name="lblunprocessed" Content="" Margin="320,5,0,0" Foreground="Red" FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                        <Image Grid.Row="8" x:Name="info"  Source="Image\logo.png" Width="15" Height="15" Margin="180,6,0,0" Visibility="Collapsed" ToolTip="Redo the scan for unprocessed files or contact support team"></Image>
+                        -->
+<!--<Button  Background="#00a5ff" Foreground="White" BorderBrush="White" Grid.Row="7" Margin="150,5,150,5"  Name="btnClose">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Close"/>
+                    </StackPanel>
+                </Button>-->
+<!--
+                        <Label Grid.Row="10" Content="@EZOFIS INC. All Rights Reserved" Foreground="#707070" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="25" FontSize="10"/>
+                        <Button Grid.Row="10" x:Name="btnlog" Content="LOG" Height="25" Foreground="White" Width="70" Margin="-350,-5,0,0" Background="#ff5c33" Visibility="Collapsed"  BorderBrush="White" Click="btnlog_Click"/>
+                        <Button Grid.Row="10" x:Name="btnpop" Content="OK" Height="25" Foreground="White" Width="70" Margin="350,-5,0,0" Background="#FF48B1D8" Visibility="Collapsed"  BorderBrush="White" Click="btnpop_Click"/>
+                    </Grid>
+                </Border>-->
+<!--</Grid>
+        </Border>
+    </Grid>
+</Window>-->
+<!--</DockPanel>-->
+
+
+
+<!--<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+          xmlns:fa="http://schemas.fontawesome.io/icons/"
+        xmlns:local="clr-namespace:ScanningTradeFinance"
+        mc:Ignorable="d"
+        Title="ScanningTradeFinance"  WindowStyle="None"  WindowStartupLocation="CenterScreen"  d:DesignWidth="1122" d:DesignHeight="615"  Icon="favicon (2).ico" ResizeMode="NoResize"  
+>
+    <Window.Resources>
+
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:BundledTheme BaseTheme="Light" PrimaryColor="LightBlue"  SecondaryColor="DeepPurple" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+            <Storyboard x:Key="PageProgress1" >
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border7">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.2" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleX)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[0].(ScaleTransform.ScaleY)" Storyboard.TargetName="border6">
+                    <SplineDoubleKeyFrame KeyTime="0:0:0.3" Value="1"/>
+                    <SplineDoubleKeyFrame KeyTime="0:0:1.3" Value="1"/>
+                </DoubleAnimationUsingKeyFrames>
+
+
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border6">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+                <ObjectAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Visibility)" Storyboard.TargetName="border7">
+                    <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="{x:Static Visibility.Visible}"/>
+                    <DiscreteObjectKeyFrame KeyTime="0:0:1.3" Value="{x:Static Visibility.Visible}"/>
+                </ObjectAnimationUsingKeyFrames>
+            </Storyboard>
+
+        </ResourceDictionary>
+
+    </Window.Resources>
+
+
+    <Grid>
+        
+  
+    -->
+<!--<DockPanel Background="GhostWhite">-->
+<!--
+    <Border BorderThickness="1" BorderBrush="Black" >        
+  
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="45"/>
+                <RowDefinition Height="160"/>
+                <RowDefinition Height="2*"/>
+                <RowDefinition Height="4*"/>
+                <RowDefinition Height="160"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0"  >
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="5"/>
+                </Grid.RowDefinitions>
+
+                <Grid x:Name="mainhead" Grid.Row="0" Background="#00BCD4" MouseDown="mainhead_MouseDown">
+                    <StackPanel HorizontalAlignment="Left" Margin="50,3,0,0">
+                        <Label Content="EZCAPTURE - TRADE FINANCE" Foreground="White" FontSize="16" />
+                    </StackPanel>
+                    <StackPanel  Orientation="Horizontal"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Center">
+
+                        <Button x:Name="MinimizeButton" Background="White"  ToolTip="Minimize"
+                KeyboardNavigation.IsTabStop="False"
+                Click="MinimizeButton_Click">
+                            <Image Source="/Image/icons8-macos-minimize-32.png"  HorizontalAlignment="Left" />
+                        </Button>
+
+                        <Button x:Name="CloseButton"  ToolTip="close"  Background="Red" 
+                KeyboardNavigation.IsTabStop="False" Click="CloseButton_Click"
+                >
+                            <Image Source="/Image/cancel.png"  HorizontalAlignment="Left"  />
+                        </Button>
+
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="0" Grid.RowSpan="2">
+                    <Image Source="/Image/logo.png"  HorizontalAlignment="Left" />
+                </Grid>
+
+
+            </Grid>
+            <Grid Grid.Row="1" Margin="25,25">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="200*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="120*"/>
+                </Grid.ColumnDefinitions>
+
+                <Label  Grid.Row="0"  Grid.Column="0" Content="ACCOUNT NUMBER"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black"  />
+                <TextBox Grid.Row="0"  Grid.Column="1" Margin="5,3" x:Name="txtAccountNo"   BorderThickness="1"   BorderBrush="#837E7C"  TextWrapping="Wrap" Text=""   SelectionBrush="Black" Foreground="Black" FontSize="12" FontWeight="Medium" FontFamily="Roboto"  />
+
+
+                <Label Grid.Row="1"  Grid.Column="0" Content="[OR]"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black"/>
+                <Button Margin="10,0" Grid.Row="0"  Grid.Column="2"   x:Name="btnVERIFY" Content="VERIFY" Background="#FDD017"  Foreground="Firebrick" VerticalAlignment="Top" />
+                <Label Grid.Row="2"  Grid.Column="0" Content="WORK ITEM REFERENCE"   FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black" />
+                <TextBox Grid.Row="2"  Grid.Column="1"  Margin="5,3" x:Name="txtWorkItemNo"    BorderThickness="1"   BorderBrush="#837E7C"  TextWrapping="Wrap" Text=""   FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"/>
+                <Button Margin="10,0" Grid.Row="2"  Grid.Column="2"   x:Name="btnVERIFYWorkItem" Content="VERIFY" Background="#FDD017"  Foreground="Firebrick" VerticalAlignment="Top" />
+
+                <GridSplitter Grid.Column ="3" Background="Gray" Width="1" Grid.RowSpan="3"  HorizontalAlignment="Right" VerticalAlignment="Stretch"/>
+
+                <Label Grid.Row="0"  Grid.Column="4" Content="PRODUCT LIST"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black"  />
+
+                    <ComboBox  materialDesign:HintAssist.Hint="select Product" Margin="5,3" x:Name="cbProductList"  Grid.Row="0"  Grid.Column="5" FontSize="12" FontWeight="Medium"  Foreground="Black"  BorderThickness="1"  ItemsSource="{Binding}" IsEditable="False">
+                </ComboBox>
+                <Label Grid.Row="1"  Grid.Column="4" Content="PHASE"  FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black"  />
+                    <ComboBox   x:Name="cbPhase" materialDesign:HintAssist.Hint="select Phase"  Grid.Row="1" Margin="5,3" Grid.Column="5" FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"  BorderThickness="1"     ItemsSource="{Binding}">
+                </ComboBox>
+                <Label Grid.Row="2"  Grid.Column="4" Content="DOCUMENT TYPE"   FontFamily="Roboto" FontSize="12" FontWeight="Medium" Foreground="Black"  />
+                    <ComboBox   x:Name="cbDocumentType" materialDesign:HintAssist.Hint="select Document Type"   Grid.Row="2"  Grid.Column="5" Margin="5,3" VerticalAlignment="Center"   FontFamily="Roboto"  FontSize="12" FontWeight="Medium" Foreground="Black"   BorderThickness="1"   BorderBrush="#837E7C"  ItemsSource="{Binding}" ScrollViewer.VerticalScrollBarVisibility="Visible" ScrollViewer.HorizontalScrollBarVisibility="Auto" SelectionChanged="cbDocumentType_SelectionChanged">
+                </ComboBox>
+                <GridSplitter Grid.Column ="6" Background="Gray" Width="1" Grid.RowSpan="3" Margin="5"  HorizontalAlignment="Right" VerticalAlignment="Stretch"/>
+                <StackPanel Grid.Row="0" Grid.RowSpan="3"  Grid.Column="7" Orientation="Vertical" Margin="0,0,0,0">
+                    <Button x:Name="btnINITIATESCANNING"    Height="65" IsEnabled="False" Grid.RowSpan="3" Foreground="White" Margin="0,5,0,3" >
+                        <TextBlock Text="INITIATE SCANNING" TextWrapping="Wrap"  TextAlignment="Center"/>
+                    </Button>
+                    <Button x:Name="btnclear" Height="Auto" Background="Orange" BorderBrush="Orange"  Grid.RowSpan="3" Foreground="White" Margin="5" Click="btnclear_Click" >
+                        <TextBlock Text="Clear" TextWrapping="Wrap"  TextAlignment="Center"/>
+                    </Button>
+                </StackPanel>
+               
+
+            </Grid>
+
+            <Grid Grid.Row="2" >
+                <DataGrid x:Name="gridAccountDetails" BorderBrush="Gray" BorderThickness="1"  GridLinesVisibility="All"  HorizontalGridLinesBrush="Black"
+          VerticalGridLinesBrush="LightGray"  AutoGenerateColumns="False" IsReadOnly="True" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" ItemsSource="{Binding}" Margin="5" AlternatingRowBackground = "LightBlue">
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+                    <DataGrid.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="FontWeight" Value="Medium"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Style>
+                    </DataGrid.CellStyle>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="ACCOUNT NUMBER" Binding="{Binding AccountNo}" Width="*" />
+                        <DataGridTextColumn Header="ACCOUNT TYPE" Binding="{Binding AccountType}"  Width="*"  />
+                        <DataGridTextColumn Header="RIM NUMBER" Binding="{Binding RIMNumber}"  Width="*" />
+                        <DataGridTextColumn Header="STATUS" Binding="{Binding Status}"  Width="*" />
+                        -->
+<!--<DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*"  />-->
+<!--
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Label Grid.Row="0"  Margin="5,3" Content="Submitted Document" HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="Black" FontFamily="Roboto" FontSize="12" FontWeight="Bold"/>
+
+
+                <DataGrid Grid.Row="1" x:Name="gridSubmittedDocuments" BorderBrush="Gray" BorderThickness="1"  GridLinesVisibility="All"  HorizontalGridLinesBrush="Black"
+          VerticalGridLinesBrush="LightGray" AutoGenerateColumns="False" IsReadOnly="True" CanUserResizeColumns="True" CanUserAddRows="False" CanUserSortColumns="True" ItemsSource="{Binding}" Margin="5,0" AlternatingRowBackground = "LightBlue">
+                    <DataGrid.ColumnHeaderStyle>
+                        <Style TargetType="DataGridColumnHeader">
+                            <Setter Property="FontWeight" Value="Bold"/>
+                            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Style>
+                    </DataGrid.ColumnHeaderStyle>
+                    <DataGrid.CellStyle>
+                        <Style TargetType="DataGridCell">
+                            <Setter Property="FontWeight" Value="Medium"/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Style>
+                    </DataGrid.CellStyle>
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="WORK ITEM REFERENCE" Binding="{Binding WORKITEMNO}"  Width="*" />
+                        <DataGridTextColumn Header="PRODUCT" Binding="{Binding PRODUCT}" Width="*" />
+                        <DataGridTextColumn Header="PHASE" Binding="{Binding PHASE}" Width="*" />
+                        <DataGridTextColumn Header="SUBMITTED FILES" Binding="{Binding SUBMITTEDFiles}" Width="*" />
+                        <DataGridTextColumn Header="NO OF PAGES" Binding="{Binding NoPage}"  Width="*"  />
+                        <DataGridTextColumn Header="SCANNED AT" Binding="{Binding ScannedAt}"  Width="*" />
+                        <DataGridTextColumn Header="SCANNED BY" Binding="{Binding Scannedby}"  Width="*" />
+                        <DataGridTextColumn Header="SCANNED ON" Binding="{Binding Scannedon}"  Width="*" />
+                    </DataGrid.Columns>
+                </DataGrid>
+
+
+                -->
+<!--<ListView x:Name="ListView1" Margin="10" Grid.Row="1">
+                <ListView.View>
+                    <GridView AllowsColumnReorder="true" ColumnHeaderToolTip="Authors">
+                        <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" />
+                        <GridViewColumn Header="Age" DisplayMemberBinding="{Binding Age}" />
+                        <GridViewColumn Header="Book"  DisplayMemberBinding="{Binding Book}" />
+                        <GridViewColumn Header="MVP" DisplayMemberBinding="{Binding Mvp}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>-->
+<!--
+
+            </Grid>
+            <Grid Grid.Row="4">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="20*"/>
+                    <RowDefinition Height="10*"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Content="Status" HorizontalAlignment="Left" VerticalAlignment="Top"  Foreground="Black" FontFamily="Roboto" FontSize="15" FontWeight="Bold" />
+                -->
+<!--  <Rectangle  Grid.Row="1" Fill="Transparent" Margin="5" Stroke="Black" StrokeThickness="1"  Width="1000" Height="50" RadiusY="5" RadiusX="5"/>-->
+<!--
+
+                <Grid Grid.Row="1" Margin="5,0">
+                    <Border BorderBrush="#FF0B232F" BorderThickness="1" VerticalAlignment="Top" Height="90" CornerRadius="5" >
+                        <TextBlock  x:Name="lblStatusbar" Margin="5,5" HorizontalAlignment="Left" FontFamily="Roboto" FontSize="20" FontWeight="Bold"  Foreground="Red" OpacityMask="Black" />
+                    </Border>
+                </Grid>
+                <StackPanel  Grid.Row="2" HorizontalAlignment="Right" Background="White" Width="150" Margin="5">
+                    <Label HorizontalAlignment="Center" VerticalAlignment="Center" Foreground="Gray" Margin="0,7,0,0" FontWeight="Bold"   Content="@ EZOFIS INC"  />
+                </StackPanel>
+            </Grid>
+            <Border x:Name="border1" Grid.Row="1" Grid.RowSpan="4" Background="White" Opacity="0.5" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5" >
+                -->
+<!--<Border.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Border.RenderTransform>-->
+<!--
+                <TextBlock Text="Processing ...."  FontFamily="Roboto" FontSize="30" FontWeight="Bold" Background="Indigo" Foreground="White" Margin="12"
+					   HorizontalAlignment="Center" VerticalAlignment="Center" />
+            </Border>
+        </Grid>
+      
+    </Border>
+    <Border x:Name="border7" Background="#B2FFFFFF" Opacity="20" Visibility="Collapsed" Height="auto" Margin="0,35,0,0" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3" />
+    <Border x:Name="border6" Background="#643094" BorderBrush="#FF7A7A7A" BorderThickness="1" Grid.RowSpan="2" Grid.Column="0" Grid.ColumnSpan="3"
+				VerticalAlignment="Center" HorizontalAlignment="Center" Margin="30"
+				Opacity="0" Visibility="Collapsed" RenderTransformOrigin="0.5,0.5">
+        <Border.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform ScaleX="0.4" ScaleY="0.4"/>
+                <SkewTransform/>
+                <RotateTransform/>
+                <TranslateTransform/>
+            </TransformGroup>
+        </Border.RenderTransform>
+        <Grid Height="250" Width="375" Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="15"/>
+                <RowDefinition Height="60"/>
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40*"/>
+            </Grid.RowDefinitions>
+            <StackPanel  Grid.Row="1" Orientation="Horizontal">
+                <Image   HorizontalAlignment="Left" Margin="50,0,0,0" Source="Image\logo.png"  />
+                 <Label Content="EZCAPTURE - TRADE FINANCE" Foreground="Black" FontSize="16" Margin="0,15,0,0" />
+                </StackPanel>
+            <fa:ImageAwesome Icon="Spinner" Spin="True" Grid.Row="3" Foreground="#00a5ff"  Width="18" Name="btnSpin"/>
+            <Label Grid.Row="4" Name="lblProgress"  Content="Processing..." VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" Height="26"/>
+            <Label Grid.Row="5" Name="lblPcontent" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="SemiBold" FontStyle="Oblique"  Height="26"/>
+            <Label Grid.Row="6" Name="lblmsg" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+            <Label Grid.Row="7" Name="lblcomp" Content="" VerticalAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Medium"  FontStyle="Normal"  Height="26"/>
+            <Button Grid.Row="9" Visibility="Collapsed" x:Name="btncok" Content="OK" Height="25"  Foreground="White" Width="60" Margin="8,5,0,0"  Background="#FF48B1D8"  BorderBrush="White"  Click="btncok_Click"/>
+            <Label Grid.Row="8" Name="lblexport" Content="" Margin="20,4,0,0" Foreground="Gray"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+            <Label Grid.Row="8" Name="lblprocessed" Content="" Margin="180,5,0,0" Foreground="Green"  FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+            <Label Grid.Row="8" Name="lblunprocessed" Content="" Margin="320,5,0,0" Foreground="Red" FontWeight="Medium" FontStyle="Normal"  Height="26"/>
+                <Image Grid.Row="8" x:Name="info"  Source="Image\logo.png" Width="15" Height="15" Margin="180,6,0,0" Visibility="Collapsed" ToolTip="Redo the scan for unprocessed files or contact support team"></Image>
+            -->
+<!--<Button  Background="#00a5ff" Foreground="White" BorderBrush="White" Grid.Row="7" Margin="150,5,150,5"  Name="btnClose">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="Close"/>
+                    </StackPanel>
+                </Button>-->
+<!--
+            <Label Grid.Row="10" Content="@EZOFIS INC. All Rights Reserved" Foreground="#707070" VerticalAlignment="Center" HorizontalContentAlignment="Center" Height="25" FontSize="10"/>
+            <Button Grid.Row="10" x:Name="btnlog" Content="LOG" Height="25" Foreground="White" Width="70" Margin="-350,-5,0,0" Background="#ff5c33" Visibility="Collapsed"  BorderBrush="White" Click="btnlog_Click"/>
+            <Button Grid.Row="10" x:Name="btnpop" Content="OK" Height="25" Foreground="White" Width="70" Margin="350,-5,0,0" Background="#FF48B1D8" Visibility="Collapsed"  BorderBrush="White" Click="btnpop_Click"/>
+        </Grid>
+    </Border>
+    </Grid>
+    -->
+<!--</DockPanel>-->
+<!--
+</Window>-->

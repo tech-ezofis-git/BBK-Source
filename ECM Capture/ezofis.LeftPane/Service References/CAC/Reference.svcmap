@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="8cb8be55-d95b-49c8-b08c-a0ad4a2e8f50" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings>
+      <CollectionMapping TypeName="System.Collections.Generic.List`1" Category="List" />
+    </CollectionMappings>
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://52.172.32.88/Invitaezofisservice/cacservice.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="CACservice5.xsd" MetadataType="Schema" ID="e319cddc-0b91-4b86-b3d6-bb21f7cfd966" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?xsd=xsd2" />
+    <MetadataFile FileName="CACservice51.xsd" MetadataType="Schema" ID="7a697abf-3376-494c-bcf6-c02eb4c67c70" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?xsd=xsd3" />
+    <MetadataFile FileName="CACservice52.xsd" MetadataType="Schema" ID="f89bb400-ef97-4d3d-85f3-1ba64db68fa6" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?xsd=xsd4" />
+    <MetadataFile FileName="CACservice1.disco" MetadataType="Disco" ID="67e3608c-fda9-4776-b71e-1036be915756" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?disco" />
+    <MetadataFile FileName="CACservice1.wsdl" MetadataType="Wsdl" ID="79fef779-3274-431e-9736-9dbe04cd4ef2" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?wsdl" />
+    <MetadataFile FileName="CACservice53.xsd" MetadataType="Schema" ID="a4300eb9-79df-43f8-9338-62ee25d8c67e" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?xsd=xsd0" />
+    <MetadataFile FileName="CACservice54.xsd" MetadataType="Schema" ID="cfba1eef-3b7b-458d-884e-ef305f886ad5" SourceId="1" SourceUrl="http://52.172.32.88/Invitaezofisservice/CACservice.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

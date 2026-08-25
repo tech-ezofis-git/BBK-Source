@@ -1,0 +1,600 @@
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbprojAssemblyReference.cache
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CopyComplete
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\WindowsApp1.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Twain.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\WindowsApp1.pdb
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\WindowsApp1.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\WindowsApp1.dll.config
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Twain.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.dll.config
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\SautinSoft.PdfFocus.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\UseOffice.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe.config
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Ocr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Writer.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.Core.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.Color.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.Effects.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Svg.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Drawing.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.Utilities.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Vector.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ColorConversion.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Ocr.LEADEngine.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Ocr.OmniPageArabicEngine.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Ocr.OmniPageEngine.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.3js.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Abc.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Abi.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Afp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ani.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Anz.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Bmp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cal.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cgm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cin.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Clp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cmp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cmw.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cmx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Crw.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Cut.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dcf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dcr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dcs.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dgn.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Doc.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dox.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Drw.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dwf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dwg.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Dxf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.E00.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Eps.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Fax.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Fit.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Flc.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Fpx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Gbr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Gif.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Hdp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Htm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ica.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Iff.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Img.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ing.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Itg.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.J2k.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Jb2.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Jbg.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Jls.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Jpm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Jxr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Kdc.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Lma.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Lmb.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Mac.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Mif.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Mng.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Mob.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Msp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Nap.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pcd.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pcl.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pct.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pcx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Png.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pnm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ppt.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ppx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Psd.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pst.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ptk.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Pub.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Ras.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Raw.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Rtf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Sct.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Sff.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Sgi.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Shp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Smp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Snp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Stl.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Tdb.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Tfx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Tga.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Tif.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Txt.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Vff.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Wfx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Wmf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Wmp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Wmz.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Wpg.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.X9F.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xbm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xls.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xlx.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xmp.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xpm.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xps.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Codecs.Xwd.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Controls.Wpf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Compare.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Converter.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Pdf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Raster.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Viewer.WinForms.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Document.Viewer.Wpf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Drawing.D2D.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Auto.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Commands.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Common.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.DocumentWriters.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Ocr.Advantage.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Ocr.Arabic.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Ocr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Ocr.Plus.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Processing.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Processing.Omr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Recognition.Barcode.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Recognition.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Recognition.Ocr.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Recognition.Search.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageOptimization.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.Kernel.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.ImageProcessing.SpecialEffects.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpeg2000.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.Client.Decoder.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.Client.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.Client.WinForms.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.Server.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Jpip.Server.Parser.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Kernel.Annotations.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Logging.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.MediaWriter.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Medical3D.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Medical3D.Engine9.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.MedicalViewer.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Mrc.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Pdf.Annotations.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Pdf.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Windows.D2DRendering.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Windows.Media.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Windows.Media.TransitionBase.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.WinForms.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.DocumentWriters.xml
+D:\shiva\task\invita\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Leadtools.Forms.Ocr.xml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe.config
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CopyComplete
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.pdb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.xml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbprojAssemblyReference.cache
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+E:\Working\Customers\Invita\2021\BBK Trade Finance Workflow\From Siva\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\stdole.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.pdb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EzofisScanInit.xml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe.config
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CopyComplete
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.Data.Edm.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.Data.Services.Client.dll
+D:\Shiva\TASK\invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CopyComplete
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+C:\Users\Ezofis\Documents\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CopyComplete
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+D:\kani live\Invita\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\stdole.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Scanning.56BF084C.Up2Date
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.dll
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\DocumentFormat.OpenXml.xml
+D:\kani live\Invita scanning trade finance\ScanningTradeFinance 1\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\stdole.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Scanning.56BF084C.Up2Date
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+F:\working\Customer\Invita\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+C:\ezofis\Project\Cursor\BBK\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+C:\ezofis\Project\Cursor\BBK\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+C:\ezofis\Project\Cursor\BBK\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\stdole.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Scanning.56BF084C.Up2Date
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+C:\Users\Ezofis\Downloads\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\stdole.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Application.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MainWindow.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\MessageWin.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\notifywin.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\Scanning.56BF084C.Up2Date
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe.config
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.exe
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.pdb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\ScanningTradeFinance.xml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\MaterialDesignColors.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\PdfiumViewer.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\Microsoft.mshtml.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\EnvDTE.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\stdole.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\MaterialDesignColors.pdb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.pdb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\MaterialDesignThemes.Wpf.xml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\Newtonsoft.Json.xml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\PdfiumViewer.xml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\bin\Debug\nl\PdfiumViewer.resources.dll
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.AssemblyReference.cache
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ECMViewer.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\LoginForm.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ECMViewer.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\LoginForm.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\MainWindow.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\MessageWin.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\notifywin.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScannerNotify.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\Application.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\GeneratedInternalTypeHelper.g.vb
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.cache
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance_MarkupCompile.lref
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\MainWindow.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\MessageWin.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\notifywin.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScannedDocumentDetails.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScannerNotify.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\SubmittedWorkItemsGrid.baml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.g.resources
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.Resources.resources
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.GenerateResource.cache
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.vbproj.CoreCompileInputs.cache
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\Scanning.56BF084C.Up2Date
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.exe
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.xml
+c:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ScanningTradeFinance.pdb
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ApiSupportMessageWin.baml
+C:\DFolder\Sara\ScanningTradeFinance\ScanningTradeFinance - with logs\ScanningTradeFinance\obj\Debug\ApiSupportMessageWin.g.vb

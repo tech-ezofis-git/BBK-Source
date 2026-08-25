@@ -1,0 +1,57 @@
+r4r01t.dln
+3
+General Word Processor	1	TXT
+General Word Processor for WordPerfect	2	TXT
+General Word Processor for UNICODE	3	TXT
+r4r03t.dln
+2
+2G Type 2	2	TXT
+2G Type 3	4	TXT
+r4r04t.dln
+1
+Rec ASCII (Standard)	0	TXT
+r4r05t.dln
+1
+Text for Word Processors / RTF	0	RTF
+r4r07t.dln
+1
+Rec ASCII (Formatted)	0	TXT
+r4r08t.dln
+1
+Rec ASCII (StandardEx)	0	TXT
+R4R11T.DLN
+31
+WordPerfect 8 converter	0	wpd
+WordPerfect 9, 10 converter	0_910	wpd
+Word 97, 2000 XP converter	1	doc
+Excel converter	2	xls
+HTML 4.0 converter	3	html
+HTML 3.2 converter	4	html
+Adobe PDF converter	5	pdf
+Adobe PDF edited converter	6	pdf
+Adobe PDF with image substitutes converter	7	pdf
+Adobe PDF with image on text converter	8	pdf
+Adobe PDF, image only converter	9	pdf
+RTF Word 6.0/95 converter	10	rtf
+RTF Word 97 converter	11	rtf
+RTF Word 2000 converter	12	rtf
+Publisher 98 converter	13	rtf
+PowerPoint 97 converter	14	rtf
+WordPad converter	15	rtf
+Standard Text converter	16	txt
+Smart Text converter	17	txt
+Stripped Text converter	18	txt
+Plain Text converter	19	txt
+Comma Delimited Text converter	20	txt
+Tab Delimited converter	21	txt
+XML converter	24	xml
+eBook converter	25	opf
+Standard Unicode Text Converter	26	txt
+Stripped Unicode Text Converter	27	txt
+Comma Delimited Unicode Text Converter	28	txt
+Formatted Unicode Text Converter	29	txt
+Microsoft Reader	30	lit
+WordML	31	xml
+R4R12T.dln
+1
+Rec PDF (Image On Text)	0	PDF

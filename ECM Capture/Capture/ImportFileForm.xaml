@@ -1,0 +1,42 @@
+﻿<Window x:Class="ImportFileForm"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Import" Height="530" Width="590" Loaded="Window_Loaded" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid  Height="530">
+        <Grid.RowDefinitions >
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="410" />
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left">
+            <Label Content="Processed by " HorizontalAlignment="Right" Margin="15,0,0,0"></Label>
+            <RadioButton x:Name="rbtscanned" IsChecked="True" Checked="rbtscanned_Checked" Content="Scanned" Margin="0,6,10,0" />
+            <RadioButton x:Name="rbtDigital" Content="Digital File" Checked="rbtscanned_Checked" Margin="0,6,10,0" />
+        </StackPanel>
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left">
+            <Label Content="Processed List by " HorizontalAlignment="Right" Margin="15,0,0,0"></Label>
+            <ComboBox Name="cmbprocesstype" SelectedIndex="0" Margin="15,0,0,0"  >
+                <ListBoxItem Content="Detected"/>
+                <ListBoxItem Content="Not Detected"/>
+            </ComboBox>
+        </StackPanel>
+        <DataGrid Name="DG1" Grid.Row="2" CanUserAddRows="False" IsReadOnly="True" CanUserDeleteRows="False" AutoGenerateColumns="False" Height="440" ItemsSource="{Binding}" ScrollViewer.VerticalScrollBarVisibility="Auto">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="SNO"  Binding="{Binding SNO}"/>
+                <DataGridTextColumn Header="Batch" Binding="{Binding BatchId}" Width="150"/>
+                <DataGridTextColumn Header="No of Files" Binding="{Binding No of Barcode}" />
+                <DataGridTextColumn Header="Total Pages" Binding="{Binding Total Page}" />
+                <DataGridTextColumn Header="Scanned Station" Binding="{Binding ScannedPC}" />
+                <DataGridTextColumn Header="ScannedOn" Binding="{Binding ScannedOn}" Width="141"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel Grid.Row="3" Orientation="Horizontal" HorizontalAlignment="Right">
+            <Label Name="lblresultBatch" Content="No. of Batch Selected : 0" HorizontalAlignment="Left" Margin="0,0,20,0"></Label>
+            <Label Name="lblresult" Content="No. of Files Selected : 0" HorizontalAlignment="Left" Margin="0,0,20,0"></Label>
+            <Button Content="OK" Height="23" HorizontalAlignment="Right" Margin="2" Name="BtnOk" VerticalAlignment="Top" Width="75"  />
+            <Button Content="Cancel" Height="23" HorizontalAlignment="Right" Margin="2" Name="BtnCancel" VerticalAlignment="Top" Width="75"  />
+        </StackPanel>
+       
+    </Grid>
+</Window>

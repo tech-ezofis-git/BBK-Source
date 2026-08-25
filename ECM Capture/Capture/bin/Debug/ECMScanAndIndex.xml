@@ -1,0 +1,326 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ECMScanAndIndex
+</name>
+</assembly>
+<members>
+<member name="T:ECMScanAndIndex.My.Resources.Main">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.BlackPage">
+<summary>
+  Looks up a localized string similar to Black Page.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Cabinet">
+<summary>
+  Looks up a localized string similar to Cabinet.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.CurrentPage">
+<summary>
+  Looks up a localized string similar to Current Page.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.ECMCapture">
+<summary>
+  Looks up a localized string similar to ECM - Capture.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.eZConfig">
+<summary>
+  Looks up a localized string similar to eZConfig.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.EzIndex">
+<summary>
+  Looks up a localized string similar to EzIndex.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Fields">
+<summary>
+  Looks up a localized string similar to Fields.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.FreeHand">
+<summary>
+  Looks up a localized string similar to Free Hand.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Home">
+<summary>
+  Looks up a localized string similar to Home.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Import">
+<summary>
+  Looks up a localized string similar to Import.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.LoadZones">
+<summary>
+  Looks up a localized string similar to Load Zones.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.LookupFields">
+<summary>
+  Looks up a localized string similar to Lookup Fields.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Magnify">
+<summary>
+  Looks up a localized string similar to Magnify.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Merge">
+<summary>
+  Looks up a localized string similar to Merge.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.OtherFormats">
+<summary>
+  Looks up a localized string similar to Other Formats.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Page">
+<summary>
+  Looks up a localized string similar to Page.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Record">
+<summary>
+  Looks up a localized string similar to Record.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Refresh">
+<summary>
+  Looks up a localized string similar to Refresh.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.RotateLeft">
+<summary>
+  Looks up a localized string similar to Rotate Left.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.RotateRight">
+<summary>
+  Looks up a localized string similar to Rotate Right.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Save">
+<summary>
+  Looks up a localized string similar to Save.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Scan">
+<summary>
+  Looks up a localized string similar to Scan.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.SelectAll">
+<summary>
+  Looks up a localized string similar to Select All / UnSelect All.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Settings">
+<summary>
+  Looks up a localized string similar to Settings.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.SinglePages">
+<summary>
+  Looks up a localized string similar to Single Pages.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.Template">
+<summary>
+  Looks up a localized string similar to Template.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.TiffFiles">
+<summary>
+  Looks up a localized string similar to Tiff Files.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.ZonalSettings">
+<summary>
+  Looks up a localized string similar to Zonal Settings.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.ZoomIn">
+<summary>
+  Looks up a localized string similar to Zoom In.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Main.ZoomOut">
+<summary>
+  Looks up a localized string similar to Zoom Out.
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ECMScanAndIndex.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:ECMScanAndIndex.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:ECMScanAndIndex.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:ECMScanAndIndex.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:ECMScanAndIndex.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:ECMScanAndIndex.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:ECMScanAndIndex.BarcodeTypeForm">
+<summary>
+BarcodeTypeForm
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.BarcodeTypeForm.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.ImportFileForm">
+<summary>
+ImportFileForm
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.ImportFileForm.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.LoginForm">
+<summary>
+LoginForm
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.LoginForm.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.Message">
+<summary>
+Message
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.Message.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.PaperSettings">
+<summary>
+PaperSettings
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.PaperSettings.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="F:ECMScanAndIndex.PdfEngineDialog.components">
+ <summary>
+ Required designer variable.
+ </summary>
+</member>
+<member name="M:ECMScanAndIndex.PdfEngineDialog.Dispose(System.Boolean)">
+ <summary>
+ Clean up any resources being used.
+ </summary>
+ <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+</member>
+<member name="M:ECMScanAndIndex.PdfEngineDialog.InitializeComponent">
+ <summary>
+ Required method for Designer support - do not modify
+ the contents of this method with the code editor.
+ </summary>
+</member>
+<member name="T:ECMScanAndIndex.SelectZonalFile">
+<summary>
+SelectZonalFile
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.SelectZonalFile.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:ECMScanAndIndex.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:ECMScanAndIndex.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>

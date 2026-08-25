@@ -1,0 +1,15 @@
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ECMLeftPane.baml
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ECMLeftPane.g.vb
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane_MarkupCompile.cache
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.g.resources
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.Resources.resources
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.vbproj.GenerateResource.Cache
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\ezofis.LeftPane.dll
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\ezofis.LeftPane.pdb
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\ezofis.LeftPane.xml
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\SautinSoft.ExcelToPdf.dll
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\SautinSoft.PdfFocus.dll
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\bin\Debug\UseOffice.dll
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.dll
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.xml
+D:\Current\ECM\wpffinal\testrib\ezofis.LeftPane\obj\Debug\ezofis.LeftPane.pdb

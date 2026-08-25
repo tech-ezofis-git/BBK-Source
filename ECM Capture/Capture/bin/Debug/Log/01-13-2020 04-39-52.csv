@@ -1,0 +1,15 @@
+DateTime,Status,Filename
+
+01-13-2020 04:39:52,Exporting Files Started  ,
+
+01-13-2020 04:39:56,Check Mandatory Fields : ,C:\imaging\Asiri With Barcode BW - Copy (2).tif
+
+01-13-2020 04:43:42,File Exported Successfully  ,C:\imaging\TNTicketPrinting.pdf
+
+01-13-2020 04:43:42,Error From ExportOther Files : System.IO.FileNotFoundException: No files found matching 'C:\imaging\TNTicketPrinting.pdf'.
+   at Microsoft.VisualBasic.FileSystem.Kill(String PathName)
+   at ezofis.UserControl.ECMRightPane.ExportOtherFiles(String filenames) in E:\Working\Customers\Invita\Implementation\ECM Capture\ezofis.LeftPane\ECMRightPane.xaml.vb:line 1740,TNTicketPrinting.pdf
+
+01-13-2020 04:43:42,Exporting Files Completed.,
+
+01-13-2020 04:43:42,Number of Files Exported : 0 Out Of 2,

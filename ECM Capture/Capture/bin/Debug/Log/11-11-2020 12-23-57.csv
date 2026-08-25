@@ -1,0 +1,15 @@
+DateTime,Status,Filename
+
+11-11-2020 12:23:58,Exporting Files Started  ,
+
+11-11-2020 12:23:58,Record Saved Successfully in eZFileupload table ,C:\imaging\10112020052550947.tif
+
+11-11-2020 12:23:58,item id : 1,C:\imaging\10112020052550947.tif
+
+11-11-2020 12:23:59,Record Saved Successfully in eZFileupload table ,C:\imaging\10112020123737798.tif
+
+11-11-2020 12:23:59,item id : 1,C:\imaging\10112020123737798.tif
+
+11-11-2020 12:23:59,Exporting Files Completed.,
+
+11-11-2020 12:23:59,Number of Files Exported : 2 Out Of 2,

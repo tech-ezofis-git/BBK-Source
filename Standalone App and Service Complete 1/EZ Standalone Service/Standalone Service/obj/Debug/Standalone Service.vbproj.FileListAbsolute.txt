@@ -1,0 +1,41 @@
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Standalone_Service.Resources.resources
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.GenerateResource.cache
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.CoreCompileInputs.cache
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.CopyComplete
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll.config
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.pdb
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.xml
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.dll
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.xml
+C:\Users\EZ002\source\repos\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.pdb
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll.config
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.pdb
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.xml
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.dll
+D:\shiva\harron\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.xml
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Standalone_Service.Resources.resources
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.GenerateResource.cache
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.CoreCompileInputs.cache
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.CopyComplete
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.dll
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.xml
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.pdb
+D:\shiva\harron\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbprojAssemblyReference.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll.config
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.pdb
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Ezofis Standalone Service.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.AssemblyReference.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Standalone_Service.Resources.resources
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.GenerateResource.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Standalone Service.vbproj.CoreCompileInputs.cache
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Standalo.BF558455.Up2Date
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.dll
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.xml
+C:\Users\Ezofis\Downloads\Standalone App and Service Complete 1\EZ Standalone Service\Standalone Service\obj\Debug\Ezofis Standalone Service.pdb
