@@ -1114,6 +1114,10 @@ Public Class ECMRightPane
                             cmbitems30.Background = Brushes.Yellow
                             cmbitems30.Content = "LSR"
                             cmb.Items.Add(cmbitems30)
+                            Dim cmbitemsLMT As New ComboBoxItem
+                            cmbitemsLMT.Background = Brushes.Yellow
+                            cmbitemsLMT.Content = "LMT"
+                            cmb.Items.Add(cmbitemsLMT)
 
                             '   AddHandler cmb.SelectionChanged, AddressOf cmb_SelectionChanged
                         Else
