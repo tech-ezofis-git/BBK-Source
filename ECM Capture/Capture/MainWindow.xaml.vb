@@ -435,46 +435,8 @@ Partial Public Class MainWindow
         End Try
     End Sub
     Public Sub checklicense()
-        Try
-            If Appcon(Encrypt("License")) = 1 Then
-                If Lic.IsCanRunWithEncrypt() = True Then
-                    If Lic.canrun <> 1 Then
-                        msg.ShowDialog()
-                    End If
-                Else
-                    If Lic.canrun = 4 Then
-                        msg.ShowDialog()
-                        Application.Current.Shutdown()
-                    ElseIf Lic.canrun = 3 Then
-                        msg.ShowDialog()
-                        Application.Current.Shutdown()
-                    Else
-                        msg.ShowDialog()
-                        Application.Current.Shutdown()
-                    End If
-                End If
-            Else
-                Dim status As String = ""
-                Dim ecmlic As New WindowsApplication1.ECMLicense
-                Dim licensed = ecmlic.CheckLicense("ezofis Scan and Index", status)
-                If IsNumeric(licensed) Then
-                    If licensed = "0" Or licensed = "2" Then
-                        MsgBox(status)
-                        Application.Current.Shutdown()
-                    Else
-                        If licensed <> "1" Then
-                            MsgBox(status)
-                        End If
-                    End If
-                Else
-                    MsgBox("From License : " + status + " - " + licensed)
-                    Application.Current.Shutdown()
-                End If
-            End If
-        Catch ex As Exception
-            MsgBox(ex.ToString)
-            Application.Current.Shutdown()
-        End Try
+        ' License expiry / remaining-days popup disabled. Do not call CheckLicense or Licence.ShowDialog here.
+        Return
     End Sub
     Public Sub BackGroundWorkerAssign()
         'Dim savedo As New ComponentModel.DoWorkEventHandler(AddressOf SaveDelete_DoWork)

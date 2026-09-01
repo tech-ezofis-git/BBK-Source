@@ -91,7 +91,7 @@ Public Class ECMRightPane
                 SaveRecords(CurrentFnInRightPane)
             End If
             templateid = ddlsttem.SelectedValue
-            TemplateName = ddlsttem.Text.ToString()
+            TemplateName = GetSelectedTemplateName()
             If templateid <> 0 Then
                 'Dim obj As New List(Of eZTempBarcode)
                 'Dim CAC As New CACserviceClient
@@ -107,6 +107,19 @@ Public Class ECMRightPane
             ECMLeftPane.Refresh()
         End Try
     End Sub
+    Private Function GetSelectedTemplateName() As String
+        Dim selectedTemplate = TryCast(ddlsttem.SelectedItem, eZTemplate)
+        If selectedTemplate IsNot Nothing AndAlso Not String.IsNullOrEmpty(selectedTemplate.TemplateName) Then
+            Return selectedTemplate.TemplateName
+        End If
+        If Not String.IsNullOrEmpty(TemplateName) Then
+            Return TemplateName
+        End If
+        If ddlsttem.Text IsNot Nothing Then
+            Return ddlsttem.Text.ToString()
+        End If
+        Return ""
+    End Function
     Private Sub UserControl_Loaded(ByVal sender As System.Object, ByVal e As System.Windows.RoutedEventArgs) Handles MyBase.Loaded
         Try
             '  IndexingFieldPanel.Height = scr.Height - 5
@@ -1090,6 +1103,15 @@ Public Class ECMRightPane
                             cmbitems24.Background = Brushes.Yellow
                             cmbitems24.Content = "LMS"
                             cmb.Items.Add(cmbitems24)
+
+                            Dim currentTemplateName As String = GetSelectedTemplateName()
+                            If Not String.IsNullOrEmpty(currentTemplateName) AndAlso currentTemplateName.IndexOf("Retail", StringComparison.OrdinalIgnoreCase) >= 0 Then
+                                Dim cmbLmt As New ComboBoxItem
+                                cmbLmt.Background = Brushes.Yellow
+                                cmbLmt.Content = "LMT"
+                                cmb.Items.Add(cmbLmt)
+                            End If
+
                             Dim cmbitems25 As New ComboBoxItem
                             cmbitems25.Background = Brushes.Yellow
                             cmbitems25.Content = "LNB"
@@ -1114,10 +1136,6 @@ Public Class ECMRightPane
                             cmbitems30.Background = Brushes.Yellow
                             cmbitems30.Content = "LSR"
                             cmb.Items.Add(cmbitems30)
-                            Dim cmbitemsLMT As New ComboBoxItem
-                            cmbitemsLMT.Background = Brushes.Yellow
-                            cmbitemsLMT.Content = "LMT"
-                            cmb.Items.Add(cmbitemsLMT)
 
                             '   AddHandler cmb.SelectionChanged, AddressOf cmb_SelectionChanged
                         Else
